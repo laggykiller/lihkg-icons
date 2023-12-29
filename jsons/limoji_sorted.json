@@ -2961,6 +2961,11 @@
         "special": [
             [
                 "",
+                "angry_special.gif",
+                "angry_special.png"
+            ],
+            [
+                "",
                 "guitar.gif",
                 "guitar.png"
             ],
@@ -2971,6 +2976,11 @@
             ],
             [
                 "",
+                "angry_connect2.gif",
+                "angry_connect2.png"
+            ],
+            [
+                "",
                 "wheelchair_connect.gif",
                 "wheelchair_connect.png"
             ],
@@ -2978,16 +2988,6 @@
                 "",
                 "angry_connect.gif",
                 "angry_connect.png"
-            ],
-            [
-                "",
-                "angry_special.gif",
-                "angry_special.png"
-            ],
-            [
-                "",
-                "angry_connect2.gif",
-                "angry_connect2.png"
             ]
         ]
     },
@@ -3133,13 +3133,13 @@
             ],
             [
                 "",
-                "dog1.gif",
-                "dog1.png"
+                "dog2.gif",
+                "dog2.png"
             ],
             [
                 "",
-                "dog2.gif",
-                "dog2.png"
+                "dog1.gif",
+                "dog1.png"
             ]
         ]
     },
@@ -3686,28 +3686,8 @@
             ],
             [
                 "",
-                "colombia.gif",
-                "colombia.png"
-            ],
-            [
-                "",
-                "nigeria.gif",
-                "nigeria.png"
-            ],
-            [
-                "",
-                "peru.gif",
-                "peru.png"
-            ],
-            [
-                "",
-                "sweden.gif",
-                "sweden.png"
-            ],
-            [
-                "",
-                "russia.gif",
-                "russia.png"
+                "iceland.gif",
+                "iceland.png"
             ],
             [
                 "",
@@ -3716,13 +3696,33 @@
             ],
             [
                 "",
+                "russia.gif",
+                "russia.png"
+            ],
+            [
+                "",
+                "colombia.gif",
+                "colombia.png"
+            ],
+            [
+                "",
+                "sweden.gif",
+                "sweden.png"
+            ],
+            [
+                "",
                 "egypt.gif",
                 "egypt.png"
             ],
             [
                 "",
-                "iceland.gif",
-                "iceland.png"
+                "peru.gif",
+                "peru.png"
+            ],
+            [
+                "",
+                "nigeria.gif",
+                "nigeria.png"
             ]
         ]
     },
@@ -4065,43 +4065,8 @@
         "special": [
             [
                 "",
-                "smile.png",
-                "smile.png"
-            ],
-            [
-                "",
-                "devil.png",
-                "devil.png"
-            ],
-            [
-                "",
-                "wonder.png",
-                "wonder.png"
-            ],
-            [
-                "",
-                "kiss.png",
-                "kiss.png"
-            ],
-            [
-                "",
-                "oh.png",
-                "oh.png"
-            ],
-            [
-                "",
-                "frown.png",
-                "frown.png"
-            ],
-            [
-                "",
-                "good.png",
-                "good.png"
-            ],
-            [
-                "",
-                "wink.png",
-                "wink.png"
+                "angry_combo.gif",
+                "angry_combo.png"
             ],
             [
                 "",
@@ -4110,23 +4075,13 @@
             ],
             [
                 "",
-                "angry.png",
-                "angry.png"
+                "wonder.png",
+                "wonder.png"
             ],
             [
                 "",
-                "censored.png",
-                "censored.png"
-            ],
-            [
-                "",
-                "369_combo.gif",
-                "369_combo.png"
-            ],
-            [
-                "",
-                "angry_combo.gif",
-                "angry_combo.png"
+                "oh.png",
+                "oh.png"
             ],
             [
                 "",
@@ -4135,13 +4090,58 @@
             ],
             [
                 "",
-                "clown_combo.gif",
-                "clown_combo.png"
+                "angry.png",
+                "angry.png"
+            ],
+            [
+                "",
+                "kiss.png",
+                "kiss.png"
+            ],
+            [
+                "",
+                "censored.png",
+                "censored.png"
             ],
             [
                 "",
                 "clown.png",
                 "clown.png"
+            ],
+            [
+                "",
+                "369_combo.gif",
+                "369_combo.png"
+            ],
+            [
+                "",
+                "good.png",
+                "good.png"
+            ],
+            [
+                "",
+                "clown_combo.gif",
+                "clown_combo.png"
+            ],
+            [
+                "",
+                "devil.png",
+                "devil.png"
+            ],
+            [
+                "",
+                "frown.png",
+                "frown.png"
+            ],
+            [
+                "",
+                "wink.png",
+                "wink.png"
+            ],
+            [
+                "",
+                "smile.png",
+                "smile.png"
             ]
         ]
     },
@@ -5383,33 +5383,8 @@
         "special": [
             [
                 "",
-                "pig2.gif",
-                "pig2.png"
-            ],
-            [
-                "",
-                "smile.png",
-                "smile.png"
-            ],
-            [
-                "",
-                "devil.png",
-                "devil.png"
-            ],
-            [
-                "",
-                "dog1.gif",
-                "dog1.png"
-            ],
-            [
-                "",
                 "smile3.png",
                 "smile3.png"
-            ],
-            [
-                "",
-                "offtopic.png",
-                "offtopic.png"
             ],
             [
                 "",
@@ -5418,13 +5393,13 @@
             ],
             [
                 "",
-                "good.png",
-                "good.png"
+                "clown.png",
+                "clown.png"
             ],
             [
                 "",
-                "wink.png",
-                "wink.png"
+                "good.png",
+                "good.png"
             ],
             [
                 "",
@@ -5433,8 +5408,8 @@
             ],
             [
                 "",
-                "pig1.gif",
-                "pig1.png"
+                "devil.png",
+                "devil.png"
             ],
             [
                 "",
@@ -5443,8 +5418,33 @@
             ],
             [
                 "",
-                "clown.png",
-                "clown.png"
+                "dog1.gif",
+                "dog1.png"
+            ],
+            [
+                "",
+                "pig1.gif",
+                "pig1.png"
+            ],
+            [
+                "",
+                "wink.png",
+                "wink.png"
+            ],
+            [
+                "",
+                "smile.png",
+                "smile.png"
+            ],
+            [
+                "",
+                "offtopic.png",
+                "offtopic.png"
+            ],
+            [
+                "",
+                "pig2.gif",
+                "pig2.png"
             ]
         ]
     },
@@ -7032,13 +7032,13 @@
             ],
             [
                 "",
-                "roast_special.gif",
-                "roast_special.png"
+                "wind.gif",
+                "wind.png"
             ],
             [
                 "",
-                "wind.gif",
-                "wind.png"
+                "roast_special.gif",
+                "roast_special.png"
             ]
         ]
     }

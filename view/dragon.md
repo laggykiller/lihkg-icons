@@ -32,10 +32,10 @@
 | z | `#z#dragon` | ![z](../assets/faces/dragon/z.gif) | ![z](../assets/faces_png/dragon/z.png) |
 | wind | `#wind#dragon` | ![wind](../assets/faces/dragon/wind.gif) | ![wind](../assets/faces_png/dragon/wind.png) |
 | lihkg | `#lihkg#dragon` | ![lihkg](../assets/faces/dragon/lihkg.gif) | ![lihkg](../assets/faces_png/dragon/lihkg.png) |
+| angry_special | `` | ![angry_special](../angry_special.gif) | ![angry_special](../angry_special.png) |
 | guitar | `` | ![guitar](../guitar.gif) | ![guitar](../guitar.png) |
 | backpain_connect | `` | ![backpain_connect](../backpain_connect.gif) | ![backpain_connect](../backpain_connect.png) |
+| angry_connect2 | `` | ![angry_connect2](../angry_connect2.gif) | ![angry_connect2](../angry_connect2.png) |
 | wheelchair_connect | `` | ![wheelchair_connect](../wheelchair_connect.gif) | ![wheelchair_connect](../wheelchair_connect.png) |
 | angry_connect | `` | ![angry_connect](../angry_connect.gif) | ![angry_connect](../angry_connect.png) |
-| angry_special | `` | ![angry_special](../angry_special.gif) | ![angry_special](../angry_special.png) |
-| angry_connect2 | `` | ![angry_connect2](../angry_connect2.gif) | ![angry_connect2](../angry_connect2.png) |
 

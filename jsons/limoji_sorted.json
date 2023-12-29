@@ -2961,6 +2961,11 @@
         "special": [
             [
                 "",
+                "assets/faces/dragon/angry_special.gif",
+                "assets/faces_png/dragon/angry_special.png"
+            ],
+            [
+                "",
                 "assets/faces/dragon/guitar.gif",
                 "assets/faces_png/dragon/guitar.png"
             ],
@@ -2971,6 +2976,11 @@
             ],
             [
                 "",
+                "assets/faces/dragon/angry_connect2.gif",
+                "assets/faces_png/dragon/angry_connect2.png"
+            ],
+            [
+                "",
                 "assets/faces/dragon/wheelchair_connect.gif",
                 "assets/faces_png/dragon/wheelchair_connect.png"
             ],
@@ -2978,16 +2988,6 @@
                 "",
                 "assets/faces/dragon/angry_connect.gif",
                 "assets/faces_png/dragon/angry_connect.png"
-            ],
-            [
-                "",
-                "assets/faces/dragon/angry_special.gif",
-                "assets/faces_png/dragon/angry_special.png"
-            ],
-            [
-                "",
-                "assets/faces/dragon/angry_connect2.gif",
-                "assets/faces_png/dragon/angry_connect2.png"
             ]
         ]
     },
@@ -3133,13 +3133,13 @@
             ],
             [
                 "",
-                "assets/faces/lihkg/dog1.gif",
-                "assets/faces_png/lihkg/dog1.png"
+                "assets/faces/lihkg/dog2.gif",
+                "assets/faces_png/lihkg/dog2.png"
             ],
             [
                 "",
-                "assets/faces/lihkg/dog2.gif",
-                "assets/faces_png/lihkg/dog2.png"
+                "assets/faces/lihkg/dog1.gif",
+                "assets/faces_png/lihkg/dog1.png"
             ]
         ]
     },
@@ -3686,28 +3686,8 @@
             ],
             [
                 "",
-                "assets/faces/fifa/colombia.gif",
-                "assets/faces_png/fifa/colombia.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/nigeria.gif",
-                "assets/faces_png/fifa/nigeria.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/peru.gif",
-                "assets/faces_png/fifa/peru.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/sweden.gif",
-                "assets/faces_png/fifa/sweden.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/russia.gif",
-                "assets/faces_png/fifa/russia.png"
+                "assets/faces/fifa/iceland.gif",
+                "assets/faces_png/fifa/iceland.png"
             ],
             [
                 "",
@@ -3716,13 +3696,33 @@
             ],
             [
                 "",
+                "assets/faces/fifa/russia.gif",
+                "assets/faces_png/fifa/russia.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/colombia.gif",
+                "assets/faces_png/fifa/colombia.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/sweden.gif",
+                "assets/faces_png/fifa/sweden.png"
+            ],
+            [
+                "",
                 "assets/faces/fifa/egypt.gif",
                 "assets/faces_png/fifa/egypt.png"
             ],
             [
                 "",
-                "assets/faces/fifa/iceland.gif",
-                "assets/faces_png/fifa/iceland.png"
+                "assets/faces/fifa/peru.gif",
+                "assets/faces_png/fifa/peru.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/nigeria.gif",
+                "assets/faces_png/fifa/nigeria.png"
             ]
         ]
     },
@@ -4065,43 +4065,8 @@
         "special": [
             [
                 "",
-                "assets/faces/xm/smile.png",
-                "assets/faces_png/xm/smile.png"
-            ],
-            [
-                "",
-                "assets/faces/xm/devil.png",
-                "assets/faces_png/xm/devil.png"
-            ],
-            [
-                "",
-                "assets/faces/xm/wonder.png",
-                "assets/faces_png/xm/wonder.png"
-            ],
-            [
-                "",
-                "assets/faces/xm/kiss.png",
-                "assets/faces_png/xm/kiss.png"
-            ],
-            [
-                "",
-                "assets/faces/xm/oh.png",
-                "assets/faces_png/xm/oh.png"
-            ],
-            [
-                "",
-                "assets/faces/xm/frown.png",
-                "assets/faces_png/xm/frown.png"
-            ],
-            [
-                "",
-                "assets/faces/xm/good.png",
-                "assets/faces_png/xm/good.png"
-            ],
-            [
-                "",
-                "assets/faces/xm/wink.png",
-                "assets/faces_png/xm/wink.png"
+                "assets/faces/xm/angry_combo.gif",
+                "assets/faces_png/xm/angry_combo.png"
             ],
             [
                 "",
@@ -4110,23 +4075,13 @@
             ],
             [
                 "",
-                "assets/faces/xm/angry.png",
-                "assets/faces_png/xm/angry.png"
+                "assets/faces/xm/wonder.png",
+                "assets/faces_png/xm/wonder.png"
             ],
             [
                 "",
-                "assets/faces/xm/censored.png",
-                "assets/faces_png/xm/censored.png"
-            ],
-            [
-                "",
-                "assets/faces/xm/369_combo.gif",
-                "assets/faces_png/xm/369_combo.png"
-            ],
-            [
-                "",
-                "assets/faces/xm/angry_combo.gif",
-                "assets/faces_png/xm/angry_combo.png"
+                "assets/faces/xm/oh.png",
+                "assets/faces_png/xm/oh.png"
             ],
             [
                 "",
@@ -4135,13 +4090,58 @@
             ],
             [
                 "",
-                "assets/faces/xm/clown_combo.gif",
-                "assets/faces_png/xm/clown_combo.png"
+                "assets/faces/xm/angry.png",
+                "assets/faces_png/xm/angry.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/kiss.png",
+                "assets/faces_png/xm/kiss.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/censored.png",
+                "assets/faces_png/xm/censored.png"
             ],
             [
                 "",
                 "assets/faces/xm/clown.png",
                 "assets/faces_png/xm/clown.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/369_combo.gif",
+                "assets/faces_png/xm/369_combo.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/good.png",
+                "assets/faces_png/xm/good.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/clown_combo.gif",
+                "assets/faces_png/xm/clown_combo.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/devil.png",
+                "assets/faces_png/xm/devil.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/frown.png",
+                "assets/faces_png/xm/frown.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/wink.png",
+                "assets/faces_png/xm/wink.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/smile.png",
+                "assets/faces_png/xm/smile.png"
             ]
         ]
     },
@@ -5383,33 +5383,8 @@
         "special": [
             [
                 "",
-                "assets/faces/lny/pig2.gif",
-                "assets/faces_png/lny/pig2.png"
-            ],
-            [
-                "",
-                "assets/faces/lny/smile.png",
-                "assets/faces_png/lny/smile.png"
-            ],
-            [
-                "",
-                "assets/faces/lny/devil.png",
-                "assets/faces_png/lny/devil.png"
-            ],
-            [
-                "",
-                "assets/faces/lny/dog1.gif",
-                "assets/faces_png/lny/dog1.png"
-            ],
-            [
-                "",
                 "assets/faces/lny/smile3.png",
                 "assets/faces_png/lny/smile3.png"
-            ],
-            [
-                "",
-                "assets/faces/lny/offtopic.png",
-                "assets/faces_png/lny/offtopic.png"
             ],
             [
                 "",
@@ -5418,13 +5393,13 @@
             ],
             [
                 "",
-                "assets/faces/lny/good.png",
-                "assets/faces_png/lny/good.png"
+                "assets/faces/lny/clown.png",
+                "assets/faces_png/lny/clown.png"
             ],
             [
                 "",
-                "assets/faces/lny/wink.png",
-                "assets/faces_png/lny/wink.png"
+                "assets/faces/lny/good.png",
+                "assets/faces_png/lny/good.png"
             ],
             [
                 "",
@@ -5433,8 +5408,8 @@
             ],
             [
                 "",
-                "assets/faces/lny/pig1.gif",
-                "assets/faces_png/lny/pig1.png"
+                "assets/faces/lny/devil.png",
+                "assets/faces_png/lny/devil.png"
             ],
             [
                 "",
@@ -5443,8 +5418,33 @@
             ],
             [
                 "",
-                "assets/faces/lny/clown.png",
-                "assets/faces_png/lny/clown.png"
+                "assets/faces/lny/dog1.gif",
+                "assets/faces_png/lny/dog1.png"
+            ],
+            [
+                "",
+                "assets/faces/lny/pig1.gif",
+                "assets/faces_png/lny/pig1.png"
+            ],
+            [
+                "",
+                "assets/faces/lny/wink.png",
+                "assets/faces_png/lny/wink.png"
+            ],
+            [
+                "",
+                "assets/faces/lny/smile.png",
+                "assets/faces_png/lny/smile.png"
+            ],
+            [
+                "",
+                "assets/faces/lny/offtopic.png",
+                "assets/faces_png/lny/offtopic.png"
+            ],
+            [
+                "",
+                "assets/faces/lny/pig2.gif",
+                "assets/faces_png/lny/pig2.png"
             ]
         ]
     },
@@ -7032,13 +7032,13 @@
             ],
             [
                 "",
-                "assets/faces/rabbitxm/roast_special.gif",
-                "assets/faces_png/rabbitxm/roast_special.png"
+                "assets/faces/rabbitxm/wind.gif",
+                "assets/faces_png/rabbitxm/wind.png"
             ],
             [
                 "",
-                "assets/faces/rabbitxm/wind.gif",
-                "assets/faces_png/rabbitxm/wind.png"
+                "assets/faces/rabbitxm/roast_special.gif",
+                "assets/faces_png/rabbitxm/roast_special.png"
             ]
         ]
     }

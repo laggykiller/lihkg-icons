@@ -61,17 +61,17 @@
 | fuck | `#fuck#lny` | ![fuck](../assets/faces/lny/fuck.gif) | ![fuck](../assets/faces_png/lny/fuck.png) |
 | no | `#no#lny` | ![no](../assets/faces/lny/no.gif) | ![no](../assets/faces_png/lny/no.png) |
 | kill2 | `#kill2#lny` | ![kill2](../assets/faces/lny/kill2.gif) | ![kill2](../assets/faces_png/lny/kill2.png) |
-| pig2 | `` | ![pig2](../assets/faces/lny/pig2.gif) | ![pig2](../assets/faces_png/lny/pig2.png) |
-| smile | `` | ![smile](../assets/faces/lny/smile.png) | ![smile](../assets/faces_png/lny/smile.png) |
-| devil | `` | ![devil](../assets/faces/lny/devil.png) | ![devil](../assets/faces_png/lny/devil.png) |
-| dog1 | `` | ![dog1](../assets/faces/lny/dog1.gif) | ![dog1](../assets/faces_png/lny/dog1.png) |
 | smile3 | `` | ![smile3](../assets/faces/lny/smile3.png) | ![smile3](../assets/faces_png/lny/smile3.png) |
-| offtopic | `` | ![offtopic](../assets/faces/lny/offtopic.png) | ![offtopic](../assets/faces_png/lny/offtopic.png) |
 | wonder | `` | ![wonder](../assets/faces/lny/wonder.png) | ![wonder](../assets/faces_png/lny/wonder.png) |
-| good | `` | ![good](../assets/faces/lny/good.png) | ![good](../assets/faces_png/lny/good.png) |
-| wink | `` | ![wink](../assets/faces/lny/wink.png) | ![wink](../assets/faces_png/lny/wink.png) |
-| dog2 | `` | ![dog2](../assets/faces/lny/dog2.gif) | ![dog2](../assets/faces_png/lny/dog2.png) |
-| pig1 | `` | ![pig1](../assets/faces/lny/pig1.gif) | ![pig1](../assets/faces_png/lny/pig1.png) |
-| clown2 | `` | ![clown2](../assets/faces/lny/clown2.png) | ![clown2](../assets/faces_png/lny/clown2.png) |
 | clown | `` | ![clown](../assets/faces/lny/clown.png) | ![clown](../assets/faces_png/lny/clown.png) |
+| good | `` | ![good](../assets/faces/lny/good.png) | ![good](../assets/faces_png/lny/good.png) |
+| dog2 | `` | ![dog2](../assets/faces/lny/dog2.gif) | ![dog2](../assets/faces_png/lny/dog2.png) |
+| devil | `` | ![devil](../assets/faces/lny/devil.png) | ![devil](../assets/faces_png/lny/devil.png) |
+| clown2 | `` | ![clown2](../assets/faces/lny/clown2.png) | ![clown2](../assets/faces_png/lny/clown2.png) |
+| dog1 | `` | ![dog1](../assets/faces/lny/dog1.gif) | ![dog1](../assets/faces_png/lny/dog1.png) |
+| pig1 | `` | ![pig1](../assets/faces/lny/pig1.gif) | ![pig1](../assets/faces_png/lny/pig1.png) |
+| wink | `` | ![wink](../assets/faces/lny/wink.png) | ![wink](../assets/faces_png/lny/wink.png) |
+| smile | `` | ![smile](../assets/faces/lny/smile.png) | ![smile](../assets/faces_png/lny/smile.png) |
+| offtopic | `` | ![offtopic](../assets/faces/lny/offtopic.png) | ![offtopic](../assets/faces_png/lny/offtopic.png) |
+| pig2 | `` | ![pig2](../assets/faces/lny/pig2.gif) | ![pig2](../assets/faces_png/lny/pig2.png) |
 

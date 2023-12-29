@@ -1,7 +1,8 @@
 import os
 import re
 import json
-import time
+import zipfile
+import io
 
 import demjson3
 import requests
@@ -35,16 +36,17 @@ def get_main_js_url() -> str:
     main_js_url = soup.find(src=re.compile('main.js')).get('src')
     return main_js_url
 
-def parse_main_js(main_js_url: str) -> dict:
+def get_main_js() -> dict:
+    main_js_url = get_main_js_url()
     r = requests.get(main_js_url).text
 
     # Find start (Slow but more robust)
-    start_pos = re.search(r'={(.*):{icons:{"assets\/faces\/\1\/(.*).gif"', r).start()
-    r = r[start_pos+1:]
+    # start_pos = re.search(r'={(.*):{icons:{"assets\/faces\/\1\/(.*).gif"', r).start()
+    # r = r[start_pos+1:]
 
     # Find start (Fast but less robust)
-    # start_pos = r.find('{normal:{icons:{"assets/faces/normal/')
-    # r = r[start_pos:]
+    start_pos = r.find('{normal:{icons:{"assets/faces/normal/')
+    r = r[start_pos:]
 
     # Find end
     end_pos = search_bracket(r)
@@ -55,56 +57,75 @@ def parse_main_js(main_js_url: str) -> dict:
 
     # Parse
     data = demjson3.decode(r)
+    with open('jsons/main_js.json', 'w+') as f:
+        json.dump(data, f, indent=4)
 
     return data
 
-def download(path: str, fmt: str = 'gif') -> str:
-    base_url = 'https://cdn.lihkg.com/'
+def get_ios_version() -> str:
+    r = requests.get('https://itunes.apple.com/lookup?bundleId=com.lihkg.forum-ios')
+    return json.loads(r.text)['results'][0]['version']
 
-    url = base_url + path
-    if fmt == 'png':
-        url = gif2png(url)
+def get_asset(mapping: dict) -> list:
+    version = get_ios_version()
+    headers = {
+        'User-Agent': f'LIHKG/{version} iOS/14.7.1 iPhone/iPhone 6s'
+    }
+
+    r = requests.get('https://lihkg.com/api_v2/system/property', headers=headers)
+    asset_url = json.loads(r.text)['response']['asset']['patch'][0]['url']
+
+    asset_zip = requests.get(asset_url)
+    with zipfile.ZipFile(io.BytesIO(asset_zip.content)) as zf:
+        with zf.open('/limoji.json') as f, open('jsons/limoji.json', 'w+') as g:
+            limoji = json.load(f)
+            json.dump(limoji, g, indent=4)
+
+        for f in zf.namelist():
+            if f.startswith('assets/faces'):
+                os.makedirs(os.path.dirname(f), exist_ok=True)
+                zf.extract(f)
     
-    if os.path.isfile(path):
-        return 'exists'
+    main_js = get_main_js()
+    return limoji_sorting(limoji, main_js, mapping)
 
-    r = requests.get(url)
-    if not r.ok:
-        return 'download failed'
-    
-    time.sleep(DOWNLOAD_INTERVAL)
+def limoji_sorting(limoji: dict, main_js: dict, mapping: dict) -> list:
+    limoji_sorted = {}
+    for pack_dict in limoji['emojis']:
+        order = pack_dict['sort']
+        pack = pack_dict['cat']
 
-    with open(path, 'wb+') as f:
-        f.write(r.content)
+        special_dict = main_js.get(pack, {}).get('special', {})
+        special_list = []
+        for gif_path, code in special_dict.items():
+            png_path = gif2png(gif_path)
+            special_list.append([code, gif_path, png_path])
 
-    return 'downloaded'
+        limoji_sorted[order] = {
+            'pack': pack,
+            'pack_name': mapping.get(pack, pack),
+            'icons': pack_dict['icons'],
+            'special': special_list # limoji.json does not have data about special icons
+        }
 
-def download_all(data: dict, fmt: str = 'gif'):
-    for pack, v in data.items():
-        for path, emoji in v.get('icons', {}).items():
-            status = download(path, fmt)
-            print(path, status)
-        
-        for path, emoji in v.get('special', {}).items():
-            status = download(path, fmt)
-            print(path, status)
+    limoji_sorted = dict(sorted(limoji_sorted.items()))
+    with open('jsons/limoji_sorted.json', 'w+') as f:
+        json.dump(limoji_sorted, f, indent=4)
 
-def update_readme(data: dict, mapping: dict):
+    return limoji_sorted
+
+def update_readme(limoji: dict):
     with open('README_TEMPLATE') as f:
         readme = f.read()
 
     body = '| Code | Name | Preview | View |\n'
     body += '| --- | --- | --- | --- |\n'
     body += f'| (All) | N/A | N/A | [View](./view/all.md) |\n'
-    
-    for pack, v in data.items():
-        pack_name = mapping.get(pack, pack)
 
-        pack_paths = list(v.get('icons', {}).keys())
-        if pack_paths == []:
-            pack_paths = list(v.get('special', {}).keys())
-
-        preview_path = pack_paths[0]
+    for v in limoji.values():
+        pack = v['pack']
+        pack_name = v['pack_name']
+        preview_path = v['icons'][0][1]
         preview_name = os.path.split(preview_path)[-1]
 
         body += f'| {pack} | {pack_name} | ![{preview_name}]({preview_path}) | [View](./view/{pack}.md) |\n'
@@ -114,24 +135,23 @@ def update_readme(data: dict, mapping: dict):
     with open('README.md', 'w+') as f:
         f.write(readme)
 
-def update_view(data: dict, mapping: dict):
+def update_view(limoji: dict):
     with open('view/all.md', 'w+') as f:
         f.write('# All icons\n')
 
-        for pack, v in data.items():
-            pack_name = mapping.get(pack, pack)
-
+        for v in limoji.values():
+            pack = v['pack']
+            pack_name = v['pack_name']
             body = f'## {pack} [{pack_name}]\n'
 
             body += '| Filename | Emoji | GIF | PNG |\n'
             body += '| --- | --- | --- | --- |\n'
 
-            for path, emoji in v.get('icons', {}).items():
-                path_png = gif2png(path)
-
-                fname = os.path.split(path)[-1]
-                name = os.path.splitext(fname)[0]
-                body += f'| {name} | `{emoji}` | ![{name}](../{path}) | ![{name}](../{path_png}) |\n'
+            for i in ('icons', 'special'):
+                for (emoji, gif_path, png_path) in v.get(i, []):
+                    fname = os.path.split(gif_path)[-1]
+                    name = os.path.splitext(fname)[0]
+                    body += f'| {name} | `{emoji}` | ![{name}](../{gif_path}) | ![{name}](../{png_path}) |\n'
             
             body += '\n'
 
@@ -141,20 +161,13 @@ def update_view(data: dict, mapping: dict):
             f.write(body)
 
 def main():
-    main_js_url= get_main_js_url()
-    data = parse_main_js(main_js_url)
-
-    with open('data.json', 'w+', encoding='utf8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-    
-    with open('mapping.json') as f:
+    with open('jsons/mapping.json') as f:
         mapping = json.load(f)
-    
-    download_all(data, fmt='gif')
-    download_all(data, fmt='png')
 
-    update_readme(data, mapping)
-    update_view(data, mapping)
+    limoji = get_asset(mapping)
+
+    update_readme(limoji)
+    update_view(limoji)
 
 if __name__ == '__main__':
     main()

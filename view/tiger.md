@@ -26,4 +26,10 @@
 | rpg7 | `#rpg7#tiger` | ![rpg7](../assets/faces/tiger/rpg7.gif) | ![rpg7](../assets/faces_png/tiger/rpg7.png) |
 | lihkg | `#lihkg#tiger` | ![lihkg](../assets/faces/tiger/lihkg.gif) | ![lihkg](../assets/faces_png/tiger/lihkg.png) |
 | lihkg2 | `#lihkg2#tiger` | ![lihkg2](../assets/faces/tiger/lihkg2.gif) | ![lihkg2](../assets/faces_png/tiger/lihkg2.png) |
+| fire_special | `#angry#tiger #fire#tiger` | ![fire_special](../assets/faces/tiger/fire_special.gif) | ![fire_special](../assets/faces_png/tiger/fire_special.png) |
+| sad_special | `#sad#tiger #happy#tiger` | ![sad_special](../assets/faces/tiger/sad_special.gif) | ![sad_special](../assets/faces_png/tiger/sad_special.png) |
+| shock_special | `#oh#tiger #nlhg#tiger` | ![shock_special](../assets/faces/tiger/shock_special.gif) | ![shock_special](../assets/faces_png/tiger/shock_special.png) |
+| like_special | `#like#tiger #like#tiger` | ![like_special](../assets/faces/tiger/like_special.gif) | ![like_special](../assets/faces_png/tiger/like_special.png) |
+| punch_special | `#punchbag#tiger #angry#tiger` | ![punch_special](../assets/faces/tiger/punch_special.gif) | ![punch_special](../assets/faces_png/tiger/punch_special.png) |
+| punchbag_connect | `#punchbag#tiger #fight2#dog` | ![punchbag_connect](../assets/faces/tiger/punchbag_connect.gif) | ![punchbag_connect](../assets/faces_png/tiger/punchbag_connect.png) |
 

@@ -47,4 +47,11 @@
 | fuck | `#fuck#mf` | ![fuck](../assets/faces/mf/fuck.gif) | ![fuck](../assets/faces_png/mf/fuck.png) |
 | no | `#no#mf` | ![no](../assets/faces/mf/no.gif) | ![no](../assets/faces_png/mf/no.png) |
 | kill2 | `#kill2#mf` | ![kill2](../assets/faces/mf/kill2.gif) | ![kill2](../assets/faces_png/mf/kill2.png) |
+| special | `#:o)#mf #:)#mf` | ![special](../assets/faces/mf/special.gif) | ![special](../assets/faces_png/mf/special.png) |
+| special2 | `#:o)#mf #hoho#mf` | ![special2](../assets/faces/mf/special2.gif) | ![special2](../assets/faces_png/mf/special2.png) |
+| special3 | `#:o)#mf #good#mf` | ![special3](../assets/faces/mf/special3.gif) | ![special3](../assets/faces_png/mf/special3.png) |
+| special4 | `#:o)#mf #:-(#mf` | ![special4](../assets/faces/mf/special4.gif) | ![special4](../assets/faces_png/mf/special4.png) |
+| special5 | `#bye#mf #:)#mf` | ![special5](../assets/faces/mf/special5.gif) | ![special5](../assets/faces_png/mf/special5.png) |
+| special6 | `#[photo]#mf #:)#mf` | ![special6](../assets/faces/mf/special6.gif) | ![special6](../assets/faces_png/mf/special6.png) |
+| special7 | `#@_@#mf #:-[#mf` | ![special7](../assets/faces/mf/special7.gif) | ![special7](../assets/faces_png/mf/special7.png) |
 

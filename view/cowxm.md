@@ -32,4 +32,8 @@
 | car | `#car#cowxm` | ![car](../assets/faces/cowxm/car.gif) | ![car](../assets/faces_png/cowxm/car.png) |
 | linguistic | `#linguistic#cowxm` | ![linguistic](../assets/faces/cowxm/linguistic.gif) | ![linguistic](../assets/faces_png/cowxm/linguistic.png) |
 | lihkg | `#lihkg#cowxm` | ![lihkg](../assets/faces/cowxm/lihkg.gif) | ![lihkg](../assets/faces_png/cowxm/lihkg.png) |
+| power_special | `#gold#cowxm #power#cowxm` | ![power_special](../assets/faces/cowxm/power_special.gif) | ![power_special](../assets/faces_png/cowxm/power_special.png) |
+| bus_special | `#crowd#cowxm #bus#cowxm` | ![bus_special](../assets/faces/cowxm/bus_special.gif) | ![bus_special](../assets/faces_png/cowxm/bus_special.png) |
+| grab_connect | `#grab#cowxm #beg#dogxm` | ![grab_connect](../assets/faces/cowxm/grab_connect.gif) | ![grab_connect](../assets/faces_png/cowxm/grab_connect.png) |
+| bicycle_connect | `#whip#pigxm #bicycle#cowxm` | ![bicycle_connect](../assets/faces/cowxm/bicycle_connect.gif) | ![bicycle_connect](../assets/faces_png/cowxm/bicycle_connect.png) |
 

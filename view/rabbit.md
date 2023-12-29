@@ -32,4 +32,11 @@
 | yawn | `#yawn#rabbit` | ![yawn](../assets/faces/rabbit/yawn.gif) | ![yawn](../assets/faces_png/rabbit/yawn.png) |
 | fly | `#fly#rabbit` | ![fly](../assets/faces/rabbit/fly.gif) | ![fly](../assets/faces_png/rabbit/fly.png) |
 | lihkg | `#lihkg#rabbit` | ![lihkg](../assets/faces/rabbit/lihkg.gif) | ![lihkg](../assets/faces_png/rabbit/lihkg.png) |
+| clap_special | `#clap#rabbit #creepy#rabbit` | ![clap_special](../assets/faces/rabbit/clap_special.gif) | ![clap_special](../assets/faces_png/rabbit/clap_special.png) |
+| eat_connect | `#eat#rabbit #eating#lm2` | ![eat_connect](../assets/faces/rabbit/eat_connect.gif) | ![eat_connect](../assets/faces_png/rabbit/eat_connect.png) |
+| hammer_connect | `#it3#dog #axe#rabbit` | ![hammer_connect](../assets/faces/rabbit/hammer_connect.gif) | ![hammer_connect](../assets/faces_png/rabbit/hammer_connect.png) |
+| lihkg_special | `#saw#rabbit #lihkg#rabbit` | ![lihkg_special](../assets/faces/rabbit/lihkg_special.gif) | ![lihkg_special](../assets/faces_png/rabbit/lihkg_special.png) |
+| roast_connect | `#cooking#pig #:)#rabbit` | ![roast_connect](../assets/faces/rabbit/roast_connect.gif) | ![roast_connect](../assets/faces_png/rabbit/roast_connect.png) |
+| roast_special | `#:)#rabbit #cooking#pig` | ![roast_special](../assets/faces/rabbit/roast_special.gif) | ![roast_special](../assets/faces_png/rabbit/roast_special.png) |
+| axe_connect | `#car#cow #axe#rabbit` | ![axe_connect](../assets/faces/rabbit/axe_connect.gif) | ![axe_connect](../assets/faces_png/rabbit/axe_connect.png) |
 

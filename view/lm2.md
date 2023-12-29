@@ -78,4 +78,5 @@
 | yipes | `#[yipes]#lm2` | ![yipes](../assets/faces/lm2/yipes.gif) | ![yipes](../assets/faces_png/lm2/yipes.png) |
 | cry | `#:~(#lm2` | ![cry](../assets/faces/lm2/cry.gif) | ![cry](../assets/faces_png/lm2/cry.png) |
 | dust | `#dust#lm2` | ![dust](../assets/faces/lm2/dust.gif) | ![dust](../assets/faces_png/lm2/dust.png) |
+| credit | `#credit#lm2` | ![credit](../assets/faces/lm2/credit.gif) | ![credit](../assets/faces_png/lm2/credit.png) |
 

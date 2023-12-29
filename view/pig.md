@@ -44,4 +44,9 @@
 | surviving | `#surviving#pig` | ![surviving](../assets/faces/pig/surviving.gif) | ![surviving](../assets/faces_png/pig/surviving.png) |
 | free | `#free#pig` | ![free](../assets/faces/pig/free.gif) | ![free](../assets/faces_png/pig/free.png) |
 | lihkg | `#lihkg#pig` | ![lihkg](../assets/faces/pig/lihkg.gif) | ![lihkg](../assets/faces_png/pig/lihkg.png) |
+| whip_special | `#play#pig #whip#pig` | ![whip_special](../assets/faces/pig/whip_special.gif) | ![whip_special](../assets/faces_png/pig/whip_special.png) |
+| whip_connect | `#whip#pig #fight2#dog` | ![whip_connect](../assets/faces/pig/whip_connect.gif) | ![whip_connect](../assets/faces_png/pig/whip_connect.png) |
+| knife_connect | `#fight1#dog #kill#pig` | ![knife_connect](../assets/faces/pig/knife_connect.gif) | ![knife_connect](../assets/faces_png/pig/knife_connect.png) |
+| cook_connect | `#cooking#pig #fan#pig` | ![cook_connect](../assets/faces/pig/cook_connect.gif) | ![cook_connect](../assets/faces_png/pig/cook_connect.png) |
+| wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../assets/faces/pig/wine_connect.gif) | ![wine_connect](../assets/faces_png/pig/wine_connect.png) |
 

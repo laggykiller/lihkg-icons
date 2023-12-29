@@ -1,4 +1,4 @@
-## hb [連登生日版]
+## hb [hb]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile_hb | `#:)#hb` | ![smile_hb](../assets/faces/lihkg/smile_hb.gif) | ![smile_hb](../assets/faces_png/lihkg/smile_hb.png) |
@@ -27,4 +27,5 @@
 | rabbit_hb | `#rabbit#hb` | ![rabbit_hb](../assets/faces/lihkg/rabbit_hb.gif) | ![rabbit_hb](../assets/faces_png/lihkg/rabbit_hb.png) |
 | rabbit2_hb | `#rabbit2#hb` | ![rabbit2_hb](../assets/faces/lihkg/rabbit2_hb.gif) | ![rabbit2_hb](../assets/faces_png/lihkg/rabbit2_hb.png) |
 | rabbit3_hb | `#rabbit3#hb` | ![rabbit3_hb](../assets/faces/lihkg/rabbit3_hb.gif) | ![rabbit3_hb](../assets/faces_png/lihkg/rabbit3_hb.png) |
+| rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
 

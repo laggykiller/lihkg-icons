@@ -33,4 +33,7 @@
 | car | `#car#cow` | ![car](../assets/faces/cow/car.gif) | ![car](../assets/faces_png/cow/car.png) |
 | linguistic | `#linguistic#cow` | ![linguistic](../assets/faces/cow/linguistic.gif) | ![linguistic](../assets/faces_png/cow/linguistic.png) |
 | lihkg | `#lihkg#cow` | ![lihkg](../assets/faces/cow/lihkg.gif) | ![lihkg](../assets/faces_png/cow/lihkg.png) |
+| power_special | `#gold#cow #power#cow` | ![power_special](../assets/faces/cow/power_special.gif) | ![power_special](../assets/faces_png/cow/power_special.png) |
+| bus_special | `#crowd#cow #bus#cow` | ![bus_special](../assets/faces/cow/bus_special.gif) | ![bus_special](../assets/faces_png/cow/bus_special.png) |
+| grab_connect | `#grab#cow #beg#dog` | ![grab_connect](../assets/faces/cow/grab_connect.gif) | ![grab_connect](../assets/faces_png/cow/grab_connect.png) |
 

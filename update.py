@@ -109,6 +109,7 @@ def limoji_sorting(limoji: dict, main_js: dict, mapping: dict) -> list:
         }
 
     limoji_sorted = dict(sorted(limoji_sorted.items()))
+    limoji_sorted = {v.pop('pack'): v for v in limoji_sorted.values()}
     with open('jsons/limoji_sorted.json', 'w+') as f:
         json.dump(limoji_sorted, f, indent=4)
 
@@ -122,8 +123,7 @@ def update_readme(limoji: dict):
     body += '| --- | --- | --- | --- |\n'
     body += f'| (All) | N/A | N/A | [View](./view/all.md) |\n'
 
-    for v in limoji.values():
-        pack = v['pack']
+    for pack, v in limoji.items():
         pack_name = v['pack_name']
         preview_path = v['icons'][0][1]
         preview_name = os.path.split(preview_path)[-1]
@@ -139,8 +139,7 @@ def update_view(limoji: dict):
     with open('view/all.md', 'w+') as f:
         f.write('# All icons\n')
 
-        for v in limoji.values():
-            pack = v['pack']
+        for pack, v in limoji.items():
             pack_name = v['pack_name']
             body = f'## {pack} [{pack_name}]\n'
 

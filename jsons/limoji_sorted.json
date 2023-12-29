@@ -1,6 +1,5 @@
 {
-    "1": {
-        "pack": "normal",
+    "normal": {
         "pack_name": "\u666e\u901a",
         "icons": [
             [
@@ -246,8 +245,7 @@
         ],
         "special": []
     },
-    "2": {
-        "pack": "dog",
+    "dog": {
         "pack_name": "\u9023\u72d7",
         "icons": [
             [
@@ -534,8 +532,7 @@
             ]
         ]
     },
-    "3": {
-        "pack": "lm2",
+    "lm2": {
         "pack_name": "\u8166\u9b542",
         "icons": [
             [
@@ -932,8 +929,7 @@
             ]
         ]
     },
-    "4": {
-        "pack": "fs",
+    "fs": {
         "pack_name": "FS",
         "icons": [
             [
@@ -1184,8 +1180,7 @@
         ],
         "special": []
     },
-    "5": {
-        "pack": "big",
+    "big": {
         "pack_name": "\u666e\u901a",
         "icons": [
             [
@@ -1451,8 +1446,7 @@
         ],
         "special": []
     },
-    "6": {
-        "pack": "lomoji",
+    "lomoji": {
         "pack_name": "\u8166\u9b54Moji",
         "icons": [
             [
@@ -1668,8 +1662,7 @@
         ],
         "special": []
     },
-    "7": {
-        "pack": "pig",
+    "pig": {
         "pack_name": "\u9023\u8c6c",
         "icons": [
             [
@@ -1916,8 +1909,7 @@
             ]
         ]
     },
-    "8": {
-        "pack": "mouse",
+    "mouse": {
         "pack_name": "\u9023\u9f20",
         "icons": [
             [
@@ -2119,8 +2111,7 @@
             ]
         ]
     },
-    "9": {
-        "pack": "cat",
+    "cat": {
         "pack_name": "\u9023\u8c93",
         "icons": [
             [
@@ -2262,8 +2253,7 @@
             ]
         ]
     },
-    "10": {
-        "pack": "cow",
+    "cow": {
         "pack_name": "\u9023\u725b",
         "icons": [
             [
@@ -2445,8 +2435,7 @@
             ]
         ]
     },
-    "11": {
-        "pack": "tiger",
+    "tiger": {
         "pack_name": "\u9023\u864e",
         "icons": [
             [
@@ -2608,8 +2597,7 @@
             ]
         ]
     },
-    "12": {
-        "pack": "rabbit",
+    "rabbit": {
         "pack_name": "\u9023\u5154",
         "icons": [
             [
@@ -2806,8 +2794,7 @@
             ]
         ]
     },
-    "13": {
-        "pack": "dragon",
+    "dragon": {
         "pack_name": "\u9023\u9f8d",
         "icons": [
             [
@@ -2968,8 +2955,7 @@
         ],
         "special": []
     },
-    "100": {
-        "pack": "hb",
+    "hb": {
         "pack_name": "hb",
         "icons": [
             [
@@ -3111,8 +3097,7 @@
             ]
         ]
     },
-    "101": {
-        "pack": "fatcmoji",
+    "fatcmoji": {
         "pack_name": "\u80a5\u7d72",
         "icons": [
             [
@@ -3363,8 +3348,7 @@
         ],
         "special": []
     },
-    "102": {
-        "pack": "fifa",
+    "fifa": {
         "pack_name": "FIFA",
         "icons": [
             [
@@ -3656,8 +3640,7 @@
             ]
         ]
     },
-    "110": {
-        "pack": "rip",
+    "rip": {
         "pack_name": "RIP",
         "icons": [
             [
@@ -3703,8 +3686,7 @@
         ],
         "special": []
     },
-    "200": {
-        "pack": "xm",
+    "xm": {
         "pack_name": "\u8056\u8a95\u7248",
         "icons": [
             [
@@ -3990,8 +3972,7 @@
         ],
         "special": []
     },
-    "201": {
-        "pack": "mf",
+    "mf": {
         "pack_name": "\u4e2d\u79cb\u7bc0\u7248",
         "icons": [
             [
@@ -4263,8 +4244,7 @@
             ]
         ]
     },
-    "202": {
-        "pack": "dogxm",
+    "dogxm": {
         "pack_name": "\u9023\u72d7\u8056\u8a95\u7248",
         "icons": [
             [
@@ -4526,8 +4506,7 @@
             ]
         ]
     },
-    "203": {
-        "pack": "lm2xm",
+    "lm2xm": {
         "pack_name": "\u8166\u9b542\u8056\u8a95\u7248",
         "icons": [
             [
@@ -4924,8 +4903,7 @@
             ]
         ]
     },
-    "204": {
-        "pack": "lny",
+    "lny": {
         "pack_name": "\u8fb2\u66c6\u65b0\u5e74\u7248",
         "icons": [
             [
@@ -5231,8 +5209,7 @@
         ],
         "special": []
     },
-    "205": {
-        "pack": "lm2lny",
+    "lm2lny": {
         "pack_name": "\u8166\u9b542\u65b0\u5e74\u7248",
         "icons": [
             [
@@ -5629,8 +5606,7 @@
             ]
         ]
     },
-    "206": {
-        "pack": "pigxm",
+    "pigxm": {
         "pack_name": "\u9023\u8c6c\u8056\u8a95\u7248",
         "icons": [
             [
@@ -5902,8 +5878,7 @@
             ]
         ]
     },
-    "207": {
-        "pack": "mousexm",
+    "mousexm": {
         "pack_name": "\u9023\u9f20\u8056\u8a95\u7248",
         "icons": [
             [
@@ -6115,8 +6090,7 @@
             ]
         ]
     },
-    "208": {
-        "pack": "catxm",
+    "catxm": {
         "pack_name": "\u9023\u8c93\u8056\u8a95\u7248",
         "icons": [
             [
@@ -6258,8 +6232,7 @@
             ]
         ]
     },
-    "209": {
-        "pack": "cowxm",
+    "cowxm": {
         "pack_name": "\u9023\u725b\u8056\u8a95\u7248",
         "icons": [
             [
@@ -6441,8 +6414,7 @@
             ]
         ]
     },
-    "210": {
-        "pack": "tigerxm",
+    "tigerxm": {
         "pack_name": "\u9023\u864e\u8056\u8a95\u7248",
         "icons": [
             [
@@ -6614,8 +6586,7 @@
             ]
         ]
     },
-    "211": {
-        "pack": "rabbitxm",
+    "rabbitxm": {
         "pack_name": "\u9023\u5154\u8056\u8a95\u7248",
         "icons": [
             [

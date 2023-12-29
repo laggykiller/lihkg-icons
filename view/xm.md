@@ -57,7 +57,7 @@
 | shocking_p | `#[shocking_p]#xm` | ![shocking_p](../assets/faces/xm/shocking_p.gif) | ![shocking_p](../assets/faces_png/xm/shocking_p.png) |
 | shocking_r | `#[shocking_r]#xm` | ![shocking_r](../assets/faces/xm/shocking_r.gif) | ![shocking_r](../assets/faces_png/xm/shocking_r.png) |
 | shocking_y | `#[shocking_y]#xm` | ![shocking_y](../assets/faces/xm/shocking_y.gif) | ![shocking_y](../assets/faces_png/xm/shocking_y.png) |
-| 369_combo | `` | ![369_combo](../assets/faces/xm/369_combo.gif) | ![369_combo](../assets/faces_png/xm/369_combo.png) |
 | angry_combo | `` | ![angry_combo](../assets/faces/xm/angry_combo.gif) | ![angry_combo](../assets/faces_png/xm/angry_combo.png) |
+| 369_combo | `` | ![369_combo](../assets/faces/xm/369_combo.gif) | ![369_combo](../assets/faces_png/xm/369_combo.png) |
 | clown_combo | `` | ![clown_combo](../assets/faces/xm/clown_combo.gif) | ![clown_combo](../assets/faces_png/xm/clown_combo.png) |
 

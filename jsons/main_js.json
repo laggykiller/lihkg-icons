@@ -87,11 +87,11 @@
         "showOn": [
             {
                 "keywords": [
-                    "\u751f\u65e5\u5feb\u6a02",
-                    "\u751f\u65e5",
+                    "生日快樂",
+                    "生日",
                     "Happy bday",
                     "Happy Birthday",
-                    "\ud83c\udf82"
+                    "🎂"
                 ]
             }
         ],
@@ -112,8 +112,8 @@
             {
                 "keywords": [
                     "RIP",
-                    "\u60bc\u5ff5",
-                    "\u54c0\u60bc",
+                    "悼念",
+                    "哀悼",
                     "R\\.I\\.P"
                 ]
             }

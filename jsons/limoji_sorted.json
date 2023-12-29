@@ -1,6 +1,6 @@
 {
     "normal": {
-        "pack_name": "\u666e\u901a",
+        "pack_name": "普通",
         "icons": [
             [
                 ":)",
@@ -246,7 +246,7 @@
         "special": []
     },
     "dog": {
-        "pack_name": "\u9023\u72d7",
+        "pack_name": "連狗",
         "icons": [
             [
                 "#:)#dog",
@@ -533,7 +533,7 @@
         ]
     },
     "lm2": {
-        "pack_name": "\u8166\u9b542",
+        "pack_name": "腦魔2",
         "icons": [
             [
                 "#:)#lm2",
@@ -1181,7 +1181,7 @@
         "special": []
     },
     "big": {
-        "pack_name": "\u666e\u901a",
+        "pack_name": "普通",
         "icons": [
             [
                 "#:)#b",
@@ -1447,7 +1447,7 @@
         "special": []
     },
     "lomoji": {
-        "pack_name": "\u8166\u9b54Moji",
+        "pack_name": "腦魔Moji",
         "icons": [
             [
                 "#:)#lme",
@@ -1663,7 +1663,7 @@
         "special": []
     },
     "pig": {
-        "pack_name": "\u9023\u8c6c",
+        "pack_name": "連豬",
         "icons": [
             [
                 "#:)#pig",
@@ -1910,7 +1910,7 @@
         ]
     },
     "mouse": {
-        "pack_name": "\u9023\u9f20",
+        "pack_name": "連鼠",
         "icons": [
             [
                 "#:)#mouse",
@@ -2112,7 +2112,7 @@
         ]
     },
     "cat": {
-        "pack_name": "\u9023\u8c93",
+        "pack_name": "連貓",
         "icons": [
             [
                 "#:)#cat",
@@ -2254,7 +2254,7 @@
         ]
     },
     "cow": {
-        "pack_name": "\u9023\u725b",
+        "pack_name": "連牛",
         "icons": [
             [
                 "#:)#cow",
@@ -2436,7 +2436,7 @@
         ]
     },
     "tiger": {
-        "pack_name": "\u9023\u864e",
+        "pack_name": "連虎",
         "icons": [
             [
                 "#:)#tiger",
@@ -2598,7 +2598,7 @@
         ]
     },
     "rabbit": {
-        "pack_name": "\u9023\u5154",
+        "pack_name": "連兔",
         "icons": [
             [
                 "#:)#rabbit",
@@ -2795,7 +2795,7 @@
         ]
     },
     "dragon": {
-        "pack_name": "\u9023\u9f8d",
+        "pack_name": "連龍",
         "icons": [
             [
                 "#:)#dragon",
@@ -3098,7 +3098,7 @@
         ]
     },
     "fatcmoji": {
-        "pack_name": "\u80a5\u7d72",
+        "pack_name": "肥絲",
         "icons": [
             [
                 "#:)#fatc",
@@ -3687,7 +3687,7 @@
         "special": []
     },
     "xm": {
-        "pack_name": "\u8056\u8a95\u7248",
+        "pack_name": "聖誕版",
         "icons": [
             [
                 "#:)#xm",
@@ -3973,7 +3973,7 @@
         "special": []
     },
     "mf": {
-        "pack_name": "\u4e2d\u79cb\u7bc0\u7248",
+        "pack_name": "中秋節版",
         "icons": [
             [
                 "#:)#mf",
@@ -4245,7 +4245,7 @@
         ]
     },
     "dogxm": {
-        "pack_name": "\u9023\u72d7\u8056\u8a95\u7248",
+        "pack_name": "連狗聖誕版",
         "icons": [
             [
                 "#:)#dogxm",
@@ -4507,7 +4507,7 @@
         ]
     },
     "lm2xm": {
-        "pack_name": "\u8166\u9b542\u8056\u8a95\u7248",
+        "pack_name": "腦魔2聖誕版",
         "icons": [
             [
                 "#:)#lm2xm",
@@ -4904,7 +4904,7 @@
         ]
     },
     "lny": {
-        "pack_name": "\u8fb2\u66c6\u65b0\u5e74\u7248",
+        "pack_name": "農曆新年版",
         "icons": [
             [
                 "#:)#lny",
@@ -5210,7 +5210,7 @@
         "special": []
     },
     "lm2lny": {
-        "pack_name": "\u8166\u9b542\u65b0\u5e74\u7248",
+        "pack_name": "腦魔2新年版",
         "icons": [
             [
                 "#:)#lm2lny",
@@ -5607,7 +5607,7 @@
         ]
     },
     "pigxm": {
-        "pack_name": "\u9023\u8c6c\u8056\u8a95\u7248",
+        "pack_name": "連豬聖誕版",
         "icons": [
             [
                 "#:)#pigxm",
@@ -5879,7 +5879,7 @@
         ]
     },
     "mousexm": {
-        "pack_name": "\u9023\u9f20\u8056\u8a95\u7248",
+        "pack_name": "連鼠聖誕版",
         "icons": [
             [
                 "#:)#mousexm",
@@ -6091,7 +6091,7 @@
         ]
     },
     "catxm": {
-        "pack_name": "\u9023\u8c93\u8056\u8a95\u7248",
+        "pack_name": "連貓聖誕版",
         "icons": [
             [
                 "#:)#catxm",
@@ -6233,7 +6233,7 @@
         ]
     },
     "cowxm": {
-        "pack_name": "\u9023\u725b\u8056\u8a95\u7248",
+        "pack_name": "連牛聖誕版",
         "icons": [
             [
                 "#:)#cowxm",
@@ -6415,7 +6415,7 @@
         ]
     },
     "tigerxm": {
-        "pack_name": "\u9023\u864e\u8056\u8a95\u7248",
+        "pack_name": "連虎聖誕版",
         "icons": [
             [
                 "#:)#tigerxm",
@@ -6587,7 +6587,7 @@
         ]
     },
     "rabbitxm": {
-        "pack_name": "\u9023\u5154\u8056\u8a95\u7248",
+        "pack_name": "連兔聖誕版",
         "icons": [
             [
                 "#:)#rabbitxm",

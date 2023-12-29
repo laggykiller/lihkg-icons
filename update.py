@@ -57,8 +57,8 @@ def get_main_js() -> dict:
 
     # Parse
     data = demjson3.decode(r)
-    with open('jsons/main_js.json', 'w+') as f:
-        json.dump(data, f, indent=4)
+    with open('jsons/main_js.json', 'w+', encoding='utf8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
 
     return data
 
@@ -77,9 +77,9 @@ def get_asset(mapping: dict) -> list:
 
     asset_zip = requests.get(asset_url)
     with zipfile.ZipFile(io.BytesIO(asset_zip.content)) as zf:
-        with zf.open('/limoji.json') as f, open('jsons/limoji.json', 'w+') as g:
+        with zf.open('/limoji.json') as f, open('jsons/limoji.json', 'w+', encoding='utf8') as g:
             limoji = json.load(f)
-            json.dump(limoji, g, indent=4)
+            json.dump(limoji, g, indent=4, ensure_ascii=False)
 
         for f in zf.namelist():
             if f.startswith('assets/faces'):
@@ -110,8 +110,8 @@ def limoji_sorting(limoji: dict, main_js: dict, mapping: dict) -> list:
 
     limoji_sorted = dict(sorted(limoji_sorted.items()))
     limoji_sorted = {v.pop('pack'): v for v in limoji_sorted.values()}
-    with open('jsons/limoji_sorted.json', 'w+') as f:
-        json.dump(limoji_sorted, f, indent=4)
+    with open('jsons/limoji_sorted.json', 'w+', encoding='utf8') as f:
+        json.dump(limoji_sorted, f, indent=4, ensure_ascii=False)
 
     return limoji_sorted
 

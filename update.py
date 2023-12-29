@@ -103,12 +103,13 @@ def limoji_sorting(limoji: dict, main_js: dict, mapping: dict) -> list:
         
         listed_icons_path = [i[1] for i in pack_dict['icons']]
         listed_icons_path += [i[1] for i in special_list]
-        listed_icons_name = [os.path.split(i)[-1] for i in listed_icons_path]
+        listed_icons_name = [os.path.splitext(os.path.split(i)[-1])[0] for i in listed_icons_path]
         pack_dir = os.path.dirname(listed_icons_path[0])
         
         for f in os.listdir(pack_dir):
-            if f not in listed_icons_name:
-                gif_path = os.path.join(pack_dir, f)
+            f_base = os.path.splitext(f)[0]
+            if f_base not in listed_icons_name:
+                gif_path = os.path.join(pack_dir, f'{f_base}.gif')
                 png_path = gif2png(gif_path)
                 special_list.append(['', gif_path, png_path])
 

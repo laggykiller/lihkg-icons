@@ -57,20 +57,7 @@
 | shocking_p | `#[shocking_p]#xm` | ![shocking_p](../assets/faces/xm/shocking_p.gif) | ![shocking_p](../assets/faces_png/xm/shocking_p.png) |
 | shocking_r | `#[shocking_r]#xm` | ![shocking_r](../assets/faces/xm/shocking_r.gif) | ![shocking_r](../assets/faces_png/xm/shocking_r.png) |
 | shocking_y | `#[shocking_y]#xm` | ![shocking_y](../assets/faces/xm/shocking_y.gif) | ![shocking_y](../assets/faces_png/xm/shocking_y.png) |
-| angry_combo | `` | ![angry_combo](../assets/faces/xm/angry_combo.gif) | ![angry_combo](../assets/faces_png/xm/angry_combo.png) |
-| tongue | `` | ![tongue](../assets/faces/xm/tongue.png) | ![tongue](../assets/faces_png/xm/tongue.png) |
-| wonder | `` | ![wonder](../assets/faces/xm/wonder.png) | ![wonder](../assets/faces_png/xm/wonder.png) |
-| oh | `` | ![oh](../assets/faces/xm/oh.png) | ![oh](../assets/faces_png/xm/oh.png) |
-| biggrin | `` | ![biggrin](../assets/faces/xm/biggrin.png) | ![biggrin](../assets/faces_png/xm/biggrin.png) |
-| angry | `` | ![angry](../assets/faces/xm/angry.png) | ![angry](../assets/faces_png/xm/angry.png) |
-| kiss | `` | ![kiss](../assets/faces/xm/kiss.png) | ![kiss](../assets/faces_png/xm/kiss.png) |
-| censored | `` | ![censored](../assets/faces/xm/censored.png) | ![censored](../assets/faces_png/xm/censored.png) |
-| clown | `` | ![clown](../assets/faces/xm/clown.png) | ![clown](../assets/faces_png/xm/clown.png) |
 | 369_combo | `` | ![369_combo](../assets/faces/xm/369_combo.gif) | ![369_combo](../assets/faces_png/xm/369_combo.png) |
-| good | `` | ![good](../assets/faces/xm/good.png) | ![good](../assets/faces_png/xm/good.png) |
+| angry_combo | `` | ![angry_combo](../assets/faces/xm/angry_combo.gif) | ![angry_combo](../assets/faces_png/xm/angry_combo.png) |
 | clown_combo | `` | ![clown_combo](../assets/faces/xm/clown_combo.gif) | ![clown_combo](../assets/faces_png/xm/clown_combo.png) |
-| devil | `` | ![devil](../assets/faces/xm/devil.png) | ![devil](../assets/faces_png/xm/devil.png) |
-| frown | `` | ![frown](../assets/faces/xm/frown.png) | ![frown](../assets/faces_png/xm/frown.png) |
-| wink | `` | ![wink](../assets/faces/xm/wink.png) | ![wink](../assets/faces_png/xm/wink.png) |
-| smile | `` | ![smile](../assets/faces/xm/smile.png) | ![smile](../assets/faces_png/xm/smile.png) |
 

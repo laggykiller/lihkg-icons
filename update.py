@@ -108,7 +108,9 @@ def limoji_sorting(limoji: dict, main_js: dict, mapping: dict) -> list:
         
         for f in os.listdir(pack_dir):
             if f not in listed_icons_name:
-                special_list.append(['', f, gif2png(f)])
+                gif_path = os.path.join(pack_dir, f)
+                png_path = gif2png(gif_path)
+                special_list.append(['', gif_path, png_path])
 
         limoji_sorted[order] = {
             'pack': pack,

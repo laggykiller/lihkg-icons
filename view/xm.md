@@ -57,4 +57,20 @@
 | shocking_p | `#[shocking_p]#xm` | ![shocking_p](../assets/faces/xm/shocking_p.gif) | ![shocking_p](../assets/faces_png/xm/shocking_p.png) |
 | shocking_r | `#[shocking_r]#xm` | ![shocking_r](../assets/faces/xm/shocking_r.gif) | ![shocking_r](../assets/faces_png/xm/shocking_r.png) |
 | shocking_y | `#[shocking_y]#xm` | ![shocking_y](../assets/faces/xm/shocking_y.gif) | ![shocking_y](../assets/faces_png/xm/shocking_y.png) |
+| smile | `` | ![smile](../smile.png) | ![smile](../smile.png) |
+| devil | `` | ![devil](../devil.png) | ![devil](../devil.png) |
+| wonder | `` | ![wonder](../wonder.png) | ![wonder](../wonder.png) |
+| kiss | `` | ![kiss](../kiss.png) | ![kiss](../kiss.png) |
+| oh | `` | ![oh](../oh.png) | ![oh](../oh.png) |
+| frown | `` | ![frown](../frown.png) | ![frown](../frown.png) |
+| good | `` | ![good](../good.png) | ![good](../good.png) |
+| wink | `` | ![wink](../wink.png) | ![wink](../wink.png) |
+| tongue | `` | ![tongue](../tongue.png) | ![tongue](../tongue.png) |
+| angry | `` | ![angry](../angry.png) | ![angry](../angry.png) |
+| censored | `` | ![censored](../censored.png) | ![censored](../censored.png) |
+| 369_combo | `` | ![369_combo](../369_combo.gif) | ![369_combo](../369_combo.png) |
+| angry_combo | `` | ![angry_combo](../angry_combo.gif) | ![angry_combo](../angry_combo.png) |
+| biggrin | `` | ![biggrin](../biggrin.png) | ![biggrin](../biggrin.png) |
+| clown_combo | `` | ![clown_combo](../clown_combo.gif) | ![clown_combo](../clown_combo.png) |
+| clown | `` | ![clown](../clown.png) | ![clown](../clown.png) |
 

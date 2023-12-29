@@ -49,4 +49,5 @@
 | knife_connect | `#fight1#dog #kill#pig` | ![knife_connect](../assets/faces/pig/knife_connect.gif) | ![knife_connect](../assets/faces_png/pig/knife_connect.png) |
 | cook_connect | `#cooking#pig #fan#pig` | ![cook_connect](../assets/faces/pig/cook_connect.gif) | ![cook_connect](../assets/faces_png/pig/cook_connect.png) |
 | wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../assets/faces/pig/wine_connect.gif) | ![wine_connect](../assets/faces_png/pig/wine_connect.png) |
+| sadNangry | `` | ![sadNangry](../sadNangry.gif) | ![sadNangry](../sadNangry.png) |
 

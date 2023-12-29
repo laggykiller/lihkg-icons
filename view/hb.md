@@ -28,4 +28,6 @@
 | rabbit2_hb | `#rabbit2#hb` | ![rabbit2_hb](../assets/faces/lihkg/rabbit2_hb.gif) | ![rabbit2_hb](../assets/faces_png/lihkg/rabbit2_hb.png) |
 | rabbit3_hb | `#rabbit3#hb` | ![rabbit3_hb](../assets/faces/lihkg/rabbit3_hb.gif) | ![rabbit3_hb](../assets/faces_png/lihkg/rabbit3_hb.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
+| dog1 | `` | ![dog1](../dog1.gif) | ![dog1](../dog1.png) |
+| dog2 | `` | ![dog2](../dog2.gif) | ![dog2](../dog2.png) |
 

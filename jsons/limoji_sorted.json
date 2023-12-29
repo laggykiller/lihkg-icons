@@ -1906,6 +1906,11 @@
                 "#wine#pig #champagne#pig",
                 "assets/faces/pig/wine_connect.gif",
                 "assets/faces_png/pig/wine_connect.png"
+            ],
+            [
+                "",
+                "sadNangry.gif",
+                "sadNangry.png"
             ]
         ]
     },
@@ -2953,7 +2958,38 @@
                 "assets/faces_png/dragon/lihkg.png"
             ]
         ],
-        "special": []
+        "special": [
+            [
+                "",
+                "guitar.gif",
+                "guitar.png"
+            ],
+            [
+                "",
+                "backpain_connect.gif",
+                "backpain_connect.png"
+            ],
+            [
+                "",
+                "wheelchair_connect.gif",
+                "wheelchair_connect.png"
+            ],
+            [
+                "",
+                "angry_connect.gif",
+                "angry_connect.png"
+            ],
+            [
+                "",
+                "angry_special.gif",
+                "angry_special.png"
+            ],
+            [
+                "",
+                "angry_connect2.gif",
+                "angry_connect2.png"
+            ]
+        ]
     },
     "hb": {
         "pack_name": "hb",
@@ -3094,6 +3130,16 @@
                 "#cow2#hb #rabbit2#hb",
                 "assets/faces/lihkg/rabbit_hb_connect.gif",
                 "assets/faces_png/lihkg/rabbit_hb_connect.png"
+            ],
+            [
+                "",
+                "dog1.gif",
+                "dog1.png"
+            ],
+            [
+                "",
+                "dog2.gif",
+                "dog2.png"
             ]
         ]
     },
@@ -3637,6 +3683,46 @@
                 "#banghead#fifa #kill2#fifa",
                 "assets/faces/fifa/kill2_connect.gif",
                 "assets/faces_png/fifa/kill2_connect.png"
+            ],
+            [
+                "",
+                "colombia.gif",
+                "colombia.png"
+            ],
+            [
+                "",
+                "nigeria.gif",
+                "nigeria.png"
+            ],
+            [
+                "",
+                "peru.gif",
+                "peru.png"
+            ],
+            [
+                "",
+                "sweden.gif",
+                "sweden.png"
+            ],
+            [
+                "",
+                "russia.gif",
+                "russia.png"
+            ],
+            [
+                "",
+                "panama.gif",
+                "panama.png"
+            ],
+            [
+                "",
+                "egypt.gif",
+                "egypt.png"
+            ],
+            [
+                "",
+                "iceland.gif",
+                "iceland.png"
             ]
         ]
     },
@@ -3684,7 +3770,13 @@
                 "assets/faces_png/rip/rabbit.png"
             ]
         ],
-        "special": []
+        "special": [
+            [
+                "",
+                "rip.gif",
+                "rip.png"
+            ]
+        ]
     },
     "xm": {
         "pack_name": "聖誕版",
@@ -3970,7 +4062,88 @@
                 "assets/faces_png/xm/shocking_y.png"
             ]
         ],
-        "special": []
+        "special": [
+            [
+                "",
+                "smile.png",
+                "smile.png"
+            ],
+            [
+                "",
+                "devil.png",
+                "devil.png"
+            ],
+            [
+                "",
+                "wonder.png",
+                "wonder.png"
+            ],
+            [
+                "",
+                "kiss.png",
+                "kiss.png"
+            ],
+            [
+                "",
+                "oh.png",
+                "oh.png"
+            ],
+            [
+                "",
+                "frown.png",
+                "frown.png"
+            ],
+            [
+                "",
+                "good.png",
+                "good.png"
+            ],
+            [
+                "",
+                "wink.png",
+                "wink.png"
+            ],
+            [
+                "",
+                "tongue.png",
+                "tongue.png"
+            ],
+            [
+                "",
+                "angry.png",
+                "angry.png"
+            ],
+            [
+                "",
+                "censored.png",
+                "censored.png"
+            ],
+            [
+                "",
+                "369_combo.gif",
+                "369_combo.png"
+            ],
+            [
+                "",
+                "angry_combo.gif",
+                "angry_combo.png"
+            ],
+            [
+                "",
+                "biggrin.png",
+                "biggrin.png"
+            ],
+            [
+                "",
+                "clown_combo.gif",
+                "clown_combo.png"
+            ],
+            [
+                "",
+                "clown.png",
+                "clown.png"
+            ]
+        ]
     },
     "mf": {
         "pack_name": "中秋節版",
@@ -5207,7 +5380,73 @@
                 "assets/faces_png/lny/kill2.png"
             ]
         ],
-        "special": []
+        "special": [
+            [
+                "",
+                "pig2.gif",
+                "pig2.png"
+            ],
+            [
+                "",
+                "smile.png",
+                "smile.png"
+            ],
+            [
+                "",
+                "devil.png",
+                "devil.png"
+            ],
+            [
+                "",
+                "dog1.gif",
+                "dog1.png"
+            ],
+            [
+                "",
+                "smile3.png",
+                "smile3.png"
+            ],
+            [
+                "",
+                "offtopic.png",
+                "offtopic.png"
+            ],
+            [
+                "",
+                "wonder.png",
+                "wonder.png"
+            ],
+            [
+                "",
+                "good.png",
+                "good.png"
+            ],
+            [
+                "",
+                "wink.png",
+                "wink.png"
+            ],
+            [
+                "",
+                "dog2.gif",
+                "dog2.png"
+            ],
+            [
+                "",
+                "pig1.gif",
+                "pig1.png"
+            ],
+            [
+                "",
+                "clown2.png",
+                "clown2.png"
+            ],
+            [
+                "",
+                "clown.png",
+                "clown.png"
+            ]
+        ]
     },
     "lm2lny": {
         "pack_name": "腦魔2新年版",
@@ -6790,6 +7029,16 @@
                 "#saw#rabbitxm #gun#mousexm",
                 "assets/faces/rabbitxm/saw_connect.gif",
                 "assets/faces_png/rabbitxm/saw_connect.png"
+            ],
+            [
+                "",
+                "roast_special.gif",
+                "roast_special.png"
+            ],
+            [
+                "",
+                "wind.gif",
+                "wind.png"
             ]
         ]
     }

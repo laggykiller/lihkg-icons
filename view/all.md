@@ -399,6 +399,7 @@
 | knife_connect | `#fight1#dog #kill#pig` | ![knife_connect](../assets/faces/pig/knife_connect.gif) | ![knife_connect](../assets/faces_png/pig/knife_connect.png) |
 | cook_connect | `#cooking#pig #fan#pig` | ![cook_connect](../assets/faces/pig/cook_connect.gif) | ![cook_connect](../assets/faces_png/pig/cook_connect.png) |
 | wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../assets/faces/pig/wine_connect.gif) | ![wine_connect](../assets/faces_png/pig/wine_connect.png) |
+| sadNangry | `` | ![sadNangry](../sadNangry.gif) | ![sadNangry](../sadNangry.png) |
 
 ## mouse [連鼠]
 | Filename | Emoji | GIF | PNG |
@@ -624,6 +625,12 @@
 | z | `#z#dragon` | ![z](../assets/faces/dragon/z.gif) | ![z](../assets/faces_png/dragon/z.png) |
 | wind | `#wind#dragon` | ![wind](../assets/faces/dragon/wind.gif) | ![wind](../assets/faces_png/dragon/wind.png) |
 | lihkg | `#lihkg#dragon` | ![lihkg](../assets/faces/dragon/lihkg.gif) | ![lihkg](../assets/faces_png/dragon/lihkg.png) |
+| guitar | `` | ![guitar](../guitar.gif) | ![guitar](../guitar.png) |
+| backpain_connect | `` | ![backpain_connect](../backpain_connect.gif) | ![backpain_connect](../backpain_connect.png) |
+| wheelchair_connect | `` | ![wheelchair_connect](../wheelchair_connect.gif) | ![wheelchair_connect](../wheelchair_connect.png) |
+| angry_connect | `` | ![angry_connect](../angry_connect.gif) | ![angry_connect](../angry_connect.png) |
+| angry_special | `` | ![angry_special](../angry_special.gif) | ![angry_special](../angry_special.png) |
+| angry_connect2 | `` | ![angry_connect2](../angry_connect2.gif) | ![angry_connect2](../angry_connect2.png) |
 
 ## hb [hb]
 | Filename | Emoji | GIF | PNG |
@@ -655,6 +662,8 @@
 | rabbit2_hb | `#rabbit2#hb` | ![rabbit2_hb](../assets/faces/lihkg/rabbit2_hb.gif) | ![rabbit2_hb](../assets/faces_png/lihkg/rabbit2_hb.png) |
 | rabbit3_hb | `#rabbit3#hb` | ![rabbit3_hb](../assets/faces/lihkg/rabbit3_hb.gif) | ![rabbit3_hb](../assets/faces_png/lihkg/rabbit3_hb.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
+| dog1 | `` | ![dog1](../dog1.gif) | ![dog1](../dog1.png) |
+| dog2 | `` | ![dog2](../dog2.gif) | ![dog2](../dog2.png) |
 
 ## fatcmoji [肥絲]
 | Filename | Emoji | GIF | PNG |
@@ -769,6 +778,14 @@
 | wales | `#wales#fifa` | ![wales](../assets/faces/fifa/wales.gif) | ![wales](../assets/faces_png/fifa/wales.png) |
 | kill_connect | `#kill#fifa #slick#fifa` | ![kill_connect](../assets/faces/fifa/kill_connect.gif) | ![kill_connect](../assets/faces_png/fifa/kill_connect.png) |
 | kill2_connect | `#banghead#fifa #kill2#fifa` | ![kill2_connect](../assets/faces/fifa/kill2_connect.gif) | ![kill2_connect](../assets/faces_png/fifa/kill2_connect.png) |
+| colombia | `` | ![colombia](../colombia.gif) | ![colombia](../colombia.png) |
+| nigeria | `` | ![nigeria](../nigeria.gif) | ![nigeria](../nigeria.png) |
+| peru | `` | ![peru](../peru.gif) | ![peru](../peru.png) |
+| sweden | `` | ![sweden](../sweden.gif) | ![sweden](../sweden.png) |
+| russia | `` | ![russia](../russia.gif) | ![russia](../russia.png) |
+| panama | `` | ![panama](../panama.gif) | ![panama](../panama.png) |
+| egypt | `` | ![egypt](../egypt.gif) | ![egypt](../egypt.png) |
+| iceland | `` | ![iceland](../iceland.gif) | ![iceland](../iceland.png) |
 
 ## rip [RIP]
 | Filename | Emoji | GIF | PNG |
@@ -781,6 +798,7 @@
 | cow | `#cow#rip` | ![cow](../assets/faces/rip/cow.gif) | ![cow](../assets/faces_png/rip/cow.png) |
 | tiger | `#tiger#rip` | ![tiger](../assets/faces/rip/tiger.gif) | ![tiger](../assets/faces_png/rip/tiger.png) |
 | rabbit | `#rabbit#rip` | ![rabbit](../assets/faces/rip/rabbit.gif) | ![rabbit](../assets/faces_png/rip/rabbit.png) |
+| rip | `` | ![rip](../rip.gif) | ![rip](../rip.png) |
 
 ## xm [聖誕版]
 | Filename | Emoji | GIF | PNG |
@@ -841,6 +859,22 @@
 | shocking_p | `#[shocking_p]#xm` | ![shocking_p](../assets/faces/xm/shocking_p.gif) | ![shocking_p](../assets/faces_png/xm/shocking_p.png) |
 | shocking_r | `#[shocking_r]#xm` | ![shocking_r](../assets/faces/xm/shocking_r.gif) | ![shocking_r](../assets/faces_png/xm/shocking_r.png) |
 | shocking_y | `#[shocking_y]#xm` | ![shocking_y](../assets/faces/xm/shocking_y.gif) | ![shocking_y](../assets/faces_png/xm/shocking_y.png) |
+| smile | `` | ![smile](../smile.png) | ![smile](../smile.png) |
+| devil | `` | ![devil](../devil.png) | ![devil](../devil.png) |
+| wonder | `` | ![wonder](../wonder.png) | ![wonder](../wonder.png) |
+| kiss | `` | ![kiss](../kiss.png) | ![kiss](../kiss.png) |
+| oh | `` | ![oh](../oh.png) | ![oh](../oh.png) |
+| frown | `` | ![frown](../frown.png) | ![frown](../frown.png) |
+| good | `` | ![good](../good.png) | ![good](../good.png) |
+| wink | `` | ![wink](../wink.png) | ![wink](../wink.png) |
+| tongue | `` | ![tongue](../tongue.png) | ![tongue](../tongue.png) |
+| angry | `` | ![angry](../angry.png) | ![angry](../angry.png) |
+| censored | `` | ![censored](../censored.png) | ![censored](../censored.png) |
+| 369_combo | `` | ![369_combo](../369_combo.gif) | ![369_combo](../369_combo.png) |
+| angry_combo | `` | ![angry_combo](../angry_combo.gif) | ![angry_combo](../angry_combo.png) |
+| biggrin | `` | ![biggrin](../biggrin.png) | ![biggrin](../biggrin.png) |
+| clown_combo | `` | ![clown_combo](../clown_combo.gif) | ![clown_combo](../clown_combo.png) |
+| clown | `` | ![clown](../clown.png) | ![clown](../clown.png) |
 
 ## mf [中秋節版]
 | Filename | Emoji | GIF | PNG |
@@ -1099,6 +1133,19 @@
 | fuck | `#fuck#lny` | ![fuck](../assets/faces/lny/fuck.gif) | ![fuck](../assets/faces_png/lny/fuck.png) |
 | no | `#no#lny` | ![no](../assets/faces/lny/no.gif) | ![no](../assets/faces_png/lny/no.png) |
 | kill2 | `#kill2#lny` | ![kill2](../assets/faces/lny/kill2.gif) | ![kill2](../assets/faces_png/lny/kill2.png) |
+| pig2 | `` | ![pig2](../pig2.gif) | ![pig2](../pig2.png) |
+| smile | `` | ![smile](../smile.png) | ![smile](../smile.png) |
+| devil | `` | ![devil](../devil.png) | ![devil](../devil.png) |
+| dog1 | `` | ![dog1](../dog1.gif) | ![dog1](../dog1.png) |
+| smile3 | `` | ![smile3](../smile3.png) | ![smile3](../smile3.png) |
+| offtopic | `` | ![offtopic](../offtopic.png) | ![offtopic](../offtopic.png) |
+| wonder | `` | ![wonder](../wonder.png) | ![wonder](../wonder.png) |
+| good | `` | ![good](../good.png) | ![good](../good.png) |
+| wink | `` | ![wink](../wink.png) | ![wink](../wink.png) |
+| dog2 | `` | ![dog2](../dog2.gif) | ![dog2](../dog2.png) |
+| pig1 | `` | ![pig1](../pig1.gif) | ![pig1](../pig1.png) |
+| clown2 | `` | ![clown2](../clown2.png) | ![clown2](../clown2.png) |
+| clown | `` | ![clown](../clown.png) | ![clown](../clown.png) |
 
 ## lm2lny [腦魔2新年版]
 | Filename | Emoji | GIF | PNG |
@@ -1434,4 +1481,6 @@
 | axe_connect | `#car#cowxm #axe#rabbitxm` | ![axe_connect](../assets/faces/rabbitxm/axe_connect.gif) | ![axe_connect](../assets/faces_png/rabbitxm/axe_connect.png) |
 | roast_connect3 | `#:)#rabbitxm #kill#pigxm` | ![roast_connect3](../assets/faces/rabbitxm/roast_connect3.gif) | ![roast_connect3](../assets/faces_png/rabbitxm/roast_connect3.png) |
 | saw_connect | `#saw#rabbitxm #gun#mousexm` | ![saw_connect](../assets/faces/rabbitxm/saw_connect.gif) | ![saw_connect](../assets/faces_png/rabbitxm/saw_connect.png) |
+| roast_special | `` | ![roast_special](../roast_special.gif) | ![roast_special](../roast_special.png) |
+| wind | `` | ![wind](../wind.gif) | ![wind](../wind.png) |
 

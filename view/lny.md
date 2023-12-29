@@ -61,4 +61,17 @@
 | fuck | `#fuck#lny` | ![fuck](../assets/faces/lny/fuck.gif) | ![fuck](../assets/faces_png/lny/fuck.png) |
 | no | `#no#lny` | ![no](../assets/faces/lny/no.gif) | ![no](../assets/faces_png/lny/no.png) |
 | kill2 | `#kill2#lny` | ![kill2](../assets/faces/lny/kill2.gif) | ![kill2](../assets/faces_png/lny/kill2.png) |
+| pig2 | `` | ![pig2](../pig2.gif) | ![pig2](../pig2.png) |
+| smile | `` | ![smile](../smile.png) | ![smile](../smile.png) |
+| devil | `` | ![devil](../devil.png) | ![devil](../devil.png) |
+| dog1 | `` | ![dog1](../dog1.gif) | ![dog1](../dog1.png) |
+| smile3 | `` | ![smile3](../smile3.png) | ![smile3](../smile3.png) |
+| offtopic | `` | ![offtopic](../offtopic.png) | ![offtopic](../offtopic.png) |
+| wonder | `` | ![wonder](../wonder.png) | ![wonder](../wonder.png) |
+| good | `` | ![good](../good.png) | ![good](../good.png) |
+| wink | `` | ![wink](../wink.png) | ![wink](../wink.png) |
+| dog2 | `` | ![dog2](../dog2.gif) | ![dog2](../dog2.png) |
+| pig1 | `` | ![pig1](../pig1.gif) | ![pig1](../pig1.png) |
+| clown2 | `` | ![clown2](../clown2.png) | ![clown2](../clown2.png) |
+| clown | `` | ![clown](../clown.png) | ![clown](../clown.png) |
 

@@ -2960,34 +2960,34 @@
         ],
         "special": [
             [
-                "",
-                "assets/faces/dragon/angry_special.gif",
-                "assets/faces_png/dragon/angry_special.png"
+                "#spit#dragon #gun#mouse",
+                "assets/faces/dragon/angry_connect.gif",
+                "assets/faces_png/dragon/angry_connect.png"
             ],
             [
-                "",
-                "assets/faces/dragon/guitar.gif",
-                "assets/faces_png/dragon/guitar.png"
-            ],
-            [
-                "",
-                "assets/faces/dragon/backpain_connect.gif",
-                "assets/faces_png/dragon/backpain_connect.png"
-            ],
-            [
-                "",
+                "#:-[#dragon #tired#mouse",
                 "assets/faces/dragon/angry_connect2.gif",
                 "assets/faces_png/dragon/angry_connect2.png"
             ],
             [
-                "",
+                "#:-[#dragon #midfinger#dragon",
+                "assets/faces/dragon/angry_special.gif",
+                "assets/faces_png/dragon/angry_special.png"
+            ],
+            [
+                "#throw#cat #backpain#dragon",
+                "assets/faces/dragon/backpain_connect.gif",
+                "assets/faces_png/dragon/backpain_connect.png"
+            ],
+            [
+                "#car#cow #wheelchair#dragon",
                 "assets/faces/dragon/wheelchair_connect.gif",
                 "assets/faces_png/dragon/wheelchair_connect.png"
             ],
             [
                 "",
-                "assets/faces/dragon/angry_connect.gif",
-                "assets/faces_png/dragon/angry_connect.png"
+                "assets/faces/dragon/guitar.gif",
+                "assets/faces_png/dragon/guitar.png"
             ]
         ]
     },

@@ -42,5 +42,4 @@
 | roast_connect3 | `#:)#rabbitxm #kill#pigxm` | ![roast_connect3](../assets/faces/rabbitxm/roast_connect3.gif) | ![roast_connect3](../assets/faces_png/rabbitxm/roast_connect3.png) |
 | saw_connect | `#saw#rabbitxm #gun#mousexm` | ![saw_connect](../assets/faces/rabbitxm/saw_connect.gif) | ![saw_connect](../assets/faces_png/rabbitxm/saw_connect.png) |
 | wind | `` | ![wind](../assets/faces/rabbitxm/wind.gif) | ![wind](../assets/faces_png/rabbitxm/wind.png) |
-| roast_special | `` | ![roast_special](../assets/faces/rabbitxm/roast_special.gif) | ![roast_special](../assets/faces_png/rabbitxm/roast_special.png) |
 

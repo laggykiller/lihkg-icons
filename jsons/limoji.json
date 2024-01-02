@@ -3057,16 +3057,6 @@
                     "assets/faces_png/normal/like.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1704038399000,
-                "end_time": 1804038399000
-            },
-            "show_on_2": [
-                {
-                    "start_time": 1704038399000,
-                    "end_time": 1804038399000
-                }
-            ],
             "sort": 1
         },
         {
@@ -3607,16 +3597,6 @@
                     "assets/faces_png/dog/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1704038399000,
-                "end_time": 1804038399000
-            },
-            "show_on_2": [
-                {
-                    "start_time": 1704038399000,
-                    "end_time": 1804038399000
-                }
-            ],
             "sort": 2
         },
         {
@@ -3838,16 +3818,6 @@
                     "assets/faces_png/pig/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1704038399000,
-                "end_time": 1804038399000
-            },
-            "show_on_2": [
-                {
-                    "start_time": 1704038399000,
-                    "end_time": 1804038399000
-                }
-            ],
             "sort": 7
         },
         {
@@ -3887,6 +3857,11 @@
                     "#gj#dragon",
                     "assets/faces/dragon/gj.gif",
                     "assets/faces_png/dragon/gj.png"
+                ],
+                [
+                    "#guitar#dragon",
+                    "assets/faces/dragon/guitar.gif",
+                    "assets/faces_png/dragon/guitar.png"
                 ],
                 [
                     "#bye#dragon",
@@ -4008,16 +3983,6 @@
                     "assets/faces/dragon/lihkg.gif",
                     "assets/faces_png/dragon/lihkg.png"
                 ]
-            ],
-            "show_on": {
-                "start_time": 1704038399000,
-                "end_time": 1804038399000
-            },
-            "show_on_2": [
-                {
-                    "start_time": 1704038399000,
-                    "end_time": 1804038399000
-                }
             ],
             "sort": 13
         },
@@ -4205,16 +4170,6 @@
                     "assets/faces_png/mouse/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1704038399000,
-                "end_time": 1804038399000
-            },
-            "show_on_2": [
-                {
-                    "start_time": 1704038399000,
-                    "end_time": 1804038399000
-                }
-            ],
             "sort": 8
         },
         {
@@ -4350,16 +4305,6 @@
                     "assets/faces/cat/lihkg.gif",
                     "assets/faces_png/cat/lihkg.png"
                 ]
-            ],
-            "show_on": {
-                "start_time": 1704038399000,
-                "end_time": 1804038399000
-            },
-            "show_on_2": [
-                {
-                    "start_time": 1704038399000,
-                    "end_time": 1804038399000
-                }
             ],
             "sort": 9
         },
@@ -4527,16 +4472,6 @@
                     "assets/faces_png/cow/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1704038399000,
-                "end_time": 1804038399000
-            },
-            "show_on_2": [
-                {
-                    "start_time": 1704038399000,
-                    "end_time": 1804038399000
-                }
-            ],
             "sort": 10
         },
         {
@@ -4667,16 +4602,6 @@
                     "assets/faces/tiger/lihkg2.gif",
                     "assets/faces_png/tiger/lihkg2.png"
                 ]
-            ],
-            "show_on": {
-                "start_time": 1704038399000,
-                "end_time": 1804038399000
-            },
-            "show_on_2": [
-                {
-                    "start_time": 1704038399000,
-                    "end_time": 1804038399000
-                }
             ],
             "sort": 11
         },
@@ -4838,16 +4763,6 @@
                     "assets/faces/rabbit/lihkg.gif",
                     "assets/faces_png/rabbit/lihkg.png"
                 ]
-            ],
-            "show_on": {
-                "start_time": 1704038399000,
-                "end_time": 1804038399000
-            },
-            "show_on_2": [
-                {
-                    "start_time": 1704038399000,
-                    "end_time": 1804038399000
-                }
             ],
             "sort": 12
         },

@@ -8,6 +8,7 @@
 | lick | `#lick#dragon` | ![lick](../assets/faces/dragon/lick.gif) | ![lick](../assets/faces_png/dragon/lick.png) |
 | lick2 | `#lick2#dragon` | ![lick2](../assets/faces/dragon/lick2.gif) | ![lick2](../assets/faces_png/dragon/lick2.png) |
 | gj | `#gj#dragon` | ![gj](../assets/faces/dragon/gj.gif) | ![gj](../assets/faces_png/dragon/gj.png) |
+| guitar | `#guitar#dragon` | ![guitar](../assets/faces/dragon/guitar.gif) | ![guitar](../assets/faces_png/dragon/guitar.png) |
 | bye | `#bye#dragon` | ![bye](../assets/faces/dragon/bye.gif) | ![bye](../assets/faces_png/dragon/bye.png) |
 | eat | `#eat#dragon` | ![eat](../assets/faces/dragon/eat.gif) | ![eat](../assets/faces_png/dragon/eat.png) |
 | ok | `#ok#dragon` | ![ok](../assets/faces/dragon/ok.gif) | ![ok](../assets/faces_png/dragon/ok.png) |
@@ -37,5 +38,4 @@
 | angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../assets/faces/dragon/angry_special.gif) | ![angry_special](../assets/faces_png/dragon/angry_special.png) |
 | backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../assets/faces/dragon/backpain_connect.gif) | ![backpain_connect](../assets/faces_png/dragon/backpain_connect.png) |
 | wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../assets/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragon/wheelchair_connect.png) |
-| guitar | `` | ![guitar](../assets/faces/dragon/guitar.gif) | ![guitar](../assets/faces_png/dragon/guitar.png) |
 

@@ -58,12 +58,12 @@
 | wales | `#wales#fifa` | ![wales](../assets/faces/fifa/wales.gif) | ![wales](../assets/faces_png/fifa/wales.png) |
 | kill_connect | `#kill#fifa #slick#fifa` | ![kill_connect](../assets/faces/fifa/kill_connect.gif) | ![kill_connect](../assets/faces_png/fifa/kill_connect.png) |
 | kill2_connect | `#banghead#fifa #kill2#fifa` | ![kill2_connect](../assets/faces/fifa/kill2_connect.gif) | ![kill2_connect](../assets/faces_png/fifa/kill2_connect.png) |
-| iceland | `` | ![iceland](../assets/faces/fifa/iceland.gif) | ![iceland](../assets/faces_png/fifa/iceland.png) |
-| sweden | `` | ![sweden](../assets/faces/fifa/sweden.gif) | ![sweden](../assets/faces_png/fifa/sweden.png) |
+| colombia | `` | ![colombia](../assets/faces/fifa/colombia.gif) | ![colombia](../assets/faces_png/fifa/colombia.png) |
+| nigeria | `` | ![nigeria](../assets/faces/fifa/nigeria.gif) | ![nigeria](../assets/faces_png/fifa/nigeria.png) |
 | panama | `` | ![panama](../assets/faces/fifa/panama.gif) | ![panama](../assets/faces_png/fifa/panama.png) |
 | peru | `` | ![peru](../assets/faces/fifa/peru.gif) | ![peru](../assets/faces_png/fifa/peru.png) |
 | russia | `` | ![russia](../assets/faces/fifa/russia.gif) | ![russia](../assets/faces_png/fifa/russia.png) |
-| nigeria | `` | ![nigeria](../assets/faces/fifa/nigeria.gif) | ![nigeria](../assets/faces_png/fifa/nigeria.png) |
-| colombia | `` | ![colombia](../assets/faces/fifa/colombia.gif) | ![colombia](../assets/faces_png/fifa/colombia.png) |
+| iceland | `` | ![iceland](../assets/faces/fifa/iceland.gif) | ![iceland](../assets/faces_png/fifa/iceland.png) |
+| sweden | `` | ![sweden](../assets/faces/fifa/sweden.gif) | ![sweden](../assets/faces_png/fifa/sweden.png) |
 | egypt | `` | ![egypt](../assets/faces/fifa/egypt.gif) | ![egypt](../assets/faces_png/fifa/egypt.png) |
 

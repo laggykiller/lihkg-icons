@@ -723,13 +723,7 @@
         },
         "special": {
             "assets/faces/lm2/credit.gif": "#credit#lm2"
-        },
-        "showOn": [
-            {
-                "start_time": 1704038399000,
-                "end_time": 1707408000000
-            }
-        ]
+        }
     },
     "lm2xm": {
         "icons": {

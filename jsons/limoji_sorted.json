@@ -3686,13 +3686,18 @@
             ],
             [
                 "",
-                "assets/faces/fifa/peru.gif",
-                "assets/faces_png/fifa/peru.png"
+                "assets/faces/fifa/nigeria.gif",
+                "assets/faces_png/fifa/nigeria.png"
             ],
             [
                 "",
-                "assets/faces/fifa/iceland.gif",
-                "assets/faces_png/fifa/iceland.png"
+                "assets/faces/fifa/colombia.gif",
+                "assets/faces_png/fifa/colombia.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/peru.gif",
+                "assets/faces_png/fifa/peru.png"
             ],
             [
                 "",
@@ -3706,23 +3711,18 @@
             ],
             [
                 "",
-                "assets/faces/fifa/colombia.gif",
-                "assets/faces_png/fifa/colombia.png"
-            ],
-            [
-                "",
                 "assets/faces/fifa/sweden.gif",
                 "assets/faces_png/fifa/sweden.png"
             ],
             [
                 "",
-                "assets/faces/fifa/egypt.gif",
-                "assets/faces_png/fifa/egypt.png"
+                "assets/faces/fifa/iceland.gif",
+                "assets/faces_png/fifa/iceland.png"
             ],
             [
                 "",
-                "assets/faces/fifa/nigeria.gif",
-                "assets/faces_png/fifa/nigeria.png"
+                "assets/faces/fifa/egypt.gif",
+                "assets/faces_png/fifa/egypt.png"
             ]
         ]
     },
@@ -4059,13 +4059,13 @@
         "special": [
             [
                 "",
-                "assets/faces/xm/angry_combo.gif",
-                "assets/faces_png/xm/angry_combo.png"
+                "assets/faces/xm/clown_combo.gif",
+                "assets/faces_png/xm/clown_combo.png"
             ],
             [
                 "",
-                "assets/faces/xm/clown_combo.gif",
-                "assets/faces_png/xm/clown_combo.png"
+                "assets/faces/xm/angry_combo.gif",
+                "assets/faces_png/xm/angry_combo.png"
             ],
             [
                 "",
@@ -5312,16 +5312,6 @@
         "special": [
             [
                 "",
-                "assets/faces/lny/pig2.gif",
-                "assets/faces_png/lny/pig2.png"
-            ],
-            [
-                "",
-                "assets/faces/lny/pig1.gif",
-                "assets/faces_png/lny/pig1.png"
-            ],
-            [
-                "",
                 "assets/faces/lny/dog1.gif",
                 "assets/faces_png/lny/dog1.png"
             ],
@@ -5329,6 +5319,16 @@
                 "",
                 "assets/faces/lny/dog2.gif",
                 "assets/faces_png/lny/dog2.png"
+            ],
+            [
+                "",
+                "assets/faces/lny/pig2.gif",
+                "assets/faces_png/lny/pig2.png"
+            ],
+            [
+                "",
+                "assets/faces/lny/pig1.gif",
+                "assets/faces_png/lny/pig1.png"
             ]
         ]
     },

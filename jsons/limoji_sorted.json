@@ -3133,13 +3133,13 @@
             ],
             [
                 "",
-                "assets/faces/lihkg/dog1.gif",
-                "assets/faces_png/lihkg/dog1.png"
+                "assets/faces/lihkg/dog2.gif",
+                "assets/faces_png/lihkg/dog2.png"
             ],
             [
                 "",
-                "assets/faces/lihkg/dog2.gif",
-                "assets/faces_png/lihkg/dog2.png"
+                "assets/faces/lihkg/dog1.gif",
+                "assets/faces_png/lihkg/dog1.png"
             ]
         ]
     },
@@ -3686,13 +3686,13 @@
             ],
             [
                 "",
-                "assets/faces/fifa/nigeria.gif",
-                "assets/faces_png/fifa/nigeria.png"
+                "assets/faces/fifa/egypt.gif",
+                "assets/faces_png/fifa/egypt.png"
             ],
             [
                 "",
-                "assets/faces/fifa/colombia.gif",
-                "assets/faces_png/fifa/colombia.png"
+                "assets/faces/fifa/sweden.gif",
+                "assets/faces_png/fifa/sweden.png"
             ],
             [
                 "",
@@ -3706,23 +3706,23 @@
             ],
             [
                 "",
-                "assets/faces/fifa/russia.gif",
-                "assets/faces_png/fifa/russia.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/sweden.gif",
-                "assets/faces_png/fifa/sweden.png"
-            ],
-            [
-                "",
                 "assets/faces/fifa/iceland.gif",
                 "assets/faces_png/fifa/iceland.png"
             ],
             [
                 "",
-                "assets/faces/fifa/egypt.gif",
-                "assets/faces_png/fifa/egypt.png"
+                "assets/faces/fifa/russia.gif",
+                "assets/faces_png/fifa/russia.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/colombia.gif",
+                "assets/faces_png/fifa/colombia.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/nigeria.gif",
+                "assets/faces_png/fifa/nigeria.png"
             ]
         ]
     },
@@ -4059,11 +4059,6 @@
         "special": [
             [
                 "",
-                "assets/faces/xm/clown_combo.gif",
-                "assets/faces_png/xm/clown_combo.png"
-            ],
-            [
-                "",
                 "assets/faces/xm/angry_combo.gif",
                 "assets/faces_png/xm/angry_combo.png"
             ],
@@ -4071,6 +4066,11 @@
                 "",
                 "assets/faces/xm/369_combo.gif",
                 "assets/faces_png/xm/369_combo.png"
+            ],
+            [
+                "",
+                "assets/faces/xm/clown_combo.gif",
+                "assets/faces_png/xm/clown_combo.png"
             ]
         ]
     },
@@ -5312,13 +5312,13 @@
         "special": [
             [
                 "",
-                "assets/faces/lny/dog1.gif",
-                "assets/faces_png/lny/dog1.png"
+                "assets/faces/lny/dog2.gif",
+                "assets/faces_png/lny/dog2.png"
             ],
             [
                 "",
-                "assets/faces/lny/dog2.gif",
-                "assets/faces_png/lny/dog2.png"
+                "assets/faces/lny/dog1.gif",
+                "assets/faces_png/lny/dog1.png"
             ],
             [
                 "",

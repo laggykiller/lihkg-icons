@@ -9,4 +9,5 @@
 | cow | `#cow#rip` | ![cow](../assets/faces/rip/cow.gif) | ![cow](../assets/faces_png/rip/cow.png) |
 | tiger | `#tiger#rip` | ![tiger](../assets/faces/rip/tiger.gif) | ![tiger](../assets/faces_png/rip/tiger.png) |
 | rabbit | `#rabbit#rip` | ![rabbit](../assets/faces/rip/rabbit.gif) | ![rabbit](../assets/faces_png/rip/rabbit.png) |
+| dragon | `` | ![dragon](../assets/faces/rip/dragon.gif) | ![dragon](../assets/faces_png/rip/dragon.png) |
 

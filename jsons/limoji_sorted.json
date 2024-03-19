@@ -2113,6 +2113,11 @@
                 "#pray#mouse #please#mouse #miracle#mouse",
                 "assets/faces/mouse/miracle_special.gif",
                 "assets/faces_png/mouse/miracle_special.png"
+            ],
+            [
+                "",
+                "assets/faces/mouse/wind.gif",
+                "assets/faces_png/mouse/wind.png"
             ]
         ]
     },
@@ -2988,6 +2993,16 @@
                 "#car#cow #wheelchair#dragon",
                 "assets/faces/dragon/wheelchair_connect.gif",
                 "assets/faces_png/dragon/wheelchair_connect.png"
+            ],
+            [
+                "",
+                "assets/faces/dragon/ngg.gif",
+                "assets/faces_png/dragon/ngg.png"
+            ],
+            [
+                "",
+                "assets/faces/dragon/disappear.gif",
+                "assets/faces_png/dragon/disappear.png"
             ]
         ]
     },
@@ -3133,13 +3148,28 @@
             ],
             [
                 "",
+                "assets/faces/lihkg/dragon_hb_connect.gif",
+                "assets/faces_png/lihkg/dragon_hb_connect.png"
+            ],
+            [
+                "",
                 "assets/faces/lihkg/dog2.gif",
                 "assets/faces_png/lihkg/dog2.png"
             ],
             [
                 "",
+                "assets/faces/lihkg/dragon_hb.gif",
+                "assets/faces_png/lihkg/dragon_hb.png"
+            ],
+            [
+                "",
                 "assets/faces/lihkg/dog1.gif",
                 "assets/faces_png/lihkg/dog1.png"
+            ],
+            [
+                "",
+                "assets/faces/lihkg/dragon_hb2.gif",
+                "assets/faces_png/lihkg/dragon_hb2.png"
             ]
         ]
     },
@@ -3770,7 +3800,13 @@
                 "assets/faces_png/rip/rabbit.png"
             ]
         ],
-        "special": []
+        "special": [
+            [
+                "",
+                "assets/faces/rip/dragon.gif",
+                "assets/faces_png/rip/dragon.png"
+            ]
+        ]
     },
     "xm": {
         "pack_name": "聖誕版",

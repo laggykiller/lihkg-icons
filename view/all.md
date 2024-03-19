@@ -443,6 +443,7 @@
 | smile_special | `#:)#mouse #stare#cat` | ![smile_special](../assets/faces/mouse/smile_special.gif) | ![smile_special](../assets/faces_png/mouse/smile_special.png) |
 | vampire_special | `#awake#mouse #vampire#mouse` | ![vampire_special](../assets/faces/mouse/vampire_special.gif) | ![vampire_special](../assets/faces_png/mouse/vampire_special.png) |
 | miracle_special | `#pray#mouse #please#mouse #miracle#mouse` | ![miracle_special](../assets/faces/mouse/miracle_special.gif) | ![miracle_special](../assets/faces_png/mouse/miracle_special.png) |
+| wind | `` | ![wind](../assets/faces/mouse/wind.gif) | ![wind](../assets/faces_png/mouse/wind.png) |
 
 ## cat [連貓]
 | Filename | Emoji | GIF | PNG |
@@ -631,6 +632,8 @@
 | angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../assets/faces/dragon/angry_special.gif) | ![angry_special](../assets/faces_png/dragon/angry_special.png) |
 | backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../assets/faces/dragon/backpain_connect.gif) | ![backpain_connect](../assets/faces_png/dragon/backpain_connect.png) |
 | wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../assets/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragon/wheelchair_connect.png) |
+| ngg | `` | ![ngg](../assets/faces/dragon/ngg.gif) | ![ngg](../assets/faces_png/dragon/ngg.png) |
+| disappear | `` | ![disappear](../assets/faces/dragon/disappear.gif) | ![disappear](../assets/faces_png/dragon/disappear.png) |
 
 ## hb [hb]
 | Filename | Emoji | GIF | PNG |
@@ -662,8 +665,11 @@
 | rabbit2_hb | `#rabbit2#hb` | ![rabbit2_hb](../assets/faces/lihkg/rabbit2_hb.gif) | ![rabbit2_hb](../assets/faces_png/lihkg/rabbit2_hb.png) |
 | rabbit3_hb | `#rabbit3#hb` | ![rabbit3_hb](../assets/faces/lihkg/rabbit3_hb.gif) | ![rabbit3_hb](../assets/faces_png/lihkg/rabbit3_hb.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
+| dragon_hb_connect | `` | ![dragon_hb_connect](../assets/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../assets/faces_png/lihkg/dragon_hb_connect.png) |
 | dog2 | `` | ![dog2](../assets/faces/lihkg/dog2.gif) | ![dog2](../assets/faces_png/lihkg/dog2.png) |
+| dragon_hb | `` | ![dragon_hb](../assets/faces/lihkg/dragon_hb.gif) | ![dragon_hb](../assets/faces_png/lihkg/dragon_hb.png) |
 | dog1 | `` | ![dog1](../assets/faces/lihkg/dog1.gif) | ![dog1](../assets/faces_png/lihkg/dog1.png) |
+| dragon_hb2 | `` | ![dragon_hb2](../assets/faces/lihkg/dragon_hb2.gif) | ![dragon_hb2](../assets/faces_png/lihkg/dragon_hb2.png) |
 
 ## fatcmoji [肥絲]
 | Filename | Emoji | GIF | PNG |
@@ -798,6 +804,7 @@
 | cow | `#cow#rip` | ![cow](../assets/faces/rip/cow.gif) | ![cow](../assets/faces_png/rip/cow.png) |
 | tiger | `#tiger#rip` | ![tiger](../assets/faces/rip/tiger.gif) | ![tiger](../assets/faces_png/rip/tiger.png) |
 | rabbit | `#rabbit#rip` | ![rabbit](../assets/faces/rip/rabbit.gif) | ![rabbit](../assets/faces_png/rip/rabbit.png) |
+| dragon | `` | ![dragon](../assets/faces/rip/dragon.gif) | ![dragon](../assets/faces_png/rip/dragon.png) |
 
 ## xm [聖誕版]
 | Filename | Emoji | GIF | PNG |

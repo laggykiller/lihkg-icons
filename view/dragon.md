@@ -38,4 +38,6 @@
 | angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../assets/faces/dragon/angry_special.gif) | ![angry_special](../assets/faces_png/dragon/angry_special.png) |
 | backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../assets/faces/dragon/backpain_connect.gif) | ![backpain_connect](../assets/faces_png/dragon/backpain_connect.png) |
 | wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../assets/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragon/wheelchair_connect.png) |
+| ngg | `` | ![ngg](../assets/faces/dragon/ngg.gif) | ![ngg](../assets/faces_png/dragon/ngg.png) |
+| disappear | `` | ![disappear](../assets/faces/dragon/disappear.gif) | ![disappear](../assets/faces_png/dragon/disappear.png) |
 

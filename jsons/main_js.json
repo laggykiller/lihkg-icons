@@ -79,10 +79,13 @@
             "assets/faces/lihkg/tiger3_hb.gif": "#tiger3#hb",
             "assets/faces/lihkg/rabbit_hb.gif": "#rabbit#hb",
             "assets/faces/lihkg/rabbit2_hb.gif": "#rabbit2#hb",
-            "assets/faces/lihkg/rabbit3_hb.gif": "#rabbit3#hb"
+            "assets/faces/lihkg/rabbit3_hb.gif": "#rabbit3#hb",
+            "assets/faces/lihkg/dragon_hb.gif": "#dragon#hb",
+            "assets/faces/lihkg/dragon_hb2.gif": "#dragon2#hb"
         },
         "special": {
-            "assets/faces/lihkg/rabbit_hb_connect.gif": "#cow2#hb #rabbit2#hb"
+            "assets/faces/lihkg/rabbit_hb_connect.gif": "#cow2#hb #rabbit2#hb",
+            "assets/faces/lihkg/dragon_hb_connect.gif": "#cow2#hb #rabbit2#hb"
         },
         "showOn": [
             {
@@ -106,7 +109,8 @@
             "assets/faces/rip/cat.gif": "#cat#rip",
             "assets/faces/rip/cow.gif": "#cow#rip",
             "assets/faces/rip/tiger.gif": "#tiger#rip",
-            "assets/faces/rip/rabbit.gif": "#rabbit#rip"
+            "assets/faces/rip/rabbit.gif": "#rabbit#rip",
+            "assets/faces/rip/dragon.gif": "#dragon#rip"
         },
         "showOn": [
             {
@@ -371,6 +375,7 @@
             "assets/faces/dragon/lick.gif": "#lick#dragon",
             "assets/faces/dragon/lick2.gif": "#lick2#dragon",
             "assets/faces/dragon/gj.gif": "#gj#dragon",
+            "assets/faces/dragon/disappear.gif": "#disappear#dragon",
             "assets/faces/dragon/guitar.gif": "#guitar#dragon",
             "assets/faces/dragon/bye.gif": "#bye#dragon",
             "assets/faces/dragon/eat.gif": "#eat#dragon",
@@ -379,6 +384,7 @@
             "assets/faces/dragon/think.gif": "#think#dragon",
             "assets/faces/dragon/wtf.gif": "#wtf#dragon",
             "assets/faces/dragon/phone.gif": "#phone#dragon",
+            "assets/faces/dragon/ngg.gif": "#ngg#dragon",
             "assets/faces/dragon/mindblown.gif": "#mindblown#dragon",
             "assets/faces/dragon/wheelchair.gif": "#wheelchair#dragon",
             "assets/faces/dragon/angry.gif": "#:-[#dragon",
@@ -448,6 +454,7 @@
             "assets/faces/mouse/sigh.gif": "#sigh#mouse",
             "assets/faces/mouse/annoyed.gif": "#annoyed#mouse",
             "assets/faces/mouse/rubbish.gif": "#rubbish#mouse",
+            "assets/faces/mouse/wind.gif": "#wind#mouse",
             "assets/faces/mouse/lihkg.gif": "#lihkg#mouse"
         },
         "special": {

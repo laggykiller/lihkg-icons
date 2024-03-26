@@ -2093,6 +2093,11 @@
                 "assets/faces_png/mouse/rubbish.png"
             ],
             [
+                "#wind#mouse",
+                "assets/faces/mouse/wind.gif",
+                "assets/faces_png/mouse/wind.png"
+            ],
+            [
                 "#lihkg#mouse",
                 "assets/faces/mouse/lihkg.gif",
                 "assets/faces_png/mouse/lihkg.png"
@@ -2113,11 +2118,6 @@
                 "#pray#mouse #please#mouse #miracle#mouse",
                 "assets/faces/mouse/miracle_special.gif",
                 "assets/faces_png/mouse/miracle_special.png"
-            ],
-            [
-                "",
-                "assets/faces/mouse/wind.gif",
-                "assets/faces_png/mouse/wind.png"
             ]
         ]
     },
@@ -2843,6 +2843,11 @@
                 "assets/faces_png/dragon/gj.png"
             ],
             [
+                "#disappear#dragon",
+                "assets/faces/dragon/disappear.gif",
+                "assets/faces_png/dragon/disappear.png"
+            ],
+            [
                 "#guitar#dragon",
                 "assets/faces/dragon/guitar.gif",
                 "assets/faces_png/dragon/guitar.png"
@@ -2881,6 +2886,11 @@
                 "#phone#dragon",
                 "assets/faces/dragon/phone.gif",
                 "assets/faces_png/dragon/phone.png"
+            ],
+            [
+                "#ngg#dragon",
+                "assets/faces/dragon/ngg.gif",
+                "assets/faces_png/dragon/ngg.png"
             ],
             [
                 "#mindblown#dragon",
@@ -2993,16 +3003,6 @@
                 "#car#cow #wheelchair#dragon",
                 "assets/faces/dragon/wheelchair_connect.gif",
                 "assets/faces_png/dragon/wheelchair_connect.png"
-            ],
-            [
-                "",
-                "assets/faces/dragon/ngg.gif",
-                "assets/faces_png/dragon/ngg.png"
-            ],
-            [
-                "",
-                "assets/faces/dragon/disappear.gif",
-                "assets/faces_png/dragon/disappear.png"
             ]
         ]
     },
@@ -3138,6 +3138,16 @@
                 "#rabbit3#hb",
                 "assets/faces/lihkg/rabbit3_hb.gif",
                 "assets/faces_png/lihkg/rabbit3_hb.png"
+            ],
+            [
+                "#dragon#hb",
+                "assets/faces/lihkg/dragon_hb.gif",
+                "assets/faces_png/lihkg/dragon_hb.png"
+            ],
+            [
+                "#dragon2#hb",
+                "assets/faces/lihkg/dragon_hb2.gif",
+                "assets/faces_png/lihkg/dragon_hb2.png"
             ]
         ],
         "special": [
@@ -3147,7 +3157,7 @@
                 "assets/faces_png/lihkg/rabbit_hb_connect.png"
             ],
             [
-                "",
+                "#cow2#hb #rabbit2#hb",
                 "assets/faces/lihkg/dragon_hb_connect.gif",
                 "assets/faces_png/lihkg/dragon_hb_connect.png"
             ],
@@ -3158,18 +3168,8 @@
             ],
             [
                 "",
-                "assets/faces/lihkg/dragon_hb.gif",
-                "assets/faces_png/lihkg/dragon_hb.png"
-            ],
-            [
-                "",
                 "assets/faces/lihkg/dog1.gif",
                 "assets/faces_png/lihkg/dog1.png"
-            ],
-            [
-                "",
-                "assets/faces/lihkg/dragon_hb2.gif",
-                "assets/faces_png/lihkg/dragon_hb2.png"
             ]
         ]
     },
@@ -3798,15 +3798,14 @@
                 "#rabbit#rip",
                 "assets/faces/rip/rabbit.gif",
                 "assets/faces_png/rip/rabbit.png"
-            ]
-        ],
-        "special": [
+            ],
             [
-                "",
+                "#dragon#rip",
                 "assets/faces/rip/dragon.gif",
                 "assets/faces_png/rip/dragon.png"
             ]
-        ]
+        ],
+        "special": []
     },
     "xm": {
         "pack_name": "聖誕版",

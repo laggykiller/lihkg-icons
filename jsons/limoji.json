@@ -42,6 +42,11 @@
                     "#rabbit#rip",
                     "assets/faces/rip/rabbit.gif",
                     "assets/faces_png/rip/rabbit.png"
+                ],
+                [
+                    "#dragon#rip",
+                    "assets/faces/rip/dragon.gif",
+                    "assets/faces_png/rip/dragon.png"
                 ]
             ],
             "show_on": {
@@ -198,6 +203,16 @@
                     "#rabbit3#hb",
                     "assets/faces/lihkg/rabbit3_hb.gif",
                     "assets/faces_png/lihkg/rabbit3_hb.png"
+                ],
+                [
+                    "#dragon#hb",
+                    "assets/faces/lihkg/dragon_hb.gif",
+                    "assets/faces_png/lihkg/dragon_hb.png"
+                ],
+                [
+                    "#dragon2#hb",
+                    "assets/faces/lihkg/dragon_hb2.gif",
+                    "assets/faces_png/lihkg/dragon_hb2.png"
                 ]
             ],
             "show_on": {
@@ -3859,6 +3874,11 @@
                     "assets/faces_png/dragon/gj.png"
                 ],
                 [
+                    "#disappear#dragon",
+                    "assets/faces/dragon/disappear.gif",
+                    "assets/faces_png/dragon/disappear.png"
+                ],
+                [
                     "#guitar#dragon",
                     "assets/faces/dragon/guitar.gif",
                     "assets/faces_png/dragon/guitar.png"
@@ -3897,6 +3917,11 @@
                     "#phone#dragon",
                     "assets/faces/dragon/phone.gif",
                     "assets/faces_png/dragon/phone.png"
+                ],
+                [
+                    "#ngg#dragon",
+                    "assets/faces/dragon/ngg.gif",
+                    "assets/faces_png/dragon/ngg.png"
                 ],
                 [
                     "#mindblown#dragon",
@@ -4163,6 +4188,11 @@
                     "#rubbish#mouse",
                     "assets/faces/mouse/rubbish.gif",
                     "assets/faces_png/mouse/rubbish.png"
+                ],
+                [
+                    "#wind#mouse",
+                    "assets/faces/mouse/wind.gif",
+                    "assets/faces_png/mouse/wind.png"
                 ],
                 [
                     "#lihkg#mouse",

@@ -8,6 +8,7 @@
 | lick | `#lick#dragon` | ![lick](../assets/faces/dragon/lick.gif) | ![lick](../assets/faces_png/dragon/lick.png) |
 | lick2 | `#lick2#dragon` | ![lick2](../assets/faces/dragon/lick2.gif) | ![lick2](../assets/faces_png/dragon/lick2.png) |
 | gj | `#gj#dragon` | ![gj](../assets/faces/dragon/gj.gif) | ![gj](../assets/faces_png/dragon/gj.png) |
+| disappear | `#disappear#dragon` | ![disappear](../assets/faces/dragon/disappear.gif) | ![disappear](../assets/faces_png/dragon/disappear.png) |
 | guitar | `#guitar#dragon` | ![guitar](../assets/faces/dragon/guitar.gif) | ![guitar](../assets/faces_png/dragon/guitar.png) |
 | bye | `#bye#dragon` | ![bye](../assets/faces/dragon/bye.gif) | ![bye](../assets/faces_png/dragon/bye.png) |
 | eat | `#eat#dragon` | ![eat](../assets/faces/dragon/eat.gif) | ![eat](../assets/faces_png/dragon/eat.png) |
@@ -16,6 +17,7 @@
 | think | `#think#dragon` | ![think](../assets/faces/dragon/think.gif) | ![think](../assets/faces_png/dragon/think.png) |
 | wtf | `#wtf#dragon` | ![wtf](../assets/faces/dragon/wtf.gif) | ![wtf](../assets/faces_png/dragon/wtf.png) |
 | phone | `#phone#dragon` | ![phone](../assets/faces/dragon/phone.gif) | ![phone](../assets/faces_png/dragon/phone.png) |
+| ngg | `#ngg#dragon` | ![ngg](../assets/faces/dragon/ngg.gif) | ![ngg](../assets/faces_png/dragon/ngg.png) |
 | mindblown | `#mindblown#dragon` | ![mindblown](../assets/faces/dragon/mindblown.gif) | ![mindblown](../assets/faces_png/dragon/mindblown.png) |
 | wheelchair | `#wheelchair#dragon` | ![wheelchair](../assets/faces/dragon/wheelchair.gif) | ![wheelchair](../assets/faces_png/dragon/wheelchair.png) |
 | angry | `#:-[#dragon` | ![angry](../assets/faces/dragon/angry.gif) | ![angry](../assets/faces_png/dragon/angry.png) |
@@ -38,6 +40,4 @@
 | angry_special | `#:-[#dragon #midfinger#dragon` | ![angry_special](../assets/faces/dragon/angry_special.gif) | ![angry_special](../assets/faces_png/dragon/angry_special.png) |
 | backpain_connect | `#throw#cat #backpain#dragon` | ![backpain_connect](../assets/faces/dragon/backpain_connect.gif) | ![backpain_connect](../assets/faces_png/dragon/backpain_connect.png) |
 | wheelchair_connect | `#car#cow #wheelchair#dragon` | ![wheelchair_connect](../assets/faces/dragon/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragon/wheelchair_connect.png) |
-| ngg | `` | ![ngg](../assets/faces/dragon/ngg.gif) | ![ngg](../assets/faces_png/dragon/ngg.png) |
-| disappear | `` | ![disappear](../assets/faces/dragon/disappear.gif) | ![disappear](../assets/faces_png/dragon/disappear.png) |
 

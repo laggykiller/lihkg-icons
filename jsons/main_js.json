@@ -85,7 +85,7 @@
         },
         "special": {
             "assets/faces/lihkg/rabbit_hb_connect.gif": "#cow2#hb #rabbit2#hb",
-            "assets/faces/lihkg/dragon_hb_connect.gif": "#cow2#hb #rabbit2#hb"
+            "assets/faces/lihkg/dragon_hb_connect.gif": "#dragon#hb #mouse2#hb"
         },
         "showOn": [
             {

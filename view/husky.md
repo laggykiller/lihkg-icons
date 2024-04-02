@@ -25,4 +25,10 @@
 | fight2 | `#fight2#husky` | ![fight2](../assets/faces/husky/fight2.gif) | ![fight2](../assets/faces_png/husky/fight2.png) |
 | lihkg | `#lihkg#husky` | ![lihkg](../assets/faces/husky/lihkg.gif) | ![lihkg](../assets/faces_png/husky/lihkg.png) |
 | credit | `#credit#husky` | ![credit](../assets/faces/husky/credit.gif) | ![credit](../assets/faces_png/husky/credit.png) |
+| beg_connect | `#give#husky #beg#husky` | ![beg_connect](../assets/faces/husky/beg_connect.gif) | ![beg_connect](../assets/faces_png/husky/beg_connect.png) |
+| beg_connect_AB | `#give#dog #beg#husky` | ![beg_connect_AB](../assets/faces/husky/beg_connect_AB.gif) | ![beg_connect_AB](../assets/faces_png/husky/beg_connect_AB.png) |
+| beg_connect_BA | `#give#husky #beg#dog` | ![beg_connect_BA](../assets/faces/husky/beg_connect_BA.gif) | ![beg_connect_BA](../assets/faces_png/husky/beg_connect_BA.png) |
+| fight_connect | `#fight1#husky #fight2#husky` | ![fight_connect](../assets/faces/husky/fight_connect.gif) | ![fight_connect](../assets/faces_png/husky/fight_connect.png) |
+| fight_connect_AB | `#fight1#dog #fight2#husky` | ![fight_connect_AB](../assets/faces/husky/fight_connect_AB.gif) | ![fight_connect_AB](../assets/faces_png/husky/fight_connect_AB.png) |
+| fight_connect_BA | `#fight1#husky #fight2#dog` | ![fight_connect_BA](../assets/faces/husky/fight_connect_BA.gif) | ![fight_connect_BA](../assets/faces_png/husky/fight_connect_BA.png) |
 

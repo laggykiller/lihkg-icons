@@ -2,8 +2,8 @@ import io
 import json
 import os
 import re
-from typing import Dict, List, Union
 import zipfile
+from typing import Dict, List, Union
 
 import demjson3  # type: ignore
 import requests
@@ -15,6 +15,7 @@ MainJsDictType = Dict[str, Dict[str, Dict[str, str]]]
 
 DOWNLOAD_INTERVAL = 1
 
+
 def search_bracket(text: str):
     depth = 0
     is_str = False
@@ -22,18 +23,20 @@ def search_bracket(text: str):
     for count, char in enumerate(text):
         if char == '"':
             is_str = not is_str
-        
+
         if is_str == False:
             if char == "{":
                 depth += 1
             elif char == "}":
                 depth -= 1
-        
+
         if depth == 0:
             return count
 
+
 def gif2png(path: str) -> str:
     return path.replace(".gif", ".png").replace("faces", "faces_png")
+
 
 def get_main_js_url() -> str:
     page = requests.get("https://lihkg.com")
@@ -43,6 +46,7 @@ def get_main_js_url() -> str:
     main_js_url = src_tag.get("src")
     assert isinstance(main_js_url, str)
     return main_js_url
+
 
 def get_main_js() -> MainJsDictType:
     main_js_url = get_main_js_url()
@@ -59,7 +63,7 @@ def get_main_js() -> MainJsDictType:
     # Find end
     end_pos = search_bracket(r)
     assert end_pos is not None
-    r = r[:end_pos+1]
+    r = r[: end_pos + 1]
 
     # ! symbol affects parsing
     r = r.replace("!0", "1")
@@ -71,15 +75,15 @@ def get_main_js() -> MainJsDictType:
 
     return data  # type: ignore
 
+
 def get_ios_version() -> str:
     r = requests.get("https://itunes.apple.com/lookup?bundleId=com.lihkg.forum-ios")
     return json.loads(r.text)["results"][0]["version"]
 
+
 def get_asset(mapping: Dict[str, str]) -> LimojiSortedType:
     version = get_ios_version()
-    headers = {
-        "User-Agent": f"LIHKG/{version} iOS/14.7.1 iPhone/iPhone 6s"
-    }
+    headers = {"User-Agent": f"LIHKG/{version} iOS/14.7.1 iPhone/iPhone 6s"}
 
     r = requests.get("https://lihkg.com/api_v2/system/property", headers=headers)
     asset_url = json.loads(r.text)["response"]["asset"]["patch"][0]["url"]
@@ -87,7 +91,9 @@ def get_asset(mapping: Dict[str, str]) -> LimojiSortedType:
     asset_zip = requests.get(asset_url)
     with zipfile.ZipFile(io.BytesIO(asset_zip.content)) as zf:
         # Some sticker pack (e.g. husky) is present in main_js but not in limoji
-        with zf.open("/limoji.json") as f, open("jsons/limoji.json", "w+", encoding="utf8") as g:
+        with zf.open("/limoji.json") as f, open(
+            "jsons/limoji.json", "w+", encoding="utf8"
+        ) as g:
             limoji: LimojiType = json.load(f)
             json.dump(limoji, g, indent=4, ensure_ascii=False)
 
@@ -95,11 +101,14 @@ def get_asset(mapping: Dict[str, str]) -> LimojiSortedType:
             if f.startswith("assets/faces"):
                 os.makedirs(os.path.dirname(f), exist_ok=True)
                 zf.extract(f)
-    
+
     main_js = get_main_js()
     return limoji_sorting(main_js, mapping)
 
-def limoji_sorting(main_js: MainJsDictType, mapping: Dict[str, str]) -> LimojiSortedType:
+
+def limoji_sorting(
+    main_js: MainJsDictType, mapping: Dict[str, str]
+) -> LimojiSortedType:
     limoji_sorted: LimojiSortedType = {}
     for order, pack in enumerate(main_js):
         icons_list = [
@@ -111,12 +120,16 @@ def limoji_sorting(main_js: MainJsDictType, mapping: Dict[str, str]) -> LimojiSo
             [code, gif_path, gif2png(gif_path)]
             for gif_path, code in main_js[pack].get("special", {}).items()
         ]
-        
+
+        pack_path = icons_list[0][1].split("/")[2]
+
         listed_icons_path = [i[1] for i in icons_list]
         listed_icons_path += [i[1] for i in special_list]
-        listed_icons_name = [os.path.splitext(os.path.split(i)[-1])[0] for i in listed_icons_path]
+        listed_icons_name = [
+            os.path.splitext(os.path.split(i)[-1])[0] for i in listed_icons_path
+        ]
         pack_dir = os.path.dirname(listed_icons_path[0])
-        
+
         for f in os.listdir(pack_dir):
             f_base = os.path.splitext(f)[0]
             if f_base not in listed_icons_name:
@@ -125,10 +138,10 @@ def limoji_sorting(main_js: MainJsDictType, mapping: Dict[str, str]) -> LimojiSo
                 special_list.append(["", gif_path, png_path])
 
         limoji_sorted[order] = {
-            "pack": pack,
+            "pack": pack_path,
             "pack_name": mapping.get(pack, pack),
             "icons": icons_list,
-            "special": special_list # limoji.json does not have data about special icons
+            "special": special_list,  # limoji.json does not have data about special icons
         }
 
     limoji_sorted = dict(sorted(limoji_sorted.items()))
@@ -137,6 +150,7 @@ def limoji_sorting(main_js: MainJsDictType, mapping: Dict[str, str]) -> LimojiSo
         json.dump(limoji_sorted, f, indent=4, ensure_ascii=False)
 
     return limoji_sorted
+
 
 def update_readme(limoji: LimojiSortedType):
     with open("README_TEMPLATE") as f:
@@ -160,6 +174,7 @@ def update_readme(limoji: LimojiSortedType):
     with open("README.md", "w+") as f:
         f.write(readme)
 
+
 def update_view(limoji: LimojiSortedType):
     with open("view/all.md", "w+") as f:
         f.write("# All icons\n")
@@ -174,17 +189,18 @@ def update_view(limoji: LimojiSortedType):
             for i in ("icons", "special"):
                 pack_info = v.get(i, [])
                 assert isinstance(pack_info, list)
-                for (emoji, gif_path, png_path) in pack_info:
+                for emoji, gif_path, png_path in pack_info:
                     fname = os.path.split(gif_path)[-1]
                     name = os.path.splitext(fname)[0]
                     body += f"| {name} | `{emoji}` | ![{name}](../{gif_path}) | ![{name}](../{png_path}) |\n"
-            
+
             body += "\n"
 
             with open(f"view/{pack}.md", "w+") as g:
                 g.write(body)
-            
+
             f.write(body)
+
 
 def main():
     with open("jsons/mapping.json") as f:
@@ -194,6 +210,7 @@ def main():
 
     update_readme(limoji)
     update_view(limoji)
+
 
 if __name__ == "__main__":
     main()

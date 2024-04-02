@@ -14,7 +14,7 @@ To manually update:
 | --- | --- | --- | --- |
 | (All) | N/A | N/A | [View](./view/all.md) |
 | normal | 普通 | ![smile.gif](assets/faces/normal/smile.gif) | [View](./view/normal.md) |
-| hb | hb | ![smile_hb.gif](assets/faces/lihkg/smile_hb.gif) | [View](./view/hb.md) |
+| lihkg | hb | ![smile_hb.gif](assets/faces/lihkg/smile_hb.gif) | [View](./view/lihkg.md) |
 | rip | RIP | ![flower.gif](assets/faces/rip/flower.gif) | [View](./view/rip.md) |
 | fifa | FIFA | ![smile.gif](assets/faces/fifa/smile.gif) | [View](./view/fifa.md) |
 | dog | 連狗 | ![smile.gif](assets/faces/dog/smile.gif) | [View](./view/dog.md) |
@@ -36,7 +36,7 @@ To manually update:
 | pigxm | 連豬聖誕版 | ![smile.gif](assets/faces/pigxm/smile.gif) | [View](./view/pigxm.md) |
 | dogxm | 連狗聖誕版 | ![smile.gif](assets/faces/dogxm/smile.gif) | [View](./view/dogxm.md) |
 | rabbitxm | 連兔聖誕版 | ![smile.gif](assets/faces/rabbitxm/smile.gif) | [View](./view/rabbitxm.md) |
-| xmas | xmas | ![smile.gif](assets/faces/xm/smile.gif) | [View](./view/xmas.md) |
+| xm | xmas | ![smile.gif](assets/faces/xm/smile.gif) | [View](./view/xm.md) |
 | fs | FS | ![smile.gif](assets/faces/fs/smile.gif) | [View](./view/fs.md) |
 | big | 普通 | ![smile.gif](assets/faces/big/smile.gif) | [View](./view/big.md) |
 | lomoji | 腦魔Moji | ![05.png](assets/faces/lomoji/05.png) | [View](./view/lomoji.md) |

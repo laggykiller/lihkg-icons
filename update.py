@@ -121,8 +121,6 @@ def limoji_sorting(
             for gif_path, code in main_js[pack].get("special", {}).items()
         ]
 
-        pack_path = icons_list[0][1].split("/")[2]
-
         listed_icons_path = [i[1] for i in icons_list]
         listed_icons_path += [i[1] for i in special_list]
         listed_icons_name = [
@@ -138,7 +136,7 @@ def limoji_sorting(
                 special_list.append(["", gif_path, png_path])
 
         limoji_sorted[order] = {
-            "pack": pack_path,
+            "pack": pack,
             "pack_name": mapping.get(pack, pack),
             "icons": icons_list,
             "special": special_list,  # limoji.json does not have data about special icons

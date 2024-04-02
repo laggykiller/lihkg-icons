@@ -1,4 +1,4 @@
-## xmas [xmas]
+## xmas [聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#xm` | ![smile](../assets/faces/xm/smile.gif) | ![smile](../assets/faces_png/xm/smile.png) |

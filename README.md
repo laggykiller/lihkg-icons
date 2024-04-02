@@ -36,7 +36,7 @@ To manually update:
 | pigxm | 連豬聖誕版 | ![smile.gif](assets/faces/pigxm/smile.gif) | [View](./view/pigxm.md) |
 | dogxm | 連狗聖誕版 | ![smile.gif](assets/faces/dogxm/smile.gif) | [View](./view/dogxm.md) |
 | rabbitxm | 連兔聖誕版 | ![smile.gif](assets/faces/rabbitxm/smile.gif) | [View](./view/rabbitxm.md) |
-| xmas | xmas | ![smile.gif](assets/faces/xm/smile.gif) | [View](./view/xmas.md) |
+| xmas | 聖誕版 | ![smile.gif](assets/faces/xm/smile.gif) | [View](./view/xmas.md) |
 | fs | FS | ![smile.gif](assets/faces/fs/smile.gif) | [View](./view/fs.md) |
 | big | 普通 | ![smile.gif](assets/faces/big/smile.gif) | [View](./view/big.md) |
 | lomoji | 腦魔Moji | ![05.png](assets/faces/lomoji/05.png) | [View](./view/lomoji.md) |

@@ -1105,7 +1105,7 @@
 | saw_connect | `#saw#rabbitxm #gun#mousexm` | ![saw_connect](../assets/faces/rabbitxm/saw_connect.gif) | ![saw_connect](../assets/faces_png/rabbitxm/saw_connect.png) |
 | wind | `` | ![wind](../assets/faces/rabbitxm/wind.gif) | ![wind](../assets/faces_png/rabbitxm/wind.png) |
 
-## xmas [xmas]
+## xmas [聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#xm` | ![smile](../assets/faces/xm/smile.gif) | ![smile](../assets/faces_png/xm/smile.png) |

@@ -160,14 +160,14 @@
 | wales | `#wales#fifa` | ![wales](../assets/faces/fifa/wales.gif) | ![wales](../assets/faces_png/fifa/wales.png) |
 | kill_connect | `#kill#fifa #slick#fifa` | ![kill_connect](../assets/faces/fifa/kill_connect.gif) | ![kill_connect](../assets/faces_png/fifa/kill_connect.png) |
 | kill2_connect | `#banghead#fifa #kill2#fifa` | ![kill2_connect](../assets/faces/fifa/kill2_connect.gif) | ![kill2_connect](../assets/faces_png/fifa/kill2_connect.png) |
-| iceland | `` | ![iceland](../assets/faces/fifa/iceland.gif) | ![iceland](../assets/faces_png/fifa/iceland.png) |
-| peru | `` | ![peru](../assets/faces/fifa/peru.gif) | ![peru](../assets/faces_png/fifa/peru.png) |
-| panama | `` | ![panama](../assets/faces/fifa/panama.gif) | ![panama](../assets/faces_png/fifa/panama.png) |
-| nigeria | `` | ![nigeria](../assets/faces/fifa/nigeria.gif) | ![nigeria](../assets/faces_png/fifa/nigeria.png) |
 | russia | `` | ![russia](../assets/faces/fifa/russia.gif) | ![russia](../assets/faces_png/fifa/russia.png) |
 | egypt | `` | ![egypt](../assets/faces/fifa/egypt.gif) | ![egypt](../assets/faces_png/fifa/egypt.png) |
-| sweden | `` | ![sweden](../assets/faces/fifa/sweden.gif) | ![sweden](../assets/faces_png/fifa/sweden.png) |
+| iceland | `` | ![iceland](../assets/faces/fifa/iceland.gif) | ![iceland](../assets/faces_png/fifa/iceland.png) |
+| panama | `` | ![panama](../assets/faces/fifa/panama.gif) | ![panama](../assets/faces_png/fifa/panama.png) |
+| peru | `` | ![peru](../assets/faces/fifa/peru.gif) | ![peru](../assets/faces_png/fifa/peru.png) |
 | colombia | `` | ![colombia](../assets/faces/fifa/colombia.gif) | ![colombia](../assets/faces_png/fifa/colombia.png) |
+| nigeria | `` | ![nigeria](../assets/faces/fifa/nigeria.gif) | ![nigeria](../assets/faces_png/fifa/nigeria.png) |
+| sweden | `` | ![sweden](../assets/faces/fifa/sweden.gif) | ![sweden](../assets/faces_png/fifa/sweden.png) |
 
 ## dog [連狗]
 | Filename | Emoji | GIF | PNG |
@@ -1439,10 +1439,10 @@
 | fuck | `#fuck#lny` | ![fuck](../assets/faces/lny/fuck.gif) | ![fuck](../assets/faces_png/lny/fuck.png) |
 | no | `#no#lny` | ![no](../assets/faces/lny/no.gif) | ![no](../assets/faces_png/lny/no.png) |
 | kill2 | `#kill2#lny` | ![kill2](../assets/faces/lny/kill2.gif) | ![kill2](../assets/faces_png/lny/kill2.png) |
-| pig2 | `` | ![pig2](../assets/faces/lny/pig2.gif) | ![pig2](../assets/faces_png/lny/pig2.png) |
-| pig1 | `` | ![pig1](../assets/faces/lny/pig1.gif) | ![pig1](../assets/faces_png/lny/pig1.png) |
 | dog1 | `` | ![dog1](../assets/faces/lny/dog1.gif) | ![dog1](../assets/faces_png/lny/dog1.png) |
+| pig1 | `` | ![pig1](../assets/faces/lny/pig1.gif) | ![pig1](../assets/faces_png/lny/pig1.png) |
 | dog2 | `` | ![dog2](../assets/faces/lny/dog2.gif) | ![dog2](../assets/faces_png/lny/dog2.png) |
+| pig2 | `` | ![pig2](../assets/faces/lny/pig2.gif) | ![pig2](../assets/faces_png/lny/pig2.png) |
 
 ## mf [中秋節版]
 | Filename | Emoji | GIF | PNG |

@@ -61,8 +61,8 @@
 | fuck | `#fuck#lny` | ![fuck](../assets/faces/lny/fuck.gif) | ![fuck](../assets/faces_png/lny/fuck.png) |
 | no | `#no#lny` | ![no](../assets/faces/lny/no.gif) | ![no](../assets/faces_png/lny/no.png) |
 | kill2 | `#kill2#lny` | ![kill2](../assets/faces/lny/kill2.gif) | ![kill2](../assets/faces_png/lny/kill2.png) |
-| pig1 | `` | ![pig1](../assets/faces/lny/pig1.gif) | ![pig1](../assets/faces_png/lny/pig1.png) |
+| pig2 | `` | ![pig2](../assets/faces/lny/pig2.gif) | ![pig2](../assets/faces_png/lny/pig2.png) |
 | dog2 | `` | ![dog2](../assets/faces/lny/dog2.gif) | ![dog2](../assets/faces_png/lny/dog2.png) |
 | dog1 | `` | ![dog1](../assets/faces/lny/dog1.gif) | ![dog1](../assets/faces_png/lny/dog1.png) |
-| pig2 | `` | ![pig2](../assets/faces/lny/pig2.gif) | ![pig2](../assets/faces_png/lny/pig2.png) |
+| pig1 | `` | ![pig1](../assets/faces/lny/pig1.gif) | ![pig1](../assets/faces_png/lny/pig1.png) |
 

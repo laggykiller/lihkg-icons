@@ -7110,6 +7110,11 @@
                 "#@_@#mf #:-[#mf",
                 "assets/faces/mf/special7.gif",
                 "assets/faces_png/mf/special7.png"
+            ],
+            [
+                "#ng#mf #cn#mf",
+                "assets/faces/mf/special8.gif",
+                "assets/faces_png/mf/special8.png"
             ]
         ]
     }

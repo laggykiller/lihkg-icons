@@ -1704,12 +1704,13 @@
             "assets/faces/mf/special4.gif": "#:o)#mf #:-(#mf",
             "assets/faces/mf/special5.gif": "#bye#mf #:)#mf",
             "assets/faces/mf/special6.gif": "#[photo]#mf #:)#mf",
-            "assets/faces/mf/special7.gif": "#@_@#mf #:-[#mf"
+            "assets/faces/mf/special7.gif": "#@_@#mf #:-[#mf",
+            "assets/faces/mf/special8.gif": "#ng#mf #cn#mf"
         },
         "showOn": [
             {
-                "start_time": 1695916800000,
-                "end_time": 1696176000000
+                "start_time": 1726156800000,
+                "end_time": 1726848000000
             }
         ],
         "isPinTop": 1

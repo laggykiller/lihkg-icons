@@ -755,6 +755,16 @@
             ],
             [
                 "",
+                "assets/faces/fifa/panama.gif",
+                "assets/faces_png/fifa/panama.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/iceland.gif",
+                "assets/faces_png/fifa/iceland.png"
+            ],
+            [
+                "",
                 "assets/faces/fifa/egypt.gif",
                 "assets/faces_png/fifa/egypt.png"
             ],
@@ -762,11 +772,6 @@
                 "",
                 "assets/faces/fifa/sweden.gif",
                 "assets/faces_png/fifa/sweden.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/nigeria.gif",
-                "assets/faces_png/fifa/nigeria.png"
             ],
             [
                 "",
@@ -785,13 +790,8 @@
             ],
             [
                 "",
-                "assets/faces/fifa/iceland.gif",
-                "assets/faces_png/fifa/iceland.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/panama.gif",
-                "assets/faces_png/fifa/panama.png"
+                "assets/faces/fifa/nigeria.gif",
+                "assets/faces_png/fifa/nigeria.png"
             ]
         ]
     },

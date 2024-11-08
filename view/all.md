@@ -507,6 +507,9 @@
 | like_special | `#like#tiger #like#tiger` | ![like_special](../assets/faces/tiger/like_special.gif) | ![like_special](../assets/faces_png/tiger/like_special.png) |
 | punch_special | `#punchbag#tiger #angry#tiger` | ![punch_special](../assets/faces/tiger/punch_special.gif) | ![punch_special](../assets/faces_png/tiger/punch_special.png) |
 | punchbag_connect | `#punchbag#tiger #fight2#dog` | ![punchbag_connect](../assets/faces/tiger/punchbag_connect.gif) | ![punchbag_connect](../assets/faces_png/tiger/punchbag_connect.png) |
+| fencing | `` | ![fencing](../assets/faces/tiger/fencing.gif) | ![fencing](../assets/faces_png/tiger/fencing.png) |
+| fencing_connect | `` | ![fencing_connect](../assets/faces/tiger/fencing_connect.gif) | ![fencing_connect](../assets/faces_png/tiger/fencing_connect.png) |
+| fencing_connect2 | `` | ![fencing_connect2](../assets/faces/tiger/fencing_connect2.gif) | ![fencing_connect2](../assets/faces_png/tiger/fencing_connect2.png) |
 
 ## rabbit [連兔]
 | Filename | Emoji | GIF | PNG |
@@ -549,6 +552,8 @@
 | roast_connect | `#cooking#pig #:)#rabbit` | ![roast_connect](../assets/faces/rabbit/roast_connect.gif) | ![roast_connect](../assets/faces_png/rabbit/roast_connect.png) |
 | roast_special | `#:)#rabbit #cooking#pig` | ![roast_special](../assets/faces/rabbit/roast_special.gif) | ![roast_special](../assets/faces_png/rabbit/roast_special.png) |
 | axe_connect | `#car#cow #axe#rabbit` | ![axe_connect](../assets/faces/rabbit/axe_connect.gif) | ![axe_connect](../assets/faces_png/rabbit/axe_connect.png) |
+| badboy | `` | ![badboy](../assets/faces/rabbit/badboy.gif) | ![badboy](../assets/faces_png/rabbit/badboy.png) |
+| smile3 | `` | ![smile3](../assets/faces/rabbit/smile3.gif) | ![smile3](../assets/faces_png/rabbit/smile3.png) |
 
 ## lm2 [腦魔2]
 | Filename | Emoji | GIF | PNG |

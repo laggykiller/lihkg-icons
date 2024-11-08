@@ -2383,6 +2383,21 @@
                 "#punchbag#tiger #fight2#dog",
                 "assets/faces/tiger/punchbag_connect.gif",
                 "assets/faces_png/tiger/punchbag_connect.png"
+            ],
+            [
+                "",
+                "assets/faces/tiger/fencing.gif",
+                "assets/faces_png/tiger/fencing.png"
+            ],
+            [
+                "",
+                "assets/faces/tiger/fencing_connect.gif",
+                "assets/faces_png/tiger/fencing_connect.png"
+            ],
+            [
+                "",
+                "assets/faces/tiger/fencing_connect2.gif",
+                "assets/faces_png/tiger/fencing_connect2.png"
             ]
         ]
     },
@@ -2580,6 +2595,16 @@
                 "#car#cow #axe#rabbit",
                 "assets/faces/rabbit/axe_connect.gif",
                 "assets/faces_png/rabbit/axe_connect.png"
+            ],
+            [
+                "",
+                "assets/faces/rabbit/badboy.gif",
+                "assets/faces_png/rabbit/badboy.png"
+            ],
+            [
+                "",
+                "assets/faces/rabbit/smile3.gif",
+                "assets/faces_png/rabbit/smile3.png"
             ]
         ]
     },

@@ -579,6 +579,7 @@
             "assets/faces/tiger/like.gif": "#like#tiger",
             "assets/faces/tiger/like2.gif": "#like2#tiger",
             "assets/faces/tiger/punchbag.gif": "#punchbag#tiger",
+            "assets/faces/tiger/fencing.gif": "#fencing#tiger",
             "assets/faces/tiger/rpg7.gif": "#rpg7#tiger",
             "assets/faces/tiger/lihkg.gif": "#lihkg#tiger",
             "assets/faces/tiger/lihkg2.gif": "#lihkg2#tiger"
@@ -589,7 +590,9 @@
             "assets/faces/tiger/shock_special.gif": "#oh#tiger #nlhg#tiger",
             "assets/faces/tiger/like_special.gif": "#like#tiger #like#tiger",
             "assets/faces/tiger/punch_special.gif": "#punchbag#tiger #angry#tiger",
-            "assets/faces/tiger/punchbag_connect.gif": "#punchbag#tiger #fight2#dog"
+            "assets/faces/tiger/punchbag_connect.gif": "#punchbag#tiger #fight2#dog",
+            "assets/faces/tiger/fencing_connect.gif": "#fencing#tiger #annoyed#cat",
+            "assets/faces/tiger/fencing_connect2.gif": "#fencing#tiger #knife#pig"
         },
         "showOn": [
             {
@@ -602,6 +605,7 @@
         "icons": {
             "assets/faces/rabbit/smile.gif": "#:)#rabbit",
             "assets/faces/rabbit/smile2.gif": "#smile2#rabbit",
+            "assets/faces/rabbit/smile3.gif": "#smile3#rabbit",
             "assets/faces/rabbit/happy.gif": "#happy#rabbit",
             "assets/faces/rabbit/haha.gif": "#haha#rabbit",
             "assets/faces/rabbit/clap.gif": "#clap#rabbit",
@@ -628,6 +632,7 @@
             "assets/faces/rabbit/saw.gif": "#saw#rabbit",
             "assets/faces/rabbit/stun.gif": "#stun#rabbit",
             "assets/faces/rabbit/tape.gif": "#tape#rabbit",
+            "assets/faces/rabbit/badboy.gif": "#badboy#rabbit",
             "assets/faces/rabbit/yawn.gif": "#yawn#rabbit",
             "assets/faces/rabbit/fly.gif": "#fly#rabbit",
             "assets/faces/rabbit/lihkg.gif": "#lihkg#rabbit"

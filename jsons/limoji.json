@@ -1,77 +1,6 @@
 {
     "emojis": [
         {
-            "cat": "rip",
-            "icons": [
-                [
-                    "#flower#rip",
-                    "assets/faces/rip/flower.gif",
-                    "assets/faces_png/rip/flower.png"
-                ],
-                [
-                    "#dog#rip",
-                    "assets/faces/rip/dog.gif",
-                    "assets/faces_png/rip/dog.png"
-                ],
-                [
-                    "#pig#rip",
-                    "assets/faces/rip/pig.gif",
-                    "assets/faces_png/rip/pig.png"
-                ],
-                [
-                    "#mouse#rip",
-                    "assets/faces/rip/mouse.gif",
-                    "assets/faces_png/rip/mouse.png"
-                ],
-                [
-                    "#cat#rip",
-                    "assets/faces/rip/cat.gif",
-                    "assets/faces_png/rip/cat.png"
-                ],
-                [
-                    "#cow#rip",
-                    "assets/faces/rip/cow.gif",
-                    "assets/faces_png/rip/cow.png"
-                ],
-                [
-                    "#tiger#rip",
-                    "assets/faces/rip/tiger.gif",
-                    "assets/faces_png/rip/tiger.png"
-                ],
-                [
-                    "#rabbit#rip",
-                    "assets/faces/rip/rabbit.gif",
-                    "assets/faces_png/rip/rabbit.png"
-                ],
-                [
-                    "#dragon#rip",
-                    "assets/faces/rip/dragon.gif",
-                    "assets/faces_png/rip/dragon.png"
-                ]
-            ],
-            "show_on": {
-                "start_time": 1,
-                "end_time": 2,
-                "keywords": [
-                    "RIP",
-                    "悼念",
-                    "哀悼",
-                    "R.I.P"
-                ]
-            },
-            "show_on_2": [
-                {
-                    "keywords": [
-                        "rip",
-                        "悼念",
-                        "哀悼",
-                        "r.i.p"
-                    ]
-                }
-            ],
-            "sort": 110
-        },
-        {
             "cat": "hb",
             "icons": [
                 [
@@ -215,27 +144,79 @@
                     "assets/faces_png/lihkg/dragon_hb2.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1,
-                "end_time": 2,
-                "keywords": [
-                    "生日快樂",
-                    "生日",
-                    "Happy Birthday",
-                    "🎂"
-                ]
-            },
+            "sort": 100,
             "show_on_2": [
                 {
                     "keywords": [
                         "生日快樂",
                         "生日",
-                        "happy birthday",
+                        "Happy bday",
+                        "Happy Birthday",
                         "🎂"
                     ]
                 }
+            ]
+        },
+        {
+            "cat": "rip",
+            "icons": [
+                [
+                    "#flower#rip",
+                    "assets/faces/rip/flower.gif",
+                    "assets/faces_png/rip/flower.png"
+                ],
+                [
+                    "#dog#rip",
+                    "assets/faces/rip/dog.gif",
+                    "assets/faces_png/rip/dog.png"
+                ],
+                [
+                    "#pig#rip",
+                    "assets/faces/rip/pig.gif",
+                    "assets/faces_png/rip/pig.png"
+                ],
+                [
+                    "#mouse#rip",
+                    "assets/faces/rip/mouse.gif",
+                    "assets/faces_png/rip/mouse.png"
+                ],
+                [
+                    "#cat#rip",
+                    "assets/faces/rip/cat.gif",
+                    "assets/faces_png/rip/cat.png"
+                ],
+                [
+                    "#cow#rip",
+                    "assets/faces/rip/cow.gif",
+                    "assets/faces_png/rip/cow.png"
+                ],
+                [
+                    "#tiger#rip",
+                    "assets/faces/rip/tiger.gif",
+                    "assets/faces_png/rip/tiger.png"
+                ],
+                [
+                    "#rabbit#rip",
+                    "assets/faces/rip/rabbit.gif",
+                    "assets/faces_png/rip/rabbit.png"
+                ],
+                [
+                    "#dragon#rip",
+                    "assets/faces/rip/dragon.gif",
+                    "assets/faces_png/rip/dragon.png"
+                ]
             ],
-            "sort": 100
+            "sort": 110,
+            "show_on_2": [
+                {
+                    "keywords": [
+                        "RIP",
+                        "悼念",
+                        "哀悼",
+                        "R.I.P"
+                    ]
+                }
+            ]
         },
         {
             "cat": "xm",
@@ -521,17 +502,13 @@
                     "assets/faces_png/xm/shocking_y.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1702569600000,
-                "end_time": 1704038399000
-            },
+            "sort": 200,
             "show_on_2": [
                 {
-                    "start_time": 1702569600000,
-                    "end_time": 1704038399000
+                    "start_time": 1670774400000,
+                    "end_time": 1672502399000
                 }
-            ],
-            "sort": 200
+            ]
         },
         {
             "cat": "rabbitxm",
@@ -692,17 +669,13 @@
                     "assets/faces_png/rabbitxm/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1702569600000,
-                "end_time": 1704038399000
-            },
+            "sort": 211,
             "show_on_2": [
                 {
-                    "start_time": 1702569600000,
-                    "end_time": 1704038399000
+                    "start_time": 1670774400000,
+                    "end_time": 1672502399000
                 }
-            ],
-            "sort": 211
+            ]
         },
         {
             "cat": "dogxm",
@@ -943,17 +916,13 @@
                     "assets/faces_png/dogxm/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1702569600000,
-                "end_time": 1704038399000
-            },
+            "sort": 202,
             "show_on_2": [
                 {
-                    "start_time": 1702569600000,
-                    "end_time": 1704038399000
+                    "start_time": 1670774400000,
+                    "end_time": 1672502399000
                 }
-            ],
-            "sort": 202
+            ]
         },
         {
             "cat": "pigxm",
@@ -1199,17 +1168,13 @@
                     "assets/faces_png/pigxm/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1702569600000,
-                "end_time": 1704038399000
-            },
+            "sort": 206,
             "show_on_2": [
                 {
-                    "start_time": 1702569600000,
-                    "end_time": 1704038399000
+                    "start_time": 1670774400000,
+                    "end_time": 1672502399000
                 }
-            ],
-            "sort": 206
+            ]
         },
         {
             "cat": "mousexm",
@@ -1395,17 +1360,13 @@
                     "assets/faces_png/mousexm/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1702569600000,
-                "end_time": 1704038399000
-            },
+            "sort": 207,
             "show_on_2": [
                 {
-                    "start_time": 1702569600000,
-                    "end_time": 1704038399000
+                    "start_time": 1670774400000,
+                    "end_time": 1672502399000
                 }
-            ],
-            "sort": 207
+            ]
         },
         {
             "cat": "catxm",
@@ -1541,17 +1502,13 @@
                     "assets/faces_png/catxm/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1702569600000,
-                "end_time": 1704038399000
-            },
+            "sort": 208,
             "show_on_2": [
                 {
-                    "start_time": 1702569600000,
-                    "end_time": 1704038399000
+                    "start_time": 1670774400000,
+                    "end_time": 1672502399000
                 }
-            ],
-            "sort": 208
+            ]
         },
         {
             "cat": "cowxm",
@@ -1712,17 +1669,13 @@
                     "assets/faces_png/cowxm/lihkg.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1702569600000,
-                "end_time": 1704038399000
-            },
+            "sort": 209,
             "show_on_2": [
                 {
-                    "start_time": 1702569600000,
-                    "end_time": 1704038399000
+                    "start_time": 1670774400000,
+                    "end_time": 1672502399000
                 }
-            ],
-            "sort": 209
+            ]
         },
         {
             "cat": "tigerxm",
@@ -1853,17 +1806,13 @@
                     "assets/faces_png/tigerxm/lihkg2.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1702569600000,
-                "end_time": 1704038399000
-            },
+            "sort": 210,
             "show_on_2": [
                 {
-                    "start_time": 1702569600000,
-                    "end_time": 1704038399000
+                    "start_time": 1670774400000,
+                    "end_time": 1672502399000
                 }
-            ],
-            "sort": 210
+            ]
         },
         {
             "cat": "lm2xm",
@@ -2254,17 +2203,13 @@
                     "assets/faces_png/lm2xm/dust.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1702569600000,
-                "end_time": 1704038399000
-            },
+            "sort": 203,
             "show_on_2": [
                 {
-                    "start_time": 1702569600000,
-                    "end_time": 1704038399000
+                    "start_time": 1670774400000,
+                    "end_time": 1672502399000
                 }
-            ],
-            "sort": 203
+            ]
         },
         {
             "cat": "lny",
@@ -2570,17 +2515,13 @@
                     "assets/faces_png/lny/kill2.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1707408000000,
-                "end_time": 1708272000000
-            },
+            "sort": 204,
             "show_on_2": [
                 {
-                    "start_time": 1707408000000,
-                    "end_time": 1708272000000
+                    "start_time": 1672502399000,
+                    "end_time": 1675180800000
                 }
-            ],
-            "sort": 204
+            ]
         },
         {
             "cat": "mf",
@@ -2816,17 +2757,13 @@
                     "assets/faces_png/mf/kill2.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1726156800000,
-                "end_time": 1726848000000
-            },
+            "sort": 201,
             "show_on_2": [
                 {
-                    "start_time": 1726156800000,
-                    "end_time": 1726848000000
+                    "start_time": 1662393600000,
+                    "end_time": 1662998400000
                 }
-            ],
-            "sort": 201
+            ]
         },
         {
             "cat": "normal",
@@ -3223,6 +3160,11 @@
                     "assets/faces_png/fifa/canada.png"
                 ],
                 [
+                    "#colombia#fifa",
+                    "assets/faces/fifa/colombia.gif",
+                    "assets/faces_png/fifa/colombia.png"
+                ],
+                [
                     "#costa_rica#fifa",
                     "assets/faces/fifa/costa_rica.gif",
                     "assets/faces_png/fifa/costa_rica.png"
@@ -3243,6 +3185,11 @@
                     "assets/faces_png/fifa/ecuador.png"
                 ],
                 [
+                    "#egypt#fifa",
+                    "assets/faces/fifa/egypt.gif",
+                    "assets/faces_png/fifa/egypt.png"
+                ],
+                [
                     "#england#fifa",
                     "assets/faces/fifa/england.gif",
                     "assets/faces_png/fifa/england.png"
@@ -3261,6 +3208,11 @@
                     "#ghana#fifa",
                     "assets/faces/fifa/ghana.gif",
                     "assets/faces_png/fifa/ghana.png"
+                ],
+                [
+                    "#iceland#fifa",
+                    "assets/faces/fifa/iceland.gif",
+                    "assets/faces_png/fifa/iceland.png"
                 ],
                 [
                     "#iran#fifa",
@@ -3288,6 +3240,21 @@
                     "assets/faces_png/fifa/netherlands.png"
                 ],
                 [
+                    "#nigeria#fifa",
+                    "assets/faces/fifa/nigeria.gif",
+                    "assets/faces_png/fifa/nigeria.png"
+                ],
+                [
+                    "#panama#fifa",
+                    "assets/faces/fifa/panama.gif",
+                    "assets/faces_png/fifa/panama.png"
+                ],
+                [
+                    "#peru#fifa",
+                    "assets/faces/fifa/peru.gif",
+                    "assets/faces_png/fifa/peru.png"
+                ],
+                [
                     "#poland#fifa",
                     "assets/faces/fifa/poland.gif",
                     "assets/faces_png/fifa/poland.png"
@@ -3301,6 +3268,11 @@
                     "#qatar#fifa",
                     "assets/faces/fifa/qatar.gif",
                     "assets/faces_png/fifa/qatar.png"
+                ],
+                [
+                    "#russia#fifa",
+                    "assets/faces/fifa/russia.gif",
+                    "assets/faces_png/fifa/russia.png"
                 ],
                 [
                     "#saudi_arabia#fifa",
@@ -3328,6 +3300,11 @@
                     "assets/faces_png/fifa/spain.png"
                 ],
                 [
+                    "#sweden#fifa",
+                    "assets/faces/fifa/sweden.gif",
+                    "assets/faces_png/fifa/sweden.png"
+                ],
+                [
                     "#switzerland#fifa",
                     "assets/faces/fifa/switzerland.gif",
                     "assets/faces_png/fifa/switzerland.png"
@@ -3353,10 +3330,7 @@
                     "assets/faces_png/fifa/wales.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1668700800000,
-                "end_time": 1671465600000
-            },
+            "sort": 102,
             "show_on_2": [
                 {
                     "start_time": 1668700800000,
@@ -3365,8 +3339,7 @@
                         6
                     ]
                 }
-            ],
-            "sort": 102
+            ]
         },
         {
             "cat": "dog",
@@ -4618,6 +4591,11 @@
                     "assets/faces_png/tiger/punchbag.png"
                 ],
                 [
+                    "#fencing#tiger",
+                    "assets/faces/tiger/fencing.gif",
+                    "assets/faces_png/tiger/fencing.png"
+                ],
+                [
                     "#rpg7#tiger",
                     "assets/faces/tiger/rpg7.gif",
                     "assets/faces_png/tiger/rpg7.png"
@@ -4647,6 +4625,11 @@
                     "#smile2#rabbit",
                     "assets/faces/rabbit/smile2.gif",
                     "assets/faces_png/rabbit/smile2.png"
+                ],
+                [
+                    "#smile3#rabbit",
+                    "assets/faces/rabbit/smile3.gif",
+                    "assets/faces_png/rabbit/smile3.png"
                 ],
                 [
                     "#happy#rabbit",
@@ -4777,6 +4760,11 @@
                     "#tape#rabbit",
                     "assets/faces/rabbit/tape.gif",
                     "assets/faces_png/rabbit/tape.png"
+                ],
+                [
+                    "#badboy#rabbit",
+                    "assets/faces/rabbit/badboy.gif",
+                    "assets/faces_png/rabbit/badboy.png"
                 ],
                 [
                     "#yawn#rabbit",
@@ -5576,17 +5564,13 @@
                     "assets/faces_png/lm2lny/dust.png"
                 ]
             ],
-            "show_on": {
-                "start_time": 1707408000000,
-                "end_time": 1708272000000
-            },
+            "sort": 205,
             "show_on_2": [
                 {
-                    "start_time": 1707408000000,
-                    "end_time": 1708272000000
+                    "start_time": 1672502399000,
+                    "end_time": 1675180800000
                 }
-            ],
-            "sort": 205
+            ]
         },
         {
             "cat": "fs",
@@ -5843,262 +5827,262 @@
             "cat": "big",
             "icons": [
                 [
-                    "#:)#b",
+                    "#:)#big",
                     "assets/faces/big/smile.gif",
                     "assets/faces_png/big/smile.png"
                 ],
                 [
-                    "#O:-)#b",
+                    "#O:-)#big",
                     "assets/faces/big/angel.gif",
                     "assets/faces_png/big/angel.png"
                 ],
                 [
-                    "#xx(#b",
+                    "#xx(#big",
                     "assets/faces/big/dead.gif",
                     "assets/faces_png/big/dead.png"
                 ],
                 [
-                    "#:o)#b",
+                    "#:o)#big",
                     "assets/faces/big/clown.gif",
                     "assets/faces_png/big/clown.png"
                 ],
                 [
-                    "#:-(#b",
+                    "#:-(#big",
                     "assets/faces/big/frown.gif",
                     "assets/faces_png/big/frown.png"
                 ],
                 [
-                    "#:~(#b",
+                    "#:~(#big",
                     "assets/faces/big/cry.gif",
                     "assets/faces_png/big/cry.png"
                 ],
                 [
-                    "#;-)#b",
+                    "#;-)#big",
                     "assets/faces/big/wink.gif",
                     "assets/faces_png/big/wink.png"
                 ],
                 [
-                    "#:-[#b",
+                    "#:-[#big",
                     "assets/faces/big/angry.gif",
                     "assets/faces_png/big/angry.png"
                 ],
                 [
-                    "#:-]#b",
+                    "#:-]#big",
                     "assets/faces/big/devil.gif",
                     "assets/faces_png/big/devil.png"
                 ],
                 [
-                    "#:D#b",
+                    "#:D#big",
                     "assets/faces/big/biggrin.gif",
                     "assets/faces_png/big/biggrin.png"
                 ],
                 [
-                    "#:O#b",
+                    "#:O#big",
                     "assets/faces/big/oh.gif",
                     "assets/faces_png/big/oh.png"
                 ],
                 [
-                    "#:P#b",
+                    "#:P#big",
                     "assets/faces/big/tongue.gif",
                     "assets/faces_png/big/tongue.png"
                 ],
                 [
-                    "#^3^#b",
+                    "#^3^#big",
                     "assets/faces/big/kiss.gif",
                     "assets/faces_png/big/kiss.png"
                 ],
                 [
-                    "#?_?#b",
+                    "#?_?#big",
                     "assets/faces/big/wonder.gif",
                     "assets/faces_png/big/wonder.png"
                 ],
                 [
-                    "#yup#b",
+                    "#yup#big",
                     "assets/faces/big/agree.gif",
                     "assets/faces_png/big/agree.png"
                 ],
                 [
-                    "#ng#b",
+                    "#ng#big",
                     "assets/faces/big/donno.gif",
                     "assets/faces_png/big/donno.png"
                 ],
                 [
-                    "#hehe#b",
+                    "#hehe#big",
                     "assets/faces/big/hehe.gif",
                     "assets/faces_png/big/hehe.png"
                 ],
                 [
-                    "#love#b",
+                    "#love#big",
                     "assets/faces/big/love.gif",
                     "assets/faces_png/big/love.png"
                 ],
                 [
-                    "#oh#b",
+                    "#oh#big",
                     "assets/faces/big/surprise.gif",
                     "assets/faces_png/big/surprise.png"
                 ],
                 [
-                    "#cn#b",
+                    "#cn#big",
                     "assets/faces/big/chicken.gif",
                     "assets/faces_png/big/chicken.png"
                 ],
                 [
-                    "#ass#b",
+                    "#ass#big",
                     "assets/faces/big/ass.gif",
                     "assets/faces_png/big/ass.png"
                 ],
                 [
-                    "#[sosad]#b",
+                    "#[sosad]#big",
                     "assets/faces/big/sosad.gif",
                     "assets/faces_png/big/sosad.png"
                 ],
                 [
-                    "#good#b",
+                    "#good#big",
                     "assets/faces/big/good.gif",
                     "assets/faces_png/big/good.png"
                 ],
                 [
-                    "#hoho#b",
+                    "#hoho#big",
                     "assets/faces/big/hoho.gif",
                     "assets/faces_png/big/hoho.png"
                 ],
                 [
-                    "#kill#b",
+                    "#kill#big",
                     "assets/faces/big/kill.gif",
                     "assets/faces_png/big/kill.png"
                 ],
                 [
-                    "#bye#b",
+                    "#bye#big",
                     "assets/faces/big/bye.gif",
                     "assets/faces_png/big/bye.png"
                 ],
                 [
-                    "#Z_Z#b",
+                    "#Z_Z#big",
                     "assets/faces/big/z.gif",
                     "assets/faces_png/big/z.png"
                 ],
                 [
-                    "#@_@#b",
+                    "#@_@#big",
                     "assets/faces/big/@.gif",
                     "assets/faces_png/big/@.png"
                 ],
                 [
-                    "#adore#b",
+                    "#adore#big",
                     "assets/faces/big/adore.gif",
                     "assets/faces_png/big/adore.png"
                 ],
                 [
-                    "#???#b",
+                    "#???#big",
                     "assets/faces/big/wonder2.gif",
                     "assets/faces_png/big/wonder2.png"
                 ],
                 [
-                    "#[banghead]#b",
+                    "#[banghead]#big",
                     "assets/faces/big/banghead.gif",
                     "assets/faces_png/big/banghead.png"
                 ],
                 [
-                    "#[bouncer]#b",
+                    "#[bouncer]#big",
                     "assets/faces/big/bouncer.gif",
                     "assets/faces_png/big/bouncer.png"
                 ],
                 [
-                    "#[bouncy]#b",
+                    "#[bouncy]#big",
                     "assets/faces/big/bouncy.gif",
                     "assets/faces_png/big/bouncy.png"
                 ],
                 [
-                    "#[offtopic]#b",
+                    "#[offtopic]#big",
                     "assets/faces/big/offtopic.gif",
                     "assets/faces_png/big/offtopic.png"
                 ],
                 [
-                    "#[censored]#b",
+                    "#[censored]#big",
                     "assets/faces/big/censored.gif",
                     "assets/faces_png/big/censored.png"
                 ],
                 [
-                    "#[flowerface]#b",
+                    "#[flowerface]#big",
                     "assets/faces/big/flowerface.gif",
                     "assets/faces_png/big/flowerface.png"
                 ],
                 [
-                    "#[shocking]#b",
+                    "#[shocking]#big",
                     "assets/faces/big/shocking.gif",
                     "assets/faces_png/big/shocking.png"
                 ],
                 [
-                    "#[photo]#b",
+                    "#[photo]#big",
                     "assets/faces/big/photo.gif",
                     "assets/faces_png/big/photo.png"
                 ],
                 [
-                    "#fire#b",
+                    "#fire#big",
                     "assets/faces/big/fire.gif",
                     "assets/faces_png/big/fire.png"
                 ],
                 [
-                    "#[yipes]#b",
+                    "#[yipes]#big",
                     "assets/faces/big/yipes.gif",
                     "assets/faces_png/big/yipes.png"
                 ],
                 [
-                    "#[369]#b",
+                    "#[369]#big",
                     "assets/faces/big/369.gif",
                     "assets/faces_png/big/369.png"
                 ],
                 [
-                    "#[bomb]#b",
+                    "#[bomb]#big",
                     "assets/faces/big/bomb.gif",
                     "assets/faces_png/big/bomb.png"
                 ],
                 [
-                    "#[slick]#b",
+                    "#[slick]#big",
                     "assets/faces/big/slick.gif",
                     "assets/faces_png/big/slick.png"
                 ],
                 [
-                    "#fuck#b",
+                    "#fuck#big",
                     "assets/faces/big/fuck.gif",
                     "assets/faces_png/big/fuck.png"
                 ],
                 [
-                    "#no#b",
+                    "#no#big",
                     "assets/faces/big/no.gif",
                     "assets/faces_png/big/no.png"
                 ],
                 [
-                    "#kill2#b",
+                    "#kill2#big",
                     "assets/faces/big/kill2.gif",
                     "assets/faces_png/big/kill2.png"
                 ],
                 [
-                    "#like#b",
+                    "#like#big",
                     "assets/faces/big/like.gif",
                     "assets/faces_png/big/like.png"
                 ],
                 [
-                    "#dislike#b",
+                    "#dislike#big",
                     "assets/faces/big/dislike.gif",
                     "assets/faces_png/big/dislike.png"
                 ],
                 [
-                    "#yup#lm#b",
+                    "#yup#lm#big",
                     "assets/faces/big/lomore_agree.gif",
                     "assets/faces_png/big/lomore_agree.png"
                 ],
                 [
-                    "#bouncer#lm#b",
+                    "#bouncer#lm#big",
                     "assets/faces/big/lomore_bouncer.gif",
                     "assets/faces_png/big/lomore_bouncer.png"
                 ],
                 [
-                    "#bye#lm#b",
+                    "#bye#lm#big",
                     "assets/faces/big/lomore_bye.gif",
                     "assets/faces_png/big/lomore_bye.png"
                 ],
                 [
-                    "#shocking#lm#b",
+                    "#shocking#lm#big",
                     "assets/faces/big/lomore_shocking.gif",
                     "assets/faces_png/big/lomore_shocking.png"
                 ]
@@ -6322,7 +6306,7 @@
             "sort": 6
         },
         {
-            "cat": "fatcmoji",
+            "cat": "fatc",
             "icons": [
                 [
                     "#:)#fatc",
@@ -6570,12 +6554,7 @@
                     "assets/faces_png/fatcmoji/fat049.png"
                 ]
             ],
-            "show_on": {
-                "user_id": [
-                    21423,
-                    45173
-                ]
-            },
+            "sort": 101,
             "show_on_2": [
                 {
                     "user_ids": [
@@ -6583,8 +6562,134 @@
                         45173
                     ]
                 }
+            ]
+        },
+        {
+            "cat": "husky",
+            "icons": [
+                [
+                    "#:)#husky",
+                    "assets/faces/husky/smile.gif",
+                    "assets/faces_png/husky/smile.png"
+                ],
+                [
+                    "#hehe#husky",
+                    "assets/faces/husky/hehe.gif",
+                    "assets/faces_png/husky/hehe.png"
+                ],
+                [
+                    "#haha#husky",
+                    "assets/faces/husky/haha.gif",
+                    "assets/faces_png/husky/haha.png"
+                ],
+                [
+                    "#bye#husky",
+                    "assets/faces/husky/bye.gif",
+                    "assets/faces_png/husky/bye.png"
+                ],
+                [
+                    "#999#husky",
+                    "assets/faces/husky/999.gif",
+                    "assets/faces_png/husky/999.png"
+                ],
+                [
+                    "#fbi#husky",
+                    "assets/faces/husky/FBI.gif",
+                    "assets/faces_png/husky/FBI.png"
+                ],
+                [
+                    "#:P#husky",
+                    "assets/faces/husky/lick.gif",
+                    "assets/faces_png/husky/lick.png"
+                ],
+                [
+                    "#wet#husky",
+                    "assets/faces/husky/wet.gif",
+                    "assets/faces_png/husky/wet.png"
+                ],
+                [
+                    "#touch#husky",
+                    "assets/faces/husky/touch.gif",
+                    "assets/faces_png/husky/touch.png"
+                ],
+                [
+                    "#no#husky",
+                    "assets/faces/husky/no.gif",
+                    "assets/faces_png/husky/no.png"
+                ],
+                [
+                    "#@_@#husky",
+                    "assets/faces/husky/scare.gif",
+                    "assets/faces_png/husky/scare.png"
+                ],
+                [
+                    "#:-[#husky",
+                    "assets/faces/husky/angry.gif",
+                    "assets/faces_png/husky/angry.png"
+                ],
+                [
+                    "#zzz#husky",
+                    "assets/faces/husky/zzz.gif",
+                    "assets/faces_png/husky/zzz.png"
+                ],
+                [
+                    "#cry#husky",
+                    "assets/faces/husky/cry.gif",
+                    "assets/faces_png/husky/cry.png"
+                ],
+                [
+                    "#give#husky",
+                    "assets/faces/husky/give.gif",
+                    "assets/faces_png/husky/give.png"
+                ],
+                [
+                    "#beg#husky",
+                    "assets/faces/husky/beg.gif",
+                    "assets/faces_png/husky/beg.png"
+                ],
+                [
+                    "#it1#husky",
+                    "assets/faces/husky/itdog1.gif",
+                    "assets/faces_png/husky/itdog1.png"
+                ],
+                [
+                    "#it2#husky",
+                    "assets/faces/husky/itdog2.gif",
+                    "assets/faces_png/husky/itdog2.png"
+                ],
+                [
+                    "#run#husky",
+                    "assets/faces/husky/run.gif",
+                    "assets/faces_png/husky/run.png"
+                ],
+                [
+                    "#beat#husky",
+                    "assets/faces/husky/beat.gif",
+                    "assets/faces_png/husky/beat.png"
+                ],
+                [
+                    "#fight1#husky",
+                    "assets/faces/husky/fight1.gif",
+                    "assets/faces_png/husky/fight1.png"
+                ],
+                [
+                    "#fight2#husky",
+                    "assets/faces/husky/fight2.gif",
+                    "assets/faces_png/husky/fight2.png"
+                ],
+                [
+                    "#lihkg#husky",
+                    "assets/faces/husky/lihkg.gif",
+                    "assets/faces_png/husky/lihkg.png"
+                ]
             ],
-            "sort": 101
+            "sort": 50,
+            "show_on_2": [
+                {
+                    "start_time": 1,
+                    "end_time": 1
+                }
+            ]
         }
     ]
 }

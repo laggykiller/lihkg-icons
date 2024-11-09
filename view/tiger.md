@@ -23,6 +23,7 @@
 | like | `#like#tiger` | ![like](../assets/faces/tiger/like.gif) | ![like](../assets/faces_png/tiger/like.png) |
 | like2 | `#like2#tiger` | ![like2](../assets/faces/tiger/like2.gif) | ![like2](../assets/faces_png/tiger/like2.png) |
 | punchbag | `#punchbag#tiger` | ![punchbag](../assets/faces/tiger/punchbag.gif) | ![punchbag](../assets/faces_png/tiger/punchbag.png) |
+| fencing | `#fencing#tiger` | ![fencing](../assets/faces/tiger/fencing.gif) | ![fencing](../assets/faces_png/tiger/fencing.png) |
 | rpg7 | `#rpg7#tiger` | ![rpg7](../assets/faces/tiger/rpg7.gif) | ![rpg7](../assets/faces_png/tiger/rpg7.png) |
 | lihkg | `#lihkg#tiger` | ![lihkg](../assets/faces/tiger/lihkg.gif) | ![lihkg](../assets/faces_png/tiger/lihkg.png) |
 | lihkg2 | `#lihkg2#tiger` | ![lihkg2](../assets/faces/tiger/lihkg2.gif) | ![lihkg2](../assets/faces_png/tiger/lihkg2.png) |
@@ -32,7 +33,6 @@
 | like_special | `#like#tiger #like#tiger` | ![like_special](../assets/faces/tiger/like_special.gif) | ![like_special](../assets/faces_png/tiger/like_special.png) |
 | punch_special | `#punchbag#tiger #angry#tiger` | ![punch_special](../assets/faces/tiger/punch_special.gif) | ![punch_special](../assets/faces_png/tiger/punch_special.png) |
 | punchbag_connect | `#punchbag#tiger #fight2#dog` | ![punchbag_connect](../assets/faces/tiger/punchbag_connect.gif) | ![punchbag_connect](../assets/faces_png/tiger/punchbag_connect.png) |
-| fencing | `` | ![fencing](../assets/faces/tiger/fencing.gif) | ![fencing](../assets/faces_png/tiger/fencing.png) |
-| fencing_connect | `` | ![fencing_connect](../assets/faces/tiger/fencing_connect.gif) | ![fencing_connect](../assets/faces_png/tiger/fencing_connect.png) |
-| fencing_connect2 | `` | ![fencing_connect2](../assets/faces/tiger/fencing_connect2.gif) | ![fencing_connect2](../assets/faces_png/tiger/fencing_connect2.png) |
+| fencing_connect | `#fencing#tiger #annoyed#cat` | ![fencing_connect](../assets/faces/tiger/fencing_connect.gif) | ![fencing_connect](../assets/faces_png/tiger/fencing_connect.png) |
+| fencing_connect2 | `#fencing#tiger #knife#pig` | ![fencing_connect2](../assets/faces/tiger/fencing_connect2.gif) | ![fencing_connect2](../assets/faces_png/tiger/fencing_connect2.png) |
 

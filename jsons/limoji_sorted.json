@@ -2338,6 +2338,11 @@
                 "assets/faces_png/tiger/punchbag.png"
             ],
             [
+                "#fencing#tiger",
+                "assets/faces/tiger/fencing.gif",
+                "assets/faces_png/tiger/fencing.png"
+            ],
+            [
                 "#rpg7#tiger",
                 "assets/faces/tiger/rpg7.gif",
                 "assets/faces_png/tiger/rpg7.png"
@@ -2385,17 +2390,12 @@
                 "assets/faces_png/tiger/punchbag_connect.png"
             ],
             [
-                "",
-                "assets/faces/tiger/fencing.gif",
-                "assets/faces_png/tiger/fencing.png"
-            ],
-            [
-                "",
+                "#fencing#tiger #annoyed#cat",
                 "assets/faces/tiger/fencing_connect.gif",
                 "assets/faces_png/tiger/fencing_connect.png"
             ],
             [
-                "",
+                "#fencing#tiger #knife#pig",
                 "assets/faces/tiger/fencing_connect2.gif",
                 "assets/faces_png/tiger/fencing_connect2.png"
             ]
@@ -2413,6 +2413,11 @@
                 "#smile2#rabbit",
                 "assets/faces/rabbit/smile2.gif",
                 "assets/faces_png/rabbit/smile2.png"
+            ],
+            [
+                "#smile3#rabbit",
+                "assets/faces/rabbit/smile3.gif",
+                "assets/faces_png/rabbit/smile3.png"
             ],
             [
                 "#happy#rabbit",
@@ -2545,6 +2550,11 @@
                 "assets/faces_png/rabbit/tape.png"
             ],
             [
+                "#badboy#rabbit",
+                "assets/faces/rabbit/badboy.gif",
+                "assets/faces_png/rabbit/badboy.png"
+            ],
+            [
                 "#yawn#rabbit",
                 "assets/faces/rabbit/yawn.gif",
                 "assets/faces_png/rabbit/yawn.png"
@@ -2595,16 +2605,6 @@
                 "#car#cow #axe#rabbit",
                 "assets/faces/rabbit/axe_connect.gif",
                 "assets/faces_png/rabbit/axe_connect.png"
-            ],
-            [
-                "",
-                "assets/faces/rabbit/badboy.gif",
-                "assets/faces_png/rabbit/badboy.png"
-            ],
-            [
-                "",
-                "assets/faces/rabbit/smile3.gif",
-                "assets/faces_png/rabbit/smile3.png"
             ]
         ]
     },

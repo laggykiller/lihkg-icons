@@ -2221,6 +2221,11 @@
                 "#grab#cow #beg#dog",
                 "assets/faces/cow/grab_connect.gif",
                 "assets/faces_png/cow/grab_connect.png"
+            ],
+            [
+                "",
+                "assets/faces/cow/geltau.gif",
+                "assets/faces_png/cow/geltau.png"
             ]
         ]
     },

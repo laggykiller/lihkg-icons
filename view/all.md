@@ -472,6 +472,7 @@
 | power_special | `#gold#cow #power#cow` | ![power_special](../assets/faces/cow/power_special.gif) | ![power_special](../assets/faces_png/cow/power_special.png) |
 | bus_special | `#crowd#cow #bus#cow` | ![bus_special](../assets/faces/cow/bus_special.gif) | ![bus_special](../assets/faces_png/cow/bus_special.png) |
 | grab_connect | `#grab#cow #beg#dog` | ![grab_connect](../assets/faces/cow/grab_connect.gif) | ![grab_connect](../assets/faces_png/cow/grab_connect.png) |
+| geltau | `` | ![geltau](../assets/faces/cow/geltau.gif) | ![geltau](../assets/faces_png/cow/geltau.png) |
 
 ## tiger [連虎]
 | Filename | Emoji | GIF | PNG |

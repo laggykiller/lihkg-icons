@@ -259,8 +259,8 @@
         },
         "showOn": [
             {
-                "start_time": 1,
-                "end_time": 1734278400000
+                "start_time": 1735660799000,
+                "end_time": 1924963199000
             }
         ]
     },
@@ -361,59 +361,50 @@
         },
         "showOn": [
             {
-                "start_time": 1,
-                "end_time": 1734278400000
+                "start_time": 1735660799000,
+                "end_time": 1924963199000
             }
         ]
     },
-    "dragon": {
+    "snake": {
         "icons": {
-            "assets/faces/dragon/smile.gif": "#:)#dragon",
-            "assets/faces/dragon/happy.gif": "#:D#dragon",
-            "assets/faces/dragon/unclehappy.gif": "#unclehappy#dragon",
-            "assets/faces/dragon/unclehappy2.gif": "#unclehappy2#dragon",
-            "assets/faces/dragon/lick.gif": "#lick#dragon",
-            "assets/faces/dragon/lick2.gif": "#lick2#dragon",
-            "assets/faces/dragon/gj.gif": "#gj#dragon",
-            "assets/faces/dragon/disappear.gif": "#disappear#dragon",
-            "assets/faces/dragon/guitar.gif": "#guitar#dragon",
-            "assets/faces/dragon/bye.gif": "#bye#dragon",
-            "assets/faces/dragon/eat.gif": "#eat#dragon",
-            "assets/faces/dragon/ok.gif": "#ok#dragon",
-            "assets/faces/dragon/drink.gif": "#drink#dragon",
-            "assets/faces/dragon/think.gif": "#think#dragon",
-            "assets/faces/dragon/wtf.gif": "#wtf#dragon",
-            "assets/faces/dragon/phone.gif": "#phone#dragon",
-            "assets/faces/dragon/ngg.gif": "#ngg#dragon",
-            "assets/faces/dragon/mindblown.gif": "#mindblown#dragon",
-            "assets/faces/dragon/wheelchair.gif": "#wheelchair#dragon",
-            "assets/faces/dragon/angry.gif": "#:-[#dragon",
-            "assets/faces/dragon/headache.gif": "#headache#dragon",
-            "assets/faces/dragon/spit.gif": "#spit#dragon",
-            "assets/faces/dragon/midfinger.gif": "#midfinger#dragon",
-            "assets/faces/dragon/laser.gif": "#laser#dragon",
-            "assets/faces/dragon/read.gif": "#read#dragon",
-            "assets/faces/dragon/sad.gif": "#sad#dragon",
-            "assets/faces/dragon/sad2.gif": "#sad2#dragon",
-            "assets/faces/dragon/nope.gif": "#nope#dragon",
-            "assets/faces/dragon/shock.gif": "#shock#dragon",
-            "assets/faces/dragon/backpain.gif": "#backpain#dragon",
-            "assets/faces/dragon/shiver.gif": "#shiver#dragon",
-            "assets/faces/dragon/z.gif": "#z#dragon",
-            "assets/faces/dragon/wind.gif": "#wind#dragon",
-            "assets/faces/dragon/lihkg.gif": "#lihkg#dragon"
+            "assets/faces/snake/smile.gif": "#:)#snake",
+            "assets/faces/snake/laugh.gif": "#:D#snake",
+            "assets/faces/snake/nose.gif": "#nose#snake",
+            "assets/faces/snake/want.gif": "#want#snake",
+            "assets/faces/snake/knife.gif": "#knife#snake",
+            "assets/faces/snake/shotgun.gif": "#shotgun#snake",
+            "assets/faces/snake/explosion.gif": "#explosion#snake",
+            "assets/faces/snake/sweat.gif": "#sweat#snake",
+            "assets/faces/snake/write.gif": "#write#snake",
+            "assets/faces/snake/confuse.gif": "#confuse#snake",
+            "assets/faces/snake/wtf.gif": "#wtf#snake",
+            "assets/faces/snake/scream.gif": "#scream#snake",
+            "assets/faces/snake/shock.gif": "#shock#snake",
+            "assets/faces/snake/wow.gif": "#wow#snake",
+            "assets/faces/snake/boring.gif": "#boring#snake",
+            "assets/faces/snake/sad.gif": "#sad#snake",
+            "assets/faces/snake/bye.gif": "#bye#snake",
+            "assets/faces/snake/eat.gif": "#eat#snake",
+            "assets/faces/snake/drink.gif": "#drink#snake",
+            "assets/faces/snake/think.gif": "#think#snake",
+            "assets/faces/snake/hypnosis.gif": "#hypnosis#snake",
+            "assets/faces/snake/arcade.gif": "#arcade#snake",
+            "assets/faces/snake/sign.gif": "#sign#snake",
+            "assets/faces/snake/zzz.gif": "#zzz#snake",
+            "assets/faces/snake/lihkg.gif": "#lihkg#snake"
         },
         "special": {
-            "assets/faces/dragon/angry_connect.gif": "#spit#dragon #gun#mouse",
-            "assets/faces/dragon/angry_connect2.gif": "#:-[#dragon #tired#mouse",
-            "assets/faces/dragon/angry_special.gif": "#:-[#dragon #midfinger#dragon",
-            "assets/faces/dragon/backpain_connect.gif": "#throw#cat #backpain#dragon",
-            "assets/faces/dragon/wheelchair_connect.gif": "#car#cow #wheelchair#dragon"
+            "assets/faces/snake/hypnosis_connect.gif": "#hypnosis#snake #awake#mouse",
+            "assets/faces/snake/knife_connect.gif": "#knife#snake #stun#rabbit",
+            "assets/faces/snake/shotgun_special.gif": "#shotgun#snake #shotgun#snake #shotgun#snake",
+            "assets/faces/snake/scream_connect.gif": "#music#rabbit #scream#snake",
+            "assets/faces/snake/eat_special.gif": "#eat#snake #wtf#snake"
         },
         "showOn": [
             {
-                "start_time": 1,
-                "end_time": 1734278400000
+                "start_time": 1735660799000,
+                "end_time": 1924963199000
             }
         ]
     },
@@ -464,8 +455,8 @@
         },
         "showOn": [
             {
-                "start_time": 1,
-                "end_time": 1734278400000
+                "start_time": 1735660799000,
+                "end_time": 1924963199000
             }
         ]
     },
@@ -503,8 +494,8 @@
         },
         "showOn": [
             {
-                "start_time": 1,
-                "end_time": 1734278400000
+                "start_time": 1735660799000,
+                "end_time": 1924963199000
             }
         ]
     },
@@ -550,8 +541,8 @@
         },
         "showOn": [
             {
-                "start_time": 1,
-                "end_time": 1734278400000
+                "start_time": 1735660799000,
+                "end_time": 1924963199000
             }
         ]
     },
@@ -596,8 +587,8 @@
         },
         "showOn": [
             {
-                "start_time": 1,
-                "end_time": 1734278400000
+                "start_time": 1735660799000,
+                "end_time": 1924963199000
             }
         ]
     },
@@ -648,8 +639,59 @@
         },
         "showOn": [
             {
-                "start_time": 1,
-                "end_time": 1734278400000
+                "start_time": 1735660799000,
+                "end_time": 1924963199000
+            }
+        ]
+    },
+    "dragon": {
+        "icons": {
+            "assets/faces/dragon/smile.gif": "#:)#dragon",
+            "assets/faces/dragon/happy.gif": "#:D#dragon",
+            "assets/faces/dragon/unclehappy.gif": "#unclehappy#dragon",
+            "assets/faces/dragon/unclehappy2.gif": "#unclehappy2#dragon",
+            "assets/faces/dragon/lick.gif": "#lick#dragon",
+            "assets/faces/dragon/lick2.gif": "#lick2#dragon",
+            "assets/faces/dragon/gj.gif": "#gj#dragon",
+            "assets/faces/dragon/disappear.gif": "#disappear#dragon",
+            "assets/faces/dragon/guitar.gif": "#guitar#dragon",
+            "assets/faces/dragon/bye.gif": "#bye#dragon",
+            "assets/faces/dragon/eat.gif": "#eat#dragon",
+            "assets/faces/dragon/ok.gif": "#ok#dragon",
+            "assets/faces/dragon/drink.gif": "#drink#dragon",
+            "assets/faces/dragon/think.gif": "#think#dragon",
+            "assets/faces/dragon/wtf.gif": "#wtf#dragon",
+            "assets/faces/dragon/phone.gif": "#phone#dragon",
+            "assets/faces/dragon/ngg.gif": "#ngg#dragon",
+            "assets/faces/dragon/mindblown.gif": "#mindblown#dragon",
+            "assets/faces/dragon/wheelchair.gif": "#wheelchair#dragon",
+            "assets/faces/dragon/angry.gif": "#:-[#dragon",
+            "assets/faces/dragon/headache.gif": "#headache#dragon",
+            "assets/faces/dragon/spit.gif": "#spit#dragon",
+            "assets/faces/dragon/midfinger.gif": "#midfinger#dragon",
+            "assets/faces/dragon/laser.gif": "#laser#dragon",
+            "assets/faces/dragon/read.gif": "#read#dragon",
+            "assets/faces/dragon/sad.gif": "#sad#dragon",
+            "assets/faces/dragon/sad2.gif": "#sad2#dragon",
+            "assets/faces/dragon/nope.gif": "#nope#dragon",
+            "assets/faces/dragon/shock.gif": "#shock#dragon",
+            "assets/faces/dragon/backpain.gif": "#backpain#dragon",
+            "assets/faces/dragon/shiver.gif": "#shiver#dragon",
+            "assets/faces/dragon/z.gif": "#z#dragon",
+            "assets/faces/dragon/wind.gif": "#wind#dragon",
+            "assets/faces/dragon/lihkg.gif": "#lihkg#dragon"
+        },
+        "special": {
+            "assets/faces/dragon/angry_connect.gif": "#spit#dragon #gun#mouse",
+            "assets/faces/dragon/angry_connect2.gif": "#:-[#dragon #tired#mouse",
+            "assets/faces/dragon/angry_special.gif": "#:-[#dragon #midfinger#dragon",
+            "assets/faces/dragon/backpain_connect.gif": "#throw#cat #backpain#dragon",
+            "assets/faces/dragon/wheelchair_connect.gif": "#car#cow #wheelchair#dragon"
+        },
+        "showOn": [
+            {
+                "start_time": 1735660799000,
+                "end_time": 1924963199000
             }
         ]
     },
@@ -738,8 +780,8 @@
         },
         "showOn": [
             {
-                "start_time": 1,
-                "end_time": 1734278400000
+                "start_time": 1738512000000,
+                "end_time": 1924963199000
             }
         ]
     },
@@ -919,8 +961,8 @@
         },
         "showOn": [
             {
-                "start_time": 1707408000000,
-                "end_time": 1708272000000
+                "start_time": 1735660799000,
+                "end_time": 1738512000000
             }
         ]
     },
@@ -1705,8 +1747,8 @@
         "special": {},
         "showOn": [
             {
-                "start_time": 1707408000000,
-                "end_time": 1708272000000
+                "start_time": 1735660799000,
+                "end_time": 1738512000000
             }
         ],
         "isPinTop": 1

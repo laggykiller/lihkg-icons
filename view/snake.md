@@ -1,4 +1,4 @@
-## snake [snake]
+## snake [連蛇]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#snake` | ![smile](../assets/faces/snake/smile.gif) | ![smile](../assets/faces_png/snake/smile.png) |

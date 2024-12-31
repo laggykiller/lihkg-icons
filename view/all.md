@@ -316,7 +316,7 @@
 | wine_connect | `#wine#pig #champagne#pig` | ![wine_connect](../assets/faces/pig/wine_connect.gif) | ![wine_connect](../assets/faces_png/pig/wine_connect.png) |
 | sadNangry | `` | ![sadNangry](../assets/faces/pig/sadNangry.gif) | ![sadNangry](../assets/faces_png/pig/sadNangry.png) |
 
-## snake [snake]
+## snake [連蛇]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#snake` | ![smile](../assets/faces/snake/smile.gif) | ![smile](../assets/faces_png/snake/smile.png) |
@@ -1145,7 +1145,7 @@
 | fight_connect2 | `#fight2#dogxm #fight1#dogxm` | ![fight_connect2](../assets/faces/dogxm/fight_connect2.gif) | ![fight_connect2](../assets/faces_png/dogxm/fight_connect2.png) |
 | fight_connect3 | `#fight1#dogxm #npc2#dogxm` | ![fight_connect3](../assets/faces/dogxm/fight_connect3.gif) | ![fight_connect3](../assets/faces_png/dogxm/fight_connect3.png) |
 
-## dragonxm [dragonxm]
+## dragonxm [連龍聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#dragonxm` | ![smile](../assets/faces/dragonxm/smile.gif) | ![smile](../assets/faces_png/dragonxm/smile.png) |

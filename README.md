@@ -20,7 +20,7 @@ To manually update:
 | dog | 連狗 | ![smile.gif](assets/faces/dog/smile.gif) | [View](./view/dog.md) |
 | husky | husky | ![smile.gif](assets/faces/husky/smile.gif) | [View](./view/husky.md) |
 | pig | 連豬 | ![smile.gif](assets/faces/pig/smile.gif) | [View](./view/pig.md) |
-| snake | snake | ![smile.gif](assets/faces/snake/smile.gif) | [View](./view/snake.md) |
+| snake | 連蛇 | ![smile.gif](assets/faces/snake/smile.gif) | [View](./view/snake.md) |
 | mouse | 連鼠 | ![smile.gif](assets/faces/mouse/smile.gif) | [View](./view/mouse.md) |
 | cat | 連貓 | ![smile.gif](assets/faces/cat/smile.gif) | [View](./view/cat.md) |
 | cow | 連牛 | ![smile.gif](assets/faces/cow/smile.gif) | [View](./view/cow.md) |
@@ -37,7 +37,7 @@ To manually update:
 | mousexm | 連鼠聖誕版 | ![smile.gif](assets/faces/mousexm/smile.gif) | [View](./view/mousexm.md) |
 | pigxm | 連豬聖誕版 | ![smile.gif](assets/faces/pigxm/smile.gif) | [View](./view/pigxm.md) |
 | dogxm | 連狗聖誕版 | ![smile.gif](assets/faces/dogxm/smile.gif) | [View](./view/dogxm.md) |
-| dragonxm | dragonxm | ![smile.gif](assets/faces/dragonxm/smile.gif) | [View](./view/dragonxm.md) |
+| dragonxm | 連龍聖誕版 | ![smile.gif](assets/faces/dragonxm/smile.gif) | [View](./view/dragonxm.md) |
 | xmas | 聖誕版 | ![smile.gif](assets/faces/xm/smile.gif) | [View](./view/xmas.md) |
 | fs | FS | ![smile.gif](assets/faces/fs/smile.gif) | [View](./view/fs.md) |
 | big | 普通 | ![smile.gif](assets/faces/big/smile.gif) | [View](./view/big.md) |

@@ -1,4 +1,4 @@
-## dragonxm [dragonxm]
+## dragonxm [連龍聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#dragonxm` | ![smile](../assets/faces/dragonxm/smile.gif) | ![smile](../assets/faces_png/dragonxm/smile.png) |

@@ -17,6 +17,7 @@
 | wow | `#wow#snake` | ![wow](../assets/faces/snake/wow.gif) | ![wow](../assets/faces_png/snake/wow.png) |
 | boring | `#boring#snake` | ![boring](../assets/faces/snake/boring.gif) | ![boring](../assets/faces_png/snake/boring.png) |
 | sad | `#sad#snake` | ![sad](../assets/faces/snake/sad.gif) | ![sad](../assets/faces_png/snake/sad.png) |
+| sad2 | `#sad2#snake` | ![sad2](../assets/faces/snake/sad2.gif) | ![sad2](../assets/faces_png/snake/sad2.png) |
 | bye | `#bye#snake` | ![bye](../assets/faces/snake/bye.gif) | ![bye](../assets/faces_png/snake/bye.png) |
 | eat | `#eat#snake` | ![eat](../assets/faces/snake/eat.gif) | ![eat](../assets/faces_png/snake/eat.png) |
 | drink | `#drink#snake` | ![drink](../assets/faces/snake/drink.gif) | ![drink](../assets/faces_png/snake/drink.png) |

@@ -142,6 +142,16 @@
                     "#dragon2#hb",
                     "assets/faces/lihkg/dragon_hb2.gif",
                     "assets/faces_png/lihkg/dragon_hb2.png"
+                ],
+                [
+                    "#snake#hb",
+                    "assets/faces/lihkg/snake_hb.gif",
+                    "assets/faces_png/lihkg/snake_hb.png"
+                ],
+                [
+                    "#snake2#hb",
+                    "assets/faces/lihkg/snake_hb2.gif",
+                    "assets/faces_png/lihkg/snake_hb2.png"
                 ]
             ],
             "sort": 100,
@@ -150,8 +160,8 @@
                     "keywords": [
                         "生日快樂",
                         "生日",
-                        "Happy bday",
-                        "Happy Birthday",
+                        "happy bday",
+                        "happy Birthday",
                         "🎂"
                     ]
                 }
@@ -204,16 +214,21 @@
                     "#dragon#rip",
                     "assets/faces/rip/dragon.gif",
                     "assets/faces_png/rip/dragon.png"
+                ],
+                [
+                    "#snake#rip",
+                    "assets/faces/rip/snake.gif",
+                    "assets/faces_png/rip/snake.png"
                 ]
             ],
             "sort": 110,
             "show_on_2": [
                 {
                     "keywords": [
-                        "RIP",
+                        "rip",
                         "悼念",
                         "哀悼",
-                        "R.I.P"
+                        "r.i.p"
                     ]
                 }
             ]
@@ -4084,6 +4099,11 @@
                     "#sad#snake",
                     "assets/faces/snake/sad.gif",
                     "assets/faces_png/snake/sad.png"
+                ],
+                [
+                    "#sad2#snake",
+                    "assets/faces/snake/sad2.gif",
+                    "assets/faces_png/snake/sad2.png"
                 ],
                 [
                     "#bye#snake",

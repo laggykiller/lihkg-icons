@@ -81,7 +81,9 @@
             "assets/faces/lihkg/rabbit2_hb.gif": "#rabbit2#hb",
             "assets/faces/lihkg/rabbit3_hb.gif": "#rabbit3#hb",
             "assets/faces/lihkg/dragon_hb.gif": "#dragon#hb",
-            "assets/faces/lihkg/dragon_hb2.gif": "#dragon2#hb"
+            "assets/faces/lihkg/dragon_hb2.gif": "#dragon2#hb",
+            "assets/faces/lihkg/snake_hb.gif": "#snake#hb",
+            "assets/faces/lihkg/snake_hb2.gif": "#snake2#hb"
         },
         "special": {
             "assets/faces/lihkg/rabbit_hb_connect.gif": "#cow2#hb #rabbit2#hb",
@@ -92,8 +94,8 @@
                 "keywords": [
                     "生日快樂",
                     "生日",
-                    "Happy bday",
-                    "Happy Birthday",
+                    "happy bday",
+                    "happy birthday",
                     "🎂"
                 ]
             }
@@ -110,15 +112,16 @@
             "assets/faces/rip/cow.gif": "#cow#rip",
             "assets/faces/rip/tiger.gif": "#tiger#rip",
             "assets/faces/rip/rabbit.gif": "#rabbit#rip",
-            "assets/faces/rip/dragon.gif": "#dragon#rip"
+            "assets/faces/rip/dragon.gif": "#dragon#rip",
+            "assets/faces/rip/snake.gif": "#snake#rip"
         },
         "showOn": [
             {
                 "keywords": [
-                    "RIP",
+                    "rip",
                     "悼念",
                     "哀悼",
-                    "R\\.I\\.P"
+                    "r\\.i\\.p"
                 ]
             }
         ],
@@ -384,6 +387,7 @@
             "assets/faces/snake/wow.gif": "#wow#snake",
             "assets/faces/snake/boring.gif": "#boring#snake",
             "assets/faces/snake/sad.gif": "#sad#snake",
+            "assets/faces/snake/sad2.gif": "#sad2#snake",
             "assets/faces/snake/bye.gif": "#bye#snake",
             "assets/faces/snake/eat.gif": "#eat#snake",
             "assets/faces/snake/drink.gif": "#drink#snake",

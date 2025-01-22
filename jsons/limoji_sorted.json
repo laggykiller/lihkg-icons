@@ -387,6 +387,16 @@
                 "#dragon2#hb",
                 "assets/faces/lihkg/dragon_hb2.gif",
                 "assets/faces_png/lihkg/dragon_hb2.png"
+            ],
+            [
+                "#snake#hb",
+                "assets/faces/lihkg/snake_hb.gif",
+                "assets/faces_png/lihkg/snake_hb.png"
+            ],
+            [
+                "#snake2#hb",
+                "assets/faces/lihkg/snake_hb2.gif",
+                "assets/faces_png/lihkg/snake_hb2.png"
             ]
         ],
         "special": [
@@ -459,6 +469,11 @@
                 "#dragon#rip",
                 "assets/faces/rip/dragon.gif",
                 "assets/faces_png/rip/dragon.png"
+            ],
+            [
+                "#snake#rip",
+                "assets/faces/rip/snake.gif",
+                "assets/faces_png/rip/snake.png"
             ]
         ],
         "special": []
@@ -1573,6 +1588,11 @@
                 "#sad#snake",
                 "assets/faces/snake/sad.gif",
                 "assets/faces_png/snake/sad.png"
+            ],
+            [
+                "#sad2#snake",
+                "assets/faces/snake/sad2.gif",
+                "assets/faces_png/snake/sad2.png"
             ],
             [
                 "#bye#snake",

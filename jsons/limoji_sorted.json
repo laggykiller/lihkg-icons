@@ -770,33 +770,8 @@
             ],
             [
                 "",
-                "assets/faces/fifa/iceland.gif",
-                "assets/faces_png/fifa/iceland.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/panama.gif",
-                "assets/faces_png/fifa/panama.png"
-            ],
-            [
-                "",
                 "assets/faces/fifa/sweden.gif",
                 "assets/faces_png/fifa/sweden.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/colombia.gif",
-                "assets/faces_png/fifa/colombia.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/peru.gif",
-                "assets/faces_png/fifa/peru.png"
-            ],
-            [
-                "",
-                "assets/faces/fifa/russia.gif",
-                "assets/faces_png/fifa/russia.png"
             ],
             [
                 "",
@@ -805,8 +780,33 @@
             ],
             [
                 "",
+                "assets/faces/fifa/colombia.gif",
+                "assets/faces_png/fifa/colombia.png"
+            ],
+            [
+                "",
                 "assets/faces/fifa/nigeria.gif",
                 "assets/faces_png/fifa/nigeria.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/russia.gif",
+                "assets/faces_png/fifa/russia.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/panama.gif",
+                "assets/faces_png/fifa/panama.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/iceland.gif",
+                "assets/faces_png/fifa/iceland.png"
+            ],
+            [
+                "",
+                "assets/faces/fifa/peru.gif",
+                "assets/faces_png/fifa/peru.png"
             ]
         ]
     },

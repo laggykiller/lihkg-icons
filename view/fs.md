@@ -48,6 +48,6 @@
 | poison | `#poison#fs` | ![poison](../assets/faces/fs/poison.gif) | ![poison](../assets/faces_png/fs/poison.png) |
 | pokemon_1 | `#poke1#fs` | ![pokemon_1](../assets/faces/fs/pokemon_1.gif) | ![pokemon_1](../assets/faces_png/fs/pokemon_1.png) |
 | pokemon_2 | `#poke2#fs` | ![pokemon_2](../assets/faces/fs/pokemon_2.gif) | ![pokemon_2](../assets/faces_png/fs/pokemon_2.png) |
-| smile_big | `#:)#b#fs` | ![smile_big](../assets/faces/fs/smile_big.gif) | ![smile_big](../assets/faces_png/fs/smile_big.png) |
 | superman | `#superman#fs` | ![superman](../assets/faces/fs/superman.gif) | ![superman](../assets/faces_png/fs/superman.png) |
+| smile_big | `` | ![smile_big](../assets/faces/fs/smile_big.gif) | ![smile_big](../assets/faces_png/fs/smile_big.png) |
 

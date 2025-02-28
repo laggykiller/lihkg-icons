@@ -3782,13 +3782,7 @@
                     "assets/faces_png/dog/lihkg.png"
                 ]
             ],
-            "sort": 2,
-            "show_on_2": [
-                {
-                    "start_time": 1735660799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 2
         },
         {
             "cat": "pig",
@@ -4009,13 +4003,7 @@
                     "assets/faces_png/pig/lihkg.png"
                 ]
             ],
-            "sort": 7,
-            "show_on_2": [
-                {
-                    "start_time": 1735660799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 7
         },
         {
             "cat": "snake",
@@ -4151,13 +4139,7 @@
                     "assets/faces_png/snake/lihkg.png"
                 ]
             ],
-            "sort": 14,
-            "show_on_2": [
-                {
-                    "start_time": 1735660799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 14
         },
         {
             "cat": "mouse",
@@ -4348,13 +4330,7 @@
                     "assets/faces_png/mouse/lihkg.png"
                 ]
             ],
-            "sort": 8,
-            "show_on_2": [
-                {
-                    "start_time": 1735660799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 8
         },
         {
             "cat": "cat",
@@ -4490,13 +4466,7 @@
                     "assets/faces_png/cat/lihkg.png"
                 ]
             ],
-            "sort": 9,
-            "show_on_2": [
-                {
-                    "start_time": 1735660799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 9
         },
         {
             "cat": "cow",
@@ -4667,13 +4637,7 @@
                     "assets/faces_png/cow/lihkg.png"
                 ]
             ],
-            "sort": 10,
-            "show_on_2": [
-                {
-                    "start_time": 1735660799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 10
         },
         {
             "cat": "tiger",
@@ -4809,13 +4773,7 @@
                     "assets/faces_png/tiger/lihkg2.png"
                 ]
             ],
-            "sort": 11,
-            "show_on_2": [
-                {
-                    "start_time": 1735660799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 11
         },
         {
             "cat": "rabbit",
@@ -4986,13 +4944,7 @@
                     "assets/faces_png/rabbit/lihkg.png"
                 ]
             ],
-            "sort": 12,
-            "show_on_2": [
-                {
-                    "start_time": 1735660799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 12
         },
         {
             "cat": "dragon",
@@ -5168,13 +5120,7 @@
                     "assets/faces_png/dragon/lihkg.png"
                 ]
             ],
-            "sort": 13,
-            "show_on_2": [
-                {
-                    "start_time": 1735660799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 13
         },
         {
             "cat": "lm2",
@@ -5250,6 +5196,26 @@
                     "assets/faces_png/lm2/tongue.png"
                 ],
                 [
+                    "#tongue2#lm2",
+                    "assets/faces/lm2/tongue2.gif",
+                    "assets/faces_png/lm2/tongue2.png"
+                ],
+                [
+                    "#tongue3#lm2",
+                    "assets/faces/lm2/tongue3.gif",
+                    "assets/faces_png/lm2/tongue3.png"
+                ],
+                [
+                    "#tongue4#lm2",
+                    "assets/faces/lm2/tongue4.gif",
+                    "assets/faces_png/lm2/tongue4.png"
+                ],
+                [
+                    "#heyhey#lm2",
+                    "assets/faces/lm2/heyhey.gif",
+                    "assets/faces_png/lm2/heyhey.png"
+                ],
+                [
                     "#lick#lm2",
                     "assets/faces/lm2/lick.gif",
                     "assets/faces_png/lm2/lick.png"
@@ -5268,6 +5234,11 @@
                     "#[bouncer]#lm2",
                     "assets/faces/lm2/bouncer.gif",
                     "assets/faces_png/lm2/bouncer.png"
+                ],
+                [
+                    "#huh#lm2",
+                    "assets/faces/lm2/huh.gif",
+                    "assets/faces_png/lm2/huh.png"
                 ],
                 [
                     "#xx(#lm2",
@@ -5305,9 +5276,29 @@
                     "assets/faces_png/lm2/nosee.png"
                 ],
                 [
+                    "#sosad2#lm2",
+                    "assets/faces/lm2/sosad2.gif",
+                    "assets/faces_png/lm2/sosad2.png"
+                ],
+                [
+                    "#haha2#lm2",
+                    "assets/faces/lm2/haha2.gif",
+                    "assets/faces_png/lm2/haha2.png"
+                ],
+                [
                     "#hoho#lm2",
                     "assets/faces/lm2/hoho.gif",
                     "assets/faces_png/lm2/hoho.png"
+                ],
+                [
+                    "#aha#lm2",
+                    "assets/faces/lm2/aha.gif",
+                    "assets/faces_png/lm2/aha.png"
+                ],
+                [
+                    "#squint#lm2",
+                    "assets/faces/lm2/squint.gif",
+                    "assets/faces_png/lm2/squint.png"
                 ],
                 [
                     "#love#lm2",
@@ -5315,9 +5306,19 @@
                     "assets/faces_png/lm2/love.png"
                 ],
                 [
+                    "#chu#lm2",
+                    "assets/faces/lm2/chu.gif",
+                    "assets/faces_png/lm2/chu.png"
+                ],
+                [
                     "#hehe#lm2",
                     "assets/faces/lm2/hehe.gif",
                     "assets/faces_png/lm2/hehe.png"
+                ],
+                [
+                    "#hehe2#lm2",
+                    "assets/faces/lm2/hehe2.gif",
+                    "assets/faces_png/lm2/hehe2.png"
                 ],
                 [
                     "#[photo]#lm2",
@@ -5370,6 +5371,16 @@
                     "assets/faces_png/lm2/brain.png"
                 ],
                 [
+                    "#shock#lm2",
+                    "assets/faces/lm2/shock.gif",
+                    "assets/faces_png/lm2/shock.png"
+                ],
+                [
+                    "#fear#lm2",
+                    "assets/faces/lm2/fear.gif",
+                    "assets/faces_png/lm2/fear.png"
+                ],
+                [
                     "#:O#lm2",
                     "assets/faces/lm2/oh.gif",
                     "assets/faces_png/lm2/oh.png"
@@ -5393,6 +5404,11 @@
                     "#dllm#lm2",
                     "assets/faces/lm2/dllm.gif",
                     "assets/faces_png/lm2/dllm.png"
+                ],
+                [
+                    "#what#lm2",
+                    "assets/faces/lm2/what.gif",
+                    "assets/faces_png/lm2/what.png"
                 ],
                 [
                     "#fuck#lm2",
@@ -5425,6 +5441,11 @@
                     "assets/faces_png/lm2/angry.png"
                 ],
                 [
+                    "#angry2#lm2",
+                    "assets/faces/lm2/angry2.gif",
+                    "assets/faces_png/lm2/angry2.png"
+                ],
+                [
                     "#aura#lm2",
                     "assets/faces/lm2/aura.gif",
                     "assets/faces_png/lm2/aura.png"
@@ -5433,6 +5454,11 @@
                     "#saber#lm2",
                     "assets/faces/lm2/saber.gif",
                     "assets/faces_png/lm2/saber.png"
+                ],
+                [
+                    "#punch#lm2",
+                    "assets/faces/lm2/punch.gif",
+                    "assets/faces_png/lm2/punch.png"
                 ],
                 [
                     "#danger#lm2",
@@ -5480,6 +5506,16 @@
                     "assets/faces_png/lm2/think.png"
                 ],
                 [
+                    "#eh#lm2",
+                    "assets/faces/lm2/eh.gif",
+                    "assets/faces_png/lm2/eh.png"
+                ],
+                [
+                    "#bandage#lm2",
+                    "assets/faces/lm2/bandage.gif",
+                    "assets/faces_png/lm2/bandage.png"
+                ],
+                [
                     "#adore#lm2",
                     "assets/faces/lm2/adore.gif",
                     "assets/faces_png/lm2/adore.png"
@@ -5505,6 +5541,21 @@
                     "assets/faces_png/lm2/flowerface.png"
                 ],
                 [
+                    "#muscle#lm2",
+                    "assets/faces/lm2/muscle.gif",
+                    "assets/faces_png/lm2/muscle.png"
+                ],
+                [
+                    "#sad#lm2",
+                    "assets/faces/lm2/sad.gif",
+                    "assets/faces_png/lm2/sad.png"
+                ],
+                [
+                    "#tear#lm2",
+                    "assets/faces/lm2/tear.gif",
+                    "assets/faces_png/lm2/tear.png"
+                ],
+                [
                     "#:-(#lm2",
                     "assets/faces/lm2/frown.gif",
                     "assets/faces_png/lm2/frown.png"
@@ -5515,6 +5566,11 @@
                     "assets/faces_png/lm2/frownsmile.png"
                 ],
                 [
+                    "#angelsmile#lm2",
+                    "assets/faces/lm2/angelsmile.gif",
+                    "assets/faces_png/lm2/angelsmile.png"
+                ],
+                [
                     "#Z_Z#lm2",
                     "assets/faces/lm2/z.gif",
                     "assets/faces_png/lm2/z.png"
@@ -5523,6 +5579,11 @@
                     "#noodles#lm2",
                     "assets/faces/lm2/noodles.gif",
                     "assets/faces_png/lm2/noodles.png"
+                ],
+                [
+                    "#stare#lm2",
+                    "assets/faces/lm2/stare.gif",
+                    "assets/faces_png/lm2/stare.png"
                 ],
                 [
                     "#lightbulb#lm2",
@@ -5555,6 +5616,11 @@
                     "assets/faces_png/lm2/yipes.png"
                 ],
                 [
+                    "#uggh#lm2",
+                    "assets/faces/lm2/uggh.gif",
+                    "assets/faces_png/lm2/uggh.png"
+                ],
+                [
                     "#:~(#lm2",
                     "assets/faces/lm2/cry.gif",
                     "assets/faces_png/lm2/cry.png"
@@ -5563,15 +5629,24 @@
                     "#dust#lm2",
                     "assets/faces/lm2/dust.gif",
                     "assets/faces_png/lm2/dust.png"
+                ],
+                [
+                    "#burnt#lm2",
+                    "assets/faces/lm2/burnt.gif",
+                    "assets/faces_png/lm2/burnt.png"
+                ],
+                [
+                    "#evil#lm2",
+                    "assets/faces/lm2/evil.gif",
+                    "assets/faces_png/lm2/evil.png"
+                ],
+                [
+                    "#ghost#lm2",
+                    "assets/faces/lm2/ghost.gif",
+                    "assets/faces_png/lm2/ghost.png"
                 ]
             ],
-            "sort": 3,
-            "show_on_2": [
-                {
-                    "start_time": 1738512000000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 3
         },
         {
             "cat": "lm2lny",
@@ -6209,11 +6284,6 @@
                     "assets/faces_png/fs/pokemon_2.png"
                 ],
                 [
-                    "#:)#b#fs",
-                    "assets/faces/fs/smile_big.gif",
-                    "assets/faces_png/fs/smile_big.png"
-                ],
-                [
                     "#superman#fs",
                     "assets/faces/fs/superman.gif",
                     "assets/faces_png/fs/superman.png"
@@ -6485,7 +6555,13 @@
                     "assets/faces_png/big/lomore_shocking.png"
                 ]
             ],
-            "sort": 5
+            "sort": 5,
+            "show_on_2": [
+                {
+                    "start_time": 1,
+                    "end_time": 1
+                }
+            ]
         },
         {
             "cat": "lomoji",
@@ -6701,7 +6777,13 @@
                     "assets/faces_png/lomoji/42.png"
                 ]
             ],
-            "sort": 6
+            "sort": 6,
+            "show_on_2": [
+                {
+                    "start_time": 1,
+                    "end_time": 1
+                }
+            ]
         },
         {
             "cat": "fatc",

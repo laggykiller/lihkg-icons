@@ -8,6 +8,7 @@ from typing import Dict, List, Union
 import demjson3  # type: ignore
 import requests
 from bs4 import BeautifulSoup, Tag
+from google_play_scraper import app
 
 LimojiType = Dict[str, List[Dict[str, Union[int, str, List[List[str]]]]]]
 LimojiSortedType = Dict[Union[int, str], Dict[str, Union[int, str, List[List[str]]]]]
@@ -76,16 +77,18 @@ def get_main_js() -> MainJsDictType:
     return data  # type: ignore
 
 
-def get_ios_version() -> str:
-    r = requests.get("https://itunes.apple.com/lookup?bundleId=com.lihkg.forum-ios")
-    return json.loads(r.text)["results"][0]["version"]
+def get_app_version() -> str:
+    result = app("com.lihkg.app")
+    return result["version"]
 
 
 def get_asset(mapping: Dict[str, str]) -> LimojiSortedType:
-    version = get_ios_version()
-    headers = {"User-Agent": f"LIHKG/{version} iOS/14.7.1 iPhone/iPhone 6s"}
+    version = get_app_version()
+    headers = {"User-Agent": f"LIHKG/{version} Android/11 Google/sdk_gphone_x86_64"}
 
     r = requests.get("https://lihkg.com/api_v2/system/property", headers=headers)
+    with open("out.json", "w+") as f:
+        f.write(r.text)
     asset_url = json.loads(r.text)["response"]["asset"]["patch"][0]["url"]
 
     asset_zip = requests.get(asset_url)

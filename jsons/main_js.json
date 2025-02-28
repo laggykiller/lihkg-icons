@@ -259,13 +259,7 @@
             "assets/faces/dog/fight_special.gif": "#fight1#dog #fight3#dog",
             "assets/faces/dog/fight3_connect.gif": "#power#cow #fight3#dog",
             "assets/faces/dog/fight3_special2.gif": "#npc2#dog #fight3#dog"
-        },
-        "showOn": [
-            {
-                "start_time": 1735660799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "husky": {
         "icons": {
@@ -361,13 +355,7 @@
             "assets/faces/pig/knife_connect.gif": "#fight1#dog #kill#pig",
             "assets/faces/pig/cook_connect.gif": "#cooking#pig #fan#pig",
             "assets/faces/pig/wine_connect.gif": "#wine#pig #champagne#pig"
-        },
-        "showOn": [
-            {
-                "start_time": 1735660799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "snake": {
         "icons": {
@@ -404,13 +392,7 @@
             "assets/faces/snake/shotgun_special.gif": "#shotgun#snake #shotgun#snake #shotgun#snake",
             "assets/faces/snake/scream_connect.gif": "#music#rabbit #scream#snake",
             "assets/faces/snake/eat_special.gif": "#eat#snake #wtf#snake"
-        },
-        "showOn": [
-            {
-                "start_time": 1735660799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "mouse": {
         "icons": {
@@ -456,13 +438,7 @@
             "assets/faces/mouse/smile_special.gif": "#:)#mouse #stare#cat",
             "assets/faces/mouse/vampire_special.gif": "#awake#mouse #vampire#mouse",
             "assets/faces/mouse/miracle_special.gif": "#pray#mouse #please#mouse #miracle#mouse"
-        },
-        "showOn": [
-            {
-                "start_time": 1735660799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "cat": {
         "icons": {
@@ -495,13 +471,7 @@
         },
         "special": {
             "assets/faces/cat/throw_connect.gif": "#throw#cat #beg#dog"
-        },
-        "showOn": [
-            {
-                "start_time": 1735660799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "cow": {
         "icons": {
@@ -542,13 +512,7 @@
             "assets/faces/cow/power_special.gif": "#gold#cow #power#cow",
             "assets/faces/cow/bus_special.gif": "#crowd#cow #bus#cow",
             "assets/faces/cow/grab_connect.gif": "#grab#cow #beg#dog"
-        },
-        "showOn": [
-            {
-                "start_time": 1735660799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "tiger": {
         "icons": {
@@ -588,13 +552,7 @@
             "assets/faces/tiger/punchbag_connect.gif": "#punchbag#tiger #fight2#dog",
             "assets/faces/tiger/fencing_connect.gif": "#fencing#tiger #annoyed#cat",
             "assets/faces/tiger/fencing_connect2.gif": "#fencing#tiger #knife#pig"
-        },
-        "showOn": [
-            {
-                "start_time": 1735660799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "rabbit": {
         "icons": {
@@ -640,13 +598,7 @@
             "assets/faces/rabbit/roast_connect.gif": "#cooking#pig #:)#rabbit",
             "assets/faces/rabbit/roast_special.gif": "#:)#rabbit #cooking#pig",
             "assets/faces/rabbit/axe_connect.gif": "#car#cow #axe#rabbit"
-        },
-        "showOn": [
-            {
-                "start_time": 1735660799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "dragon": {
         "icons": {
@@ -691,13 +643,7 @@
             "assets/faces/dragon/angry_special.gif": "#:-[#dragon #midfinger#dragon",
             "assets/faces/dragon/backpain_connect.gif": "#throw#cat #backpain#dragon",
             "assets/faces/dragon/wheelchair_connect.gif": "#car#cow #wheelchair#dragon"
-        },
-        "showOn": [
-            {
-                "start_time": 1735660799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "lm2": {
         "icons": {
@@ -715,10 +661,15 @@
             "assets/faces/lm2/wet.gif": "#wet#lm2",
             "assets/faces/lm2/jable.gif": "#jable#lm2",
             "assets/faces/lm2/tongue.gif": "#:P#lm2",
+            "assets/faces/lm2/tongue2.gif": "#tongue2#lm2",
+            "assets/faces/lm2/tongue3.gif": "#tongue3#lm2",
+            "assets/faces/lm2/tongue4.gif": "#tongue4#lm2",
+            "assets/faces/lm2/heyhey.gif": "#heyhey#lm2",
             "assets/faces/lm2/lick.gif": "#lick#lm2",
             "assets/faces/lm2/spinning.gif": "#spinning#lm2",
             "assets/faces/lm2/spinning2.gif": "#spinning2#lm2",
             "assets/faces/lm2/bouncer.gif": "#[bouncer]#lm2",
+            "assets/faces/lm2/huh.gif": "#huh#lm2",
             "assets/faces/lm2/dead.gif": "#xx(#lm2",
             "assets/faces/lm2/wonder2.gif": "#???#lm2",
             "assets/faces/lm2/wfc2.gif": "#wfc2#lm2",
@@ -726,9 +677,15 @@
             "assets/faces/lm2/sosad.gif": "#[sosad]#lm2",
             "assets/faces/lm2/haha.gif": "#haha#lm2",
             "assets/faces/lm2/nosee.gif": "#nosee#lm2",
+            "assets/faces/lm2/sosad2.gif": "#sosad2#lm2",
+            "assets/faces/lm2/haha2.gif": "#haha2#lm2",
             "assets/faces/lm2/hoho.gif": "#hoho#lm2",
+            "assets/faces/lm2/aha.gif": "#aha#lm2",
+            "assets/faces/lm2/squint.gif": "#squint#lm2",
             "assets/faces/lm2/love.gif": "#love#lm2",
+            "assets/faces/lm2/chu.gif": "#chu#lm2",
             "assets/faces/lm2/hehe.gif": "#hehe#lm2",
+            "assets/faces/lm2/hehe2.gif": "#hehe2#lm2",
             "assets/faces/lm2/photo.gif": "#[photo]#lm2",
             "assets/faces/lm2/point1.gif": "#point1#lm2",
             "assets/faces/lm2/point2.gif": "#point2#lm2",
@@ -739,19 +696,24 @@
             "assets/faces/lm2/donno.gif": "#ng#lm2",
             "assets/faces/lm2/no.gif": "#no#lm2",
             "assets/faces/lm2/brain.gif": "#brain#lm2",
+            "assets/faces/lm2/shock.gif": "#shock#lm2",
+            "assets/faces/lm2/fear.gif": "#fear#lm2",
             "assets/faces/lm2/oh.gif": "#:O#lm2",
             "assets/faces/lm2/bang.gif": "#bang#lm2",
             "assets/faces/lm2/silly.gif": "#silly#lm2",
             "assets/faces/lm2/369.gif": "#[369]#lm2",
             "assets/faces/lm2/dllm.gif": "#dllm#lm2",
+            "assets/faces/lm2/what.gif": "#what#lm2",
             "assets/faces/lm2/fuck.gif": "#fuck#lm2",
             "assets/faces/lm2/bomb2.gif": "#[bomb2]#lm2",
             "assets/faces/lm2/bomb.gif": "#[bomb]#lm2",
             "assets/faces/lm2/shoot.gif": "#shoot#lm2",
             "assets/faces/lm2/hate.gif": "#hate#lm2",
             "assets/faces/lm2/angry.gif": "#:-[#lm2",
+            "assets/faces/lm2/angry2.gif": "#angry2#lm2",
             "assets/faces/lm2/aura.gif": "#aura#lm2",
             "assets/faces/lm2/saber.gif": "#saber#lm2",
+            "assets/faces/lm2/punch.gif": "#punch#lm2",
             "assets/faces/lm2/danger.gif": "#danger#lm2",
             "assets/faces/lm2/dislike.gif": "#dislike#lm2",
             "assets/faces/lm2/good.gif": "#good#lm2",
@@ -761,33 +723,38 @@
             "assets/faces/lm2/rise.gif": "#rise#lm2",
             "assets/faces/lm2/wfc.gif": "#wfc#lm2",
             "assets/faces/lm2/think.gif": "#think#lm2",
+            "assets/faces/lm2/eh.gif": "#eh#lm2",
+            "assets/faces/lm2/bandage.gif": "#bandage#lm2",
             "assets/faces/lm2/adore.gif": "#adore#lm2",
             "assets/faces/lm2/kiss2.gif": "#^3^#lm2",
             "assets/faces/lm2/kiss.gif": "#kiss#lm2",
             "assets/faces/lm2/nothing.gif": "#nothing#lm2",
             "assets/faces/lm2/flowerface.gif": "#[flowerface]#lm2",
+            "assets/faces/lm2/muscle.gif": "#muscle#lm2",
+            "assets/faces/lm2/sad.gif": "#sad#lm2",
+            "assets/faces/lm2/tear.gif": "#tear#lm2",
             "assets/faces/lm2/frown.gif": "#:-(#lm2",
             "assets/faces/lm2/frownsmile.gif": "#frownsmile#lm2",
+            "assets/faces/lm2/angelsmile.gif": "#angelsmile#lm2",
             "assets/faces/lm2/z.gif": "#Z_Z#lm2",
             "assets/faces/lm2/noodles.gif": "#noodles#lm2",
+            "assets/faces/lm2/stare.gif": "#stare#lm2",
             "assets/faces/lm2/lightbulb.gif": "#lightbulb#lm2",
             "assets/faces/lm2/abomb.gif": "#[abomb]#lm2",
             "assets/faces/lm2/selfdestruct.gif": "#selfdestruct#lm2",
             "assets/faces/lm2/shocking.gif": "#[shocking]#lm2",
             "assets/faces/lm2/@.gif": "#@_@#lm2",
             "assets/faces/lm2/yipes.gif": "#[yipes]#lm2",
+            "assets/faces/lm2/uggh.gif": "#uggh#lm2",
             "assets/faces/lm2/cry.gif": "#:~(#lm2",
-            "assets/faces/lm2/dust.gif": "#dust#lm2"
+            "assets/faces/lm2/dust.gif": "#dust#lm2",
+            "assets/faces/lm2/burnt.gif": "#burnt#lm2",
+            "assets/faces/lm2/evil.gif": "#evil#lm2",
+            "assets/faces/lm2/ghost.gif": "#ghost#lm2"
         },
         "special": {
             "assets/faces/lm2/credit.gif": "#credit#lm2"
-        },
-        "showOn": [
-            {
-                "start_time": 1738512000000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "lm2xm": {
         "icons": {
@@ -1514,7 +1481,6 @@
             "assets/faces/fs/poison.gif": "#poison#fs",
             "assets/faces/fs/pokemon_1.gif": "#poke1#fs",
             "assets/faces/fs/pokemon_2.gif": "#poke2#fs",
-            "assets/faces/fs/smile_big.gif": "#:)#b#fs",
             "assets/faces/fs/superman.gif": "#superman#fs"
         },
         "special": {}
@@ -1574,7 +1540,13 @@
             "assets/faces/big/lomore_bye.gif": "#bye#lm#b",
             "assets/faces/big/lomore_shocking.gif": "#shocking#lm#b"
         },
-        "special": {}
+        "special": {},
+        "showOn": [
+            {
+                "start_time": 1,
+                "end_time": 1
+            }
+        ]
     },
     "lomoji": {
         "icons": {
@@ -1621,7 +1593,13 @@
             "assets/faces/lomoji/41.png": "#shock#lme",
             "assets/faces/lomoji/42.png": "#:-)#lme"
         },
-        "special": {}
+        "special": {},
+        "showOn": [
+            {
+                "start_time": 1,
+                "end_time": 1
+            }
+        ]
     },
     "fatcmoji": {
         "icons": {

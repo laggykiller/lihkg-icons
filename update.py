@@ -87,8 +87,6 @@ def get_asset(mapping: Dict[str, str]) -> LimojiSortedType:
     headers = {"User-Agent": f"LIHKG/{version} Android/11 Google/sdk_gphone_x86_64"}
 
     r = requests.get("https://lihkg.com/api_v2/system/property", headers=headers)
-    with open("out.json", "w+") as f:
-        f.write(r.text)
     asset_url = json.loads(r.text)["response"]["asset"]["patch"][0]["url"]
 
     asset_zip = requests.get(asset_url)

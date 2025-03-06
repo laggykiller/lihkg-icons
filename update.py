@@ -54,11 +54,11 @@ def get_main_js() -> MainJsDictType:
     r = requests.get(main_js_url).text
 
     # Find start (Slow but more robust)
-    # start_pos = re.search(r"={(.*):{icons:{"assets\/faces\/\1\/(.*).gif"", r).start()
-    # r = r[start_pos+1:]
+    # start_pos = re.search(r'{".*":{"icons":{"assets\/faces\/.*\/.*.gif"', r).start()
+    # r = r[start_pos:]
 
     # Find start (Fast but less robust)
-    start_pos = r.find('{normal:{icons:{"assets/faces/normal/')
+    start_pos = r.find('{"hb":{"icons":{"assets/faces/lihkg/')
     r = r[start_pos:]
 
     # Find end

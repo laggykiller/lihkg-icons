@@ -5171,6 +5171,11 @@
                     "assets/faces_png/lm2/mask.png"
                 ],
                 [
+                    "#doubt#lm2",
+                    "assets/faces/lm2/doubt.gif",
+                    "assets/faces_png/lm2/doubt.png"
+                ],
+                [
                     "#diu#lm2",
                     "assets/faces/lm2/diu.gif",
                     "assets/faces_png/lm2/diu.png"

@@ -9,6 +9,7 @@
 | bye | `#bye#cow` | ![bye](../assets/faces/cow/bye.gif) | ![bye](../assets/faces_png/cow/bye.png) |
 | hair | `#hair#cow` | ![hair](../assets/faces/cow/hair.gif) | ![hair](../assets/faces_png/cow/hair.png) |
 | slap | `#slap#cow` | ![slap](../assets/faces/cow/slap.gif) | ![slap](../assets/faces_png/cow/slap.png) |
+| geltau | `#geltau#cow` | ![geltau](../assets/faces/cow/geltau.gif) | ![geltau](../assets/faces_png/cow/geltau.png) |
 | sadbutsmile | `#sadbutsmile#cow` | ![sadbutsmile](../assets/faces/cow/sadbutsmile.gif) | ![sadbutsmile](../assets/faces_png/cow/sadbutsmile.png) |
 | door | `#door#cow` | ![door](../assets/faces/cow/door.gif) | ![door](../assets/faces_png/cow/door.png) |
 | grab | `#grab#cow` | ![grab](../assets/faces/cow/grab.gif) | ![grab](../assets/faces_png/cow/grab.png) |
@@ -36,5 +37,4 @@
 | power_special | `#gold#cow #power#cow` | ![power_special](../assets/faces/cow/power_special.gif) | ![power_special](../assets/faces_png/cow/power_special.png) |
 | bus_special | `#crowd#cow #bus#cow` | ![bus_special](../assets/faces/cow/bus_special.gif) | ![bus_special](../assets/faces_png/cow/bus_special.png) |
 | grab_connect | `#grab#cow #beg#dog` | ![grab_connect](../assets/faces/cow/grab_connect.gif) | ![grab_connect](../assets/faces_png/cow/grab_connect.png) |
-| geltau | `` | ![geltau](../assets/faces/cow/geltau.gif) | ![geltau](../assets/faces_png/cow/geltau.png) |
 

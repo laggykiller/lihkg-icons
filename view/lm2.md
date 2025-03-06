@@ -10,6 +10,7 @@
 | yo | `#yo#lm2` | ![yo](../assets/faces/lm2/yo.gif) | ![yo](../assets/faces_png/lm2/yo.png) |
 | sosick | `#[sosick]#lm2` | ![sosick](../assets/faces/lm2/sosick.gif) | ![sosick](../assets/faces_png/lm2/sosick.png) |
 | mask | `#mask#lm2` | ![mask](../assets/faces/lm2/mask.gif) | ![mask](../assets/faces_png/lm2/mask.png) |
+| doubt | `#doubt#lm2` | ![doubt](../assets/faces/lm2/doubt.gif) | ![doubt](../assets/faces_png/lm2/doubt.png) |
 | diu | `#diu#lm2` | ![diu](../assets/faces/lm2/diu.gif) | ![diu](../assets/faces_png/lm2/diu.png) |
 | touch | `#touch#lm2` | ![touch](../assets/faces/lm2/touch.gif) | ![touch](../assets/faces_png/lm2/touch.png) |
 | wet | `#wet#lm2` | ![wet](../assets/faces/lm2/wet.gif) | ![wet](../assets/faces_png/lm2/wet.png) |

@@ -1,5 +1,5 @@
 # All icons
-## hb [hb]
+## hb [連登生日版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile_hb | `#:)#hb` | ![smile_hb](../assets/faces/lihkg/smile_hb.gif) | ![smile_hb](../assets/faces_png/lihkg/smile_hb.png) |
@@ -34,8 +34,8 @@
 | snake_hb2 | `#snake2#hb` | ![snake_hb2](../assets/faces/lihkg/snake_hb2.gif) | ![snake_hb2](../assets/faces_png/lihkg/snake_hb2.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
 | dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../assets/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../assets/faces_png/lihkg/dragon_hb_connect.png) |
-| dog2 | `` | ![dog2](../assets/faces/lihkg/dog2.gif) | ![dog2](../assets/faces_png/lihkg/dog2.png) |
 | dog1 | `` | ![dog1](../assets/faces/lihkg/dog1.gif) | ![dog1](../assets/faces_png/lihkg/dog1.png) |
+| dog2 | `` | ![dog2](../assets/faces/lihkg/dog2.gif) | ![dog2](../assets/faces_png/lihkg/dog2.png) |
 
 ## rip [RIP]
 | Filename | Emoji | GIF | PNG |
@@ -51,7 +51,7 @@
 | dragon | `#dragon#rip` | ![dragon](../assets/faces/rip/dragon.gif) | ![dragon](../assets/faces_png/rip/dragon.png) |
 | snake | `#snake#rip` | ![snake](../assets/faces/rip/snake.gif) | ![snake](../assets/faces_png/rip/snake.png) |
 
-## xm [xm]
+## xm [聖誕版]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | smile | `#:)#xm` | ![smile](../assets/faces/xm/smile.gif) | ![smile](../assets/faces_png/xm/smile.png) |
@@ -611,9 +611,9 @@
 | fuck | `#fuck#lny` | ![fuck](../assets/faces/lny/fuck.gif) | ![fuck](../assets/faces_png/lny/fuck.png) |
 | no | `#no#lny` | ![no](../assets/faces/lny/no.gif) | ![no](../assets/faces_png/lny/no.png) |
 | kill2 | `#kill2#lny` | ![kill2](../assets/faces/lny/kill2.gif) | ![kill2](../assets/faces_png/lny/kill2.png) |
-| dog2 | `` | ![dog2](../assets/faces/lny/dog2.gif) | ![dog2](../assets/faces_png/lny/dog2.png) |
-| dog1 | `` | ![dog1](../assets/faces/lny/dog1.gif) | ![dog1](../assets/faces_png/lny/dog1.png) |
 | pig2 | `` | ![pig2](../assets/faces/lny/pig2.gif) | ![pig2](../assets/faces_png/lny/pig2.png) |
+| dog1 | `` | ![dog1](../assets/faces/lny/dog1.gif) | ![dog1](../assets/faces_png/lny/dog1.png) |
+| dog2 | `` | ![dog2](../assets/faces/lny/dog2.gif) | ![dog2](../assets/faces_png/lny/dog2.png) |
 | pig1 | `` | ![pig1](../assets/faces/lny/pig1.gif) | ![pig1](../assets/faces_png/lny/pig1.png) |
 
 ## mf [中秋節版]
@@ -1530,7 +1530,7 @@
 | 41 | `#shock#lme` | ![41](../assets/faces/lomoji/41.png) | ![41](../assets/faces_png/lomoji/41.png) |
 | 42 | `#:-)#lme` | ![42](../assets/faces/lomoji/42.png) | ![42](../assets/faces_png/lomoji/42.png) |
 
-## fatc [fatc]
+## fatc [肥絲]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
 | fat001 | `#:)#fatc` | ![fat001](../assets/faces/fatcmoji/fat001.gif) | ![fat001](../assets/faces_png/fatcmoji/fat001.png) |

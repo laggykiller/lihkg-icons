@@ -1,6 +1,6 @@
 {
     "hb": {
-        "pack_name": "hb",
+        "pack_name": "連登生日版",
         "icons": [
             [
                 "#:)#hb",
@@ -166,13 +166,13 @@
             ],
             [
                 "",
-                "assets/faces/lihkg/dog2.gif",
-                "assets/faces_png/lihkg/dog2.png"
+                "assets/faces/lihkg/dog1.gif",
+                "assets/faces_png/lihkg/dog1.png"
             ],
             [
                 "",
-                "assets/faces/lihkg/dog1.gif",
-                "assets/faces_png/lihkg/dog1.png"
+                "assets/faces/lihkg/dog2.gif",
+                "assets/faces_png/lihkg/dog2.png"
             ]
         ]
     },
@@ -233,7 +233,7 @@
         "special": []
     },
     "xm": {
-        "pack_name": "xm",
+        "pack_name": "聖誕版",
         "icons": [
             [
                 "#:)#xm",
@@ -2894,8 +2894,8 @@
         "special": [
             [
                 "",
-                "assets/faces/lny/dog2.gif",
-                "assets/faces_png/lny/dog2.png"
+                "assets/faces/lny/pig2.gif",
+                "assets/faces_png/lny/pig2.png"
             ],
             [
                 "",
@@ -2904,8 +2904,8 @@
             ],
             [
                 "",
-                "assets/faces/lny/pig2.gif",
-                "assets/faces_png/lny/pig2.png"
+                "assets/faces/lny/dog2.gif",
+                "assets/faces_png/lny/dog2.png"
             ],
             [
                 "",
@@ -7261,7 +7261,7 @@
         "special": []
     },
     "fatc": {
-        "pack_name": "fatc",
+        "pack_name": "肥絲",
         "icons": [
             [
                 "#:)#fatc",

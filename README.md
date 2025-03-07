@@ -13,9 +13,9 @@ To manually update:
 | Code | Name | Preview | View |
 | --- | --- | --- | --- |
 | (All) | N/A | N/A | [View](./view/all.md) |
-| hb | hb | ![smile_hb.gif](assets/faces/lihkg/smile_hb.gif) | [View](./view/hb.md) |
+| hb | 連登生日版 | ![smile_hb.gif](assets/faces/lihkg/smile_hb.gif) | [View](./view/hb.md) |
 | rip | RIP | ![flower.gif](assets/faces/rip/flower.gif) | [View](./view/rip.md) |
-| xm | xm | ![smile.gif](assets/faces/xm/smile.gif) | [View](./view/xm.md) |
+| xm | 聖誕版 | ![smile.gif](assets/faces/xm/smile.gif) | [View](./view/xm.md) |
 | dragonxm | 連龍聖誕版 | ![smile.gif](assets/faces/dragonxm/smile.gif) | [View](./view/dragonxm.md) |
 | dogxm | 連狗聖誕版 | ![smile.gif](assets/faces/dogxm/smile.gif) | [View](./view/dogxm.md) |
 | pigxm | 連豬聖誕版 | ![smile.gif](assets/faces/pigxm/smile.gif) | [View](./view/pigxm.md) |
@@ -43,5 +43,5 @@ To manually update:
 | fs | FS | ![smile.gif](assets/faces/fs/smile.gif) | [View](./view/fs.md) |
 | big | 普通 | ![smile.gif](assets/faces/big/smile.gif) | [View](./view/big.md) |
 | lomoji | 腦魔Moji | ![05.png](assets/faces/lomoji/05.png) | [View](./view/lomoji.md) |
-| fatc | fatc | ![fat001.gif](assets/faces/fatcmoji/fat001.gif) | [View](./view/fatc.md) |
+| fatc | 肥絲 | ![fat001.gif](assets/faces/fatcmoji/fat001.gif) | [View](./view/fatc.md) |
 | husky | husky | ![smile.gif](assets/faces/husky/smile.gif) | [View](./view/husky.md) |

@@ -92,7 +92,7 @@ def get_asset(mapping: Dict[str, str]) -> LimojiSortedType:
     asset_zip = requests.get(asset_url)
     with zipfile.ZipFile(io.BytesIO(asset_zip.content)) as zf:
         # Some sticker pack (e.g. husky) is present in main_js but not in limoji
-        with zf.open("/limoji.json") as f, open(
+        with zf.open("limoji.json") as f, open(
             "jsons/limoji.json", "w+", encoding="utf8"
         ) as g:
             limoji: LimojiType = json.load(f)

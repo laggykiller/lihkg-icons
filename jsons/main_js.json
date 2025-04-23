@@ -1079,6 +1079,7 @@
             "assets/faces/snake/hypnosis_connect.gif": "#hypnosis#snake #awake#mouse",
             "assets/faces/snake/knife_connect.gif": "#knife#snake #stun#rabbit",
             "assets/faces/snake/shotgun_special.gif": "#shotgun#snake #shotgun#snake #shotgun#snake",
+            "assets/faces/snake/shotgun_special2.gif": "#shotgun#snake #knife#snake",
             "assets/faces/snake/scream_connect.gif": "#music#rabbit #scream#snake",
             "assets/faces/snake/eat_special.gif": "#eat#snake #wtf#snake"
         }

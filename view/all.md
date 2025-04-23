@@ -34,8 +34,8 @@
 | snake_hb2 | `#snake2#hb` | ![snake_hb2](../assets/faces/lihkg/snake_hb2.gif) | ![snake_hb2](../assets/faces_png/lihkg/snake_hb2.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
 | dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../assets/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../assets/faces_png/lihkg/dragon_hb_connect.png) |
-| dog2 | `` | ![dog2](../assets/faces/lihkg/dog2.gif) | ![dog2](../assets/faces_png/lihkg/dog2.png) |
 | dog1 | `` | ![dog1](../assets/faces/lihkg/dog1.gif) | ![dog1](../assets/faces_png/lihkg/dog1.png) |
+| dog2 | `` | ![dog2](../assets/faces/lihkg/dog2.gif) | ![dog2](../assets/faces_png/lihkg/dog2.png) |
 
 ## rip [RIP]
 | Filename | Emoji | GIF | PNG |
@@ -611,10 +611,10 @@
 | fuck | `#fuck#lny` | ![fuck](../assets/faces/lny/fuck.gif) | ![fuck](../assets/faces_png/lny/fuck.png) |
 | no | `#no#lny` | ![no](../assets/faces/lny/no.gif) | ![no](../assets/faces_png/lny/no.png) |
 | kill2 | `#kill2#lny` | ![kill2](../assets/faces/lny/kill2.gif) | ![kill2](../assets/faces_png/lny/kill2.png) |
-| dog2 | `` | ![dog2](../assets/faces/lny/dog2.gif) | ![dog2](../assets/faces_png/lny/dog2.png) |
+| pig1 | `` | ![pig1](../assets/faces/lny/pig1.gif) | ![pig1](../assets/faces_png/lny/pig1.png) |
 | dog1 | `` | ![dog1](../assets/faces/lny/dog1.gif) | ![dog1](../assets/faces_png/lny/dog1.png) |
 | pig2 | `` | ![pig2](../assets/faces/lny/pig2.gif) | ![pig2](../assets/faces_png/lny/pig2.png) |
-| pig1 | `` | ![pig1](../assets/faces/lny/pig1.gif) | ![pig1](../assets/faces_png/lny/pig1.png) |
+| dog2 | `` | ![dog2](../assets/faces/lny/dog2.gif) | ![dog2](../assets/faces_png/lny/dog2.png) |
 
 ## mf [中秋節版]
 | Filename | Emoji | GIF | PNG |
@@ -940,6 +940,7 @@
 | hypnosis_connect | `#hypnosis#snake #awake#mouse` | ![hypnosis_connect](../assets/faces/snake/hypnosis_connect.gif) | ![hypnosis_connect](../assets/faces_png/snake/hypnosis_connect.png) |
 | knife_connect | `#knife#snake #stun#rabbit` | ![knife_connect](../assets/faces/snake/knife_connect.gif) | ![knife_connect](../assets/faces_png/snake/knife_connect.png) |
 | shotgun_special | `#shotgun#snake #shotgun#snake #shotgun#snake` | ![shotgun_special](../assets/faces/snake/shotgun_special.gif) | ![shotgun_special](../assets/faces_png/snake/shotgun_special.png) |
+| shotgun_special2 | `#shotgun#snake #knife#snake` | ![shotgun_special2](../assets/faces/snake/shotgun_special2.gif) | ![shotgun_special2](../assets/faces_png/snake/shotgun_special2.png) |
 | scream_connect | `#music#rabbit #scream#snake` | ![scream_connect](../assets/faces/snake/scream_connect.gif) | ![scream_connect](../assets/faces_png/snake/scream_connect.png) |
 | eat_special | `#eat#snake #wtf#snake` | ![eat_special](../assets/faces/snake/eat_special.gif) | ![eat_special](../assets/faces_png/snake/eat_special.png) |
 

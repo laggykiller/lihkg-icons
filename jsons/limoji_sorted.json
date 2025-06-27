@@ -166,13 +166,13 @@
             ],
             [
                 "",
-                "assets/faces/lihkg/dog2.gif",
-                "assets/faces_png/lihkg/dog2.png"
+                "assets/faces/lihkg/dog1.gif",
+                "assets/faces_png/lihkg/dog1.png"
             ],
             [
                 "",
-                "assets/faces/lihkg/dog1.gif",
-                "assets/faces_png/lihkg/dog1.png"
+                "assets/faces/lihkg/dog2.gif",
+                "assets/faces_png/lihkg/dog2.png"
             ]
         ]
     },
@@ -2894,6 +2894,11 @@
         "special": [
             [
                 "",
+                "assets/faces/lny/dog1.gif",
+                "assets/faces_png/lny/dog1.png"
+            ],
+            [
+                "",
                 "assets/faces/lny/dog2.gif",
                 "assets/faces_png/lny/dog2.png"
             ],
@@ -2901,11 +2906,6 @@
                 "",
                 "assets/faces/lny/pig1.gif",
                 "assets/faces_png/lny/pig1.png"
-            ],
-            [
-                "",
-                "assets/faces/lny/dog1.gif",
-                "assets/faces_png/lny/dog1.png"
             ],
             [
                 "",

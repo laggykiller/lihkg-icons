@@ -673,6 +673,7 @@
 | special6 | `#[photo]#mf #:)#mf` | ![special6](../assets/faces/mf/special6.gif) | ![special6](../assets/faces_png/mf/special6.png) |
 | special7 | `#@_@#mf #:-[#mf` | ![special7](../assets/faces/mf/special7.gif) | ![special7](../assets/faces_png/mf/special7.png) |
 | special8 | `#ng#mf #cn#mf` | ![special8](../assets/faces/mf/special8.gif) | ![special8](../assets/faces_png/mf/special8.png) |
+| special9 | `#cn#mf #bye#mf` | ![special9](../assets/faces/mf/special9.gif) | ![special9](../assets/faces_png/mf/special9.png) |
 
 ## normal [普通]
 | Filename | Emoji | GIF | PNG |

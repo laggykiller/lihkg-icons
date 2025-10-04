@@ -3188,6 +3188,11 @@
                 "#ng#mf #cn#mf",
                 "assets/faces/mf/special8.gif",
                 "assets/faces_png/mf/special8.png"
+            ],
+            [
+                "#cn#mf #bye#mf",
+                "assets/faces/mf/special9.gif",
+                "assets/faces_png/mf/special9.png"
             ]
         ]
     },

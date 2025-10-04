@@ -788,12 +788,13 @@
             "assets/faces/mf/special5.gif": "#bye#mf #:)#mf",
             "assets/faces/mf/special6.gif": "#[photo]#mf #:)#mf",
             "assets/faces/mf/special7.gif": "#@_@#mf #:-[#mf",
-            "assets/faces/mf/special8.gif": "#ng#mf #cn#mf"
+            "assets/faces/mf/special8.gif": "#ng#mf #cn#mf",
+            "assets/faces/mf/special9.gif": "#cn#mf #bye#mf"
         },
         "showOn": [
             {
-                "start_time": 1662393600000,
-                "end_time": 1662998400000
+                "start_time": 1759593600000,
+                "end_time": 1759939200000
             }
         ],
         "isPinTop": true

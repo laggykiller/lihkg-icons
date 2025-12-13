@@ -534,205 +534,180 @@
             ]
         ]
     },
-    "dragonxm": {
-        "pack_name": "連龍聖誕版",
+    "snakexm": {
+        "pack_name": "連蛇聖誕版",
         "icons": [
             [
-                "#:)#dragonxm",
-                "assets/faces/dragonxm/smile.gif",
-                "assets/faces_png/dragonxm/smile.png"
+                "#:)#snakexm",
+                "assets/faces/snakexm/smile.gif",
+                "assets/faces_png/snakexm/smile.png"
             ],
             [
-                "#:D#dragonxm",
-                "assets/faces/dragonxm/happy.gif",
-                "assets/faces_png/dragonxm/happy.png"
+                "#:D#snakexm",
+                "assets/faces/snakexm/laugh.gif",
+                "assets/faces_png/snakexm/laugh.png"
             ],
             [
-                "#unclehappy#dragonxm",
-                "assets/faces/dragonxm/unclehappy.gif",
-                "assets/faces_png/dragonxm/unclehappy.png"
+                "#nose#snakexm",
+                "assets/faces/snakexm/nose.gif",
+                "assets/faces_png/snakexm/nose.png"
             ],
             [
-                "#unclehappy2#dragonxm",
-                "assets/faces/dragonxm/unclehappy2.gif",
-                "assets/faces_png/dragonxm/unclehappy2.png"
+                "#want#snakexm",
+                "assets/faces/snakexm/want.gif",
+                "assets/faces_png/snakexm/want.png"
             ],
             [
-                "#lick#dragonxm",
-                "assets/faces/dragonxm/lick.gif",
-                "assets/faces_png/dragonxm/lick.png"
+                "#knife#snakexm",
+                "assets/faces/snakexm/knife.gif",
+                "assets/faces_png/snakexm/knife.png"
             ],
             [
-                "#lick2#dragonxm",
-                "assets/faces/dragonxm/lick2.gif",
-                "assets/faces_png/dragonxm/lick2.png"
+                "#shotgun#snakexm",
+                "assets/faces/snakexm/shotgun.gif",
+                "assets/faces_png/snakexm/shotgun.png"
             ],
             [
-                "#gj#dragonxm",
-                "assets/faces/dragonxm/gj.gif",
-                "assets/faces_png/dragonxm/gj.png"
+                "#explosion#snakexm",
+                "assets/faces/snakexm/explosion.gif",
+                "assets/faces_png/snakexm/explosion.png"
             ],
             [
-                "#disappear#dragonxm",
-                "assets/faces/dragonxm/disappear.gif",
-                "assets/faces_png/dragonxm/disappear.png"
+                "#sweat#snakexm",
+                "assets/faces/snakexm/sweat.gif",
+                "assets/faces_png/snakexm/sweat.png"
             ],
             [
-                "#guitar#dragonxm",
-                "assets/faces/dragonxm/guitar.gif",
-                "assets/faces_png/dragonxm/guitar.png"
+                "#write#snakexm",
+                "assets/faces/snakexm/write.gif",
+                "assets/faces_png/snakexm/write.png"
             ],
             [
-                "#bye#dragonxm",
-                "assets/faces/dragonxm/bye.gif",
-                "assets/faces_png/dragonxm/bye.png"
+                "#confuse#snakexm",
+                "assets/faces/snakexm/confuse.gif",
+                "assets/faces_png/snakexm/confuse.png"
             ],
             [
-                "#eat#dragonxm",
-                "assets/faces/dragonxm/eat.gif",
-                "assets/faces_png/dragonxm/eat.png"
+                "#wtf#snakexm",
+                "assets/faces/snakexm/wtf.gif",
+                "assets/faces_png/snakexm/wtf.png"
             ],
             [
-                "#ok#dragonxm",
-                "assets/faces/dragonxm/ok.gif",
-                "assets/faces_png/dragonxm/ok.png"
+                "#scream#snakexm",
+                "assets/faces/snakexm/scream.gif",
+                "assets/faces_png/snakexm/scream.png"
             ],
             [
-                "#drink#dragonxm",
-                "assets/faces/dragonxm/drink.gif",
-                "assets/faces_png/dragonxm/drink.png"
+                "#shock#snakexm",
+                "assets/faces/snakexm/shock.gif",
+                "assets/faces_png/snakexm/shock.png"
             ],
             [
-                "#think#dragonxm",
-                "assets/faces/dragonxm/think.gif",
-                "assets/faces_png/dragonxm/think.png"
+                "#wow#snakexm",
+                "assets/faces/snakexm/wow.gif",
+                "assets/faces_png/snakexm/wow.png"
             ],
             [
-                "#wtf#dragonxm",
-                "assets/faces/dragonxm/wtf.gif",
-                "assets/faces_png/dragonxm/wtf.png"
+                "#boring#snakexm",
+                "assets/faces/snakexm/boring.gif",
+                "assets/faces_png/snakexm/boring.png"
             ],
             [
-                "#phone#dragonxm",
-                "assets/faces/dragonxm/phone.gif",
-                "assets/faces_png/dragonxm/phone.png"
+                "#sad#snakexm",
+                "assets/faces/snakexm/sad.gif",
+                "assets/faces_png/snakexm/sad.png"
             ],
             [
-                "#ngg#dragonxm",
-                "assets/faces/dragonxm/ngg.gif",
-                "assets/faces_png/dragonxm/ngg.png"
+                "#sad2#snakexm",
+                "assets/faces/snakexm/sad2.gif",
+                "assets/faces_png/snakexm/sad2.png"
             ],
             [
-                "#mindblown#dragonxm",
-                "assets/faces/dragonxm/mindblown.gif",
-                "assets/faces_png/dragonxm/mindblown.png"
+                "#bye#snakexm",
+                "assets/faces/snakexm/bye.gif",
+                "assets/faces_png/snakexm/bye.png"
             ],
             [
-                "#wheelchair#dragonxm",
-                "assets/faces/dragonxm/wheelchair.gif",
-                "assets/faces_png/dragonxm/wheelchair.png"
+                "#eat#snakexm",
+                "assets/faces/snakexm/eat.gif",
+                "assets/faces_png/snakexm/eat.png"
             ],
             [
-                "#:-[#dragonxm",
-                "assets/faces/dragonxm/angry.gif",
-                "assets/faces_png/dragonxm/angry.png"
+                "#drink#snakexm",
+                "assets/faces/snakexm/drink.gif",
+                "assets/faces_png/snakexm/drink.png"
             ],
             [
-                "#headache#dragonxm",
-                "assets/faces/dragonxm/headache.gif",
-                "assets/faces_png/dragonxm/headache.png"
+                "#think#snakexm",
+                "assets/faces/snakexm/think.gif",
+                "assets/faces_png/snakexm/think.png"
             ],
             [
-                "#spit#dragonxm",
-                "assets/faces/dragonxm/spit.gif",
-                "assets/faces_png/dragonxm/spit.png"
+                "#hypnosis#snakexm",
+                "assets/faces/snakexm/hypnosis.gif",
+                "assets/faces_png/snakexm/hypnosis.png"
             ],
             [
-                "#midfinger#dragonxm",
-                "assets/faces/dragonxm/midfinger.gif",
-                "assets/faces_png/dragonxm/midfinger.png"
+                "#arcade#snakexm",
+                "assets/faces/snakexm/arcade.gif",
+                "assets/faces_png/snakexm/arcade.png"
             ],
             [
-                "#laser#dragonxm",
-                "assets/faces/dragonxm/laser.gif",
-                "assets/faces_png/dragonxm/laser.png"
+                "#sign#snakexm",
+                "assets/faces/snakexm/sign.gif",
+                "assets/faces_png/snakexm/sign.png"
             ],
             [
-                "#read#dragonxm",
-                "assets/faces/dragonxm/read.gif",
-                "assets/faces_png/dragonxm/read.png"
+                "#zzz#snakexm",
+                "assets/faces/snakexm/zzz.gif",
+                "assets/faces_png/snakexm/zzz.png"
             ],
             [
-                "#sad#dragonxm",
-                "assets/faces/dragonxm/sad.gif",
-                "assets/faces_png/dragonxm/sad.png"
-            ],
-            [
-                "#sad2#dragonxm",
-                "assets/faces/dragonxm/sad2.gif",
-                "assets/faces_png/dragonxm/sad2.png"
-            ],
-            [
-                "#nope#dragonxm",
-                "assets/faces/dragonxm/nope.gif",
-                "assets/faces_png/dragonxm/nope.png"
-            ],
-            [
-                "#shock#dragonxm",
-                "assets/faces/dragonxm/shock.gif",
-                "assets/faces_png/dragonxm/shock.png"
-            ],
-            [
-                "#backpain#dragonxm",
-                "assets/faces/dragonxm/backpain.gif",
-                "assets/faces_png/dragonxm/backpain.png"
-            ],
-            [
-                "#shiver#dragonxm",
-                "assets/faces/dragonxm/shiver.gif",
-                "assets/faces_png/dragonxm/shiver.png"
-            ],
-            [
-                "#z#dragonxm",
-                "assets/faces/dragonxm/z.gif",
-                "assets/faces_png/dragonxm/z.png"
-            ],
-            [
-                "#wind#dragonxm",
-                "assets/faces/dragonxm/wind.gif",
-                "assets/faces_png/dragonxm/wind.png"
-            ],
-            [
-                "#lihkg#dragonxm",
-                "assets/faces/dragonxm/lihkg.gif",
-                "assets/faces_png/dragonxm/lihkg.png"
+                "#lihkg#snakexm",
+                "assets/faces/snakexm/lihkg.gif",
+                "assets/faces_png/snakexm/lihkg.png"
             ]
         ],
         "special": [
             [
-                "#spit#dragonxm #gun#mousexm",
-                "assets/faces/dragonxm/angry_connect.gif",
-                "assets/faces_png/dragonxm/angry_connect.png"
+                "#hypnosis#snakexm #awake#mousexm",
+                "assets/faces/snakexm/hypnosis_connect.gif",
+                "assets/faces_png/snakexm/hypnosis_connect.png"
             ],
             [
-                "#:-[#dragonxm #tired#mousexm",
-                "assets/faces/dragonxm/angry_connect2.gif",
-                "assets/faces_png/dragonxm/angry_connect2.png"
+                "#knife#snakexm #stun#rabbitxm",
+                "assets/faces/snakexm/knife_connect.gif",
+                "assets/faces_png/snakexm/knife_connect.png"
             ],
             [
-                "#:-[#dragonxm #midfinger#dragonxm",
-                "assets/faces/dragonxm/angry_special.gif",
-                "assets/faces_png/dragonxm/angry_special.png"
+                "#shotgun#snakexm #shotgun#snakexm #shotgun#snakexm",
+                "assets/faces/snakexm/shotgun_special.gif",
+                "assets/faces_png/snakexm/shotgun_special.png"
             ],
             [
-                "#throw#catxm #backpain#dragonxm",
-                "assets/faces/dragonxm/backpain_connect.gif",
-                "assets/faces_png/dragonxm/backpain_connect.png"
+                "#shotgun#snakexm #knife#snakexm",
+                "assets/faces/snakexm/shotgun_special2.gif",
+                "assets/faces_png/snakexm/shotgun_special2.png"
             ],
             [
-                "#car#cowxm #wheelchair#dragonxm",
-                "assets/faces/dragonxm/wheelchair_connect.gif",
-                "assets/faces_png/dragonxm/wheelchair_connect.png"
+                "#music#rabbitxm #scream#snakexm",
+                "assets/faces/snakexm/scream_connect.gif",
+                "assets/faces_png/snakexm/scream_connect.png"
+            ],
+            [
+                "#eat#snakexm #wtf#snakexm",
+                "assets/faces/snakexm/eat_special.gif",
+                "assets/faces_png/snakexm/eat_special.png"
+            ],
+            [
+                "#drink#snakexm #upset_r#pigxm",
+                "assets/faces/snakexm/drink_connect.gif",
+                "assets/faces_png/snakexm/drink_connect.png"
+            ],
+            [
+                "#sad#snakexm #sad#snakexm",
+                "assets/faces/snakexm/sad_special.gif",
+                "assets/faces_png/snakexm/sad_special.png"
             ]
         ]
     },
@@ -2187,6 +2162,208 @@
                 "",
                 "assets/faces/rabbitxm/wind.gif",
                 "assets/faces_png/rabbitxm/wind.png"
+            ]
+        ]
+    },
+    "dragonxm": {
+        "pack_name": "連龍聖誕版",
+        "icons": [
+            [
+                "#:)#dragonxm",
+                "assets/faces/dragonxm/smile.gif",
+                "assets/faces_png/dragonxm/smile.png"
+            ],
+            [
+                "#:D#dragonxm",
+                "assets/faces/dragonxm/happy.gif",
+                "assets/faces_png/dragonxm/happy.png"
+            ],
+            [
+                "#unclehappy#dragonxm",
+                "assets/faces/dragonxm/unclehappy.gif",
+                "assets/faces_png/dragonxm/unclehappy.png"
+            ],
+            [
+                "#unclehappy2#dragonxm",
+                "assets/faces/dragonxm/unclehappy2.gif",
+                "assets/faces_png/dragonxm/unclehappy2.png"
+            ],
+            [
+                "#lick#dragonxm",
+                "assets/faces/dragonxm/lick.gif",
+                "assets/faces_png/dragonxm/lick.png"
+            ],
+            [
+                "#lick2#dragonxm",
+                "assets/faces/dragonxm/lick2.gif",
+                "assets/faces_png/dragonxm/lick2.png"
+            ],
+            [
+                "#gj#dragonxm",
+                "assets/faces/dragonxm/gj.gif",
+                "assets/faces_png/dragonxm/gj.png"
+            ],
+            [
+                "#disappear#dragonxm",
+                "assets/faces/dragonxm/disappear.gif",
+                "assets/faces_png/dragonxm/disappear.png"
+            ],
+            [
+                "#guitar#dragonxm",
+                "assets/faces/dragonxm/guitar.gif",
+                "assets/faces_png/dragonxm/guitar.png"
+            ],
+            [
+                "#bye#dragonxm",
+                "assets/faces/dragonxm/bye.gif",
+                "assets/faces_png/dragonxm/bye.png"
+            ],
+            [
+                "#eat#dragonxm",
+                "assets/faces/dragonxm/eat.gif",
+                "assets/faces_png/dragonxm/eat.png"
+            ],
+            [
+                "#ok#dragonxm",
+                "assets/faces/dragonxm/ok.gif",
+                "assets/faces_png/dragonxm/ok.png"
+            ],
+            [
+                "#drink#dragonxm",
+                "assets/faces/dragonxm/drink.gif",
+                "assets/faces_png/dragonxm/drink.png"
+            ],
+            [
+                "#think#dragonxm",
+                "assets/faces/dragonxm/think.gif",
+                "assets/faces_png/dragonxm/think.png"
+            ],
+            [
+                "#wtf#dragonxm",
+                "assets/faces/dragonxm/wtf.gif",
+                "assets/faces_png/dragonxm/wtf.png"
+            ],
+            [
+                "#phone#dragonxm",
+                "assets/faces/dragonxm/phone.gif",
+                "assets/faces_png/dragonxm/phone.png"
+            ],
+            [
+                "#ngg#dragonxm",
+                "assets/faces/dragonxm/ngg.gif",
+                "assets/faces_png/dragonxm/ngg.png"
+            ],
+            [
+                "#mindblown#dragonxm",
+                "assets/faces/dragonxm/mindblown.gif",
+                "assets/faces_png/dragonxm/mindblown.png"
+            ],
+            [
+                "#wheelchair#dragonxm",
+                "assets/faces/dragonxm/wheelchair.gif",
+                "assets/faces_png/dragonxm/wheelchair.png"
+            ],
+            [
+                "#:-[#dragonxm",
+                "assets/faces/dragonxm/angry.gif",
+                "assets/faces_png/dragonxm/angry.png"
+            ],
+            [
+                "#headache#dragonxm",
+                "assets/faces/dragonxm/headache.gif",
+                "assets/faces_png/dragonxm/headache.png"
+            ],
+            [
+                "#spit#dragonxm",
+                "assets/faces/dragonxm/spit.gif",
+                "assets/faces_png/dragonxm/spit.png"
+            ],
+            [
+                "#midfinger#dragonxm",
+                "assets/faces/dragonxm/midfinger.gif",
+                "assets/faces_png/dragonxm/midfinger.png"
+            ],
+            [
+                "#laser#dragonxm",
+                "assets/faces/dragonxm/laser.gif",
+                "assets/faces_png/dragonxm/laser.png"
+            ],
+            [
+                "#read#dragonxm",
+                "assets/faces/dragonxm/read.gif",
+                "assets/faces_png/dragonxm/read.png"
+            ],
+            [
+                "#sad#dragonxm",
+                "assets/faces/dragonxm/sad.gif",
+                "assets/faces_png/dragonxm/sad.png"
+            ],
+            [
+                "#sad2#dragonxm",
+                "assets/faces/dragonxm/sad2.gif",
+                "assets/faces_png/dragonxm/sad2.png"
+            ],
+            [
+                "#nope#dragonxm",
+                "assets/faces/dragonxm/nope.gif",
+                "assets/faces_png/dragonxm/nope.png"
+            ],
+            [
+                "#shock#dragonxm",
+                "assets/faces/dragonxm/shock.gif",
+                "assets/faces_png/dragonxm/shock.png"
+            ],
+            [
+                "#backpain#dragonxm",
+                "assets/faces/dragonxm/backpain.gif",
+                "assets/faces_png/dragonxm/backpain.png"
+            ],
+            [
+                "#shiver#dragonxm",
+                "assets/faces/dragonxm/shiver.gif",
+                "assets/faces_png/dragonxm/shiver.png"
+            ],
+            [
+                "#z#dragonxm",
+                "assets/faces/dragonxm/z.gif",
+                "assets/faces_png/dragonxm/z.png"
+            ],
+            [
+                "#wind#dragonxm",
+                "assets/faces/dragonxm/wind.gif",
+                "assets/faces_png/dragonxm/wind.png"
+            ],
+            [
+                "#lihkg#dragonxm",
+                "assets/faces/dragonxm/lihkg.gif",
+                "assets/faces_png/dragonxm/lihkg.png"
+            ]
+        ],
+        "special": [
+            [
+                "#spit#dragonxm #gun#mousexm",
+                "assets/faces/dragonxm/angry_connect.gif",
+                "assets/faces_png/dragonxm/angry_connect.png"
+            ],
+            [
+                "#:-[#dragonxm #tired#mousexm",
+                "assets/faces/dragonxm/angry_connect2.gif",
+                "assets/faces_png/dragonxm/angry_connect2.png"
+            ],
+            [
+                "#:-[#dragonxm #midfinger#dragonxm",
+                "assets/faces/dragonxm/angry_special.gif",
+                "assets/faces_png/dragonxm/angry_special.png"
+            ],
+            [
+                "#throw#catxm #backpain#dragonxm",
+                "assets/faces/dragonxm/backpain_connect.gif",
+                "assets/faces_png/dragonxm/backpain_connect.png"
+            ],
+            [
+                "#car#cowxm #wheelchair#dragonxm",
+                "assets/faces/dragonxm/wheelchair_connect.gif",
+                "assets/faces_png/dragonxm/wheelchair_connect.png"
             ]
         ]
     },

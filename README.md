@@ -16,7 +16,7 @@ To manually update:
 | hb | 連登生日版 | ![smile_hb.gif](assets/faces/lihkg/smile_hb.gif) | [View](./view/hb.md) |
 | rip | RIP | ![flower.gif](assets/faces/rip/flower.gif) | [View](./view/rip.md) |
 | xm | 聖誕版 | ![smile.gif](assets/faces/xm/smile.gif) | [View](./view/xm.md) |
-| dragonxm | 連龍聖誕版 | ![smile.gif](assets/faces/dragonxm/smile.gif) | [View](./view/dragonxm.md) |
+| snakexm | 連蛇聖誕版 | ![smile.gif](assets/faces/snakexm/smile.gif) | [View](./view/snakexm.md) |
 | dogxm | 連狗聖誕版 | ![smile.gif](assets/faces/dogxm/smile.gif) | [View](./view/dogxm.md) |
 | pigxm | 連豬聖誕版 | ![smile.gif](assets/faces/pigxm/smile.gif) | [View](./view/pigxm.md) |
 | mousexm | 連鼠聖誕版 | ![smile.gif](assets/faces/mousexm/smile.gif) | [View](./view/mousexm.md) |
@@ -24,6 +24,7 @@ To manually update:
 | cowxm | 連牛聖誕版 | ![smile.gif](assets/faces/cowxm/smile.gif) | [View](./view/cowxm.md) |
 | tigerxm | 連虎聖誕版 | ![smile.gif](assets/faces/tigerxm/smile.gif) | [View](./view/tigerxm.md) |
 | rabbitxm | 連兔聖誕版 | ![smile.gif](assets/faces/rabbitxm/smile.gif) | [View](./view/rabbitxm.md) |
+| dragonxm | 連龍聖誕版 | ![smile.gif](assets/faces/dragonxm/smile.gif) | [View](./view/dragonxm.md) |
 | lm2xm | 腦魔2聖誕版 | ![smile.gif](assets/faces/lm2xm/smile.gif) | [View](./view/lm2xm.md) |
 | lny | 農曆新年版 | ![smile.gif](assets/faces/lny/smile.gif) | [View](./view/lny.md) |
 | mf | 中秋節版 | ![smile.png](assets/faces/mf/smile.png) | [View](./view/mf.md) |

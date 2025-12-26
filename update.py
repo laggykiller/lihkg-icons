@@ -58,7 +58,7 @@ def get_main_js() -> MainJsDictType:
     # r = r[start_pos:]
 
     # Find start (Fast but less robust)
-    start_pos = r.find('{"hb":{"icons":{"assets/faces/lihkg/')
+    start_pos = r.find('{normal:{icons:{"assets/faces/normal/')
     r = r[start_pos:]
 
     # Find end

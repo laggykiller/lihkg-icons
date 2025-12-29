@@ -3,7 +3,7 @@ import json
 import os
 import re
 import zipfile
-from typing import cast, Dict, List, Union
+from typing import cast, Dict, List, Union, Optional
 
 import demjson3  # type: ignore
 import requests
@@ -112,6 +112,21 @@ def limoji_sorting(
     main_js: MainJsDictType, limoji: LimojiType, mapping: Dict[str, str]
 ) -> LimojiSortedType:
     limoji_sorted: LimojiSortedType = {}
+
+    # Some packs missing from main_js.json (e.g. "big", "lomoji")
+    missing_packs: Dict[str, LimojiItemType] = {}
+    for idx, j in enumerate(limoji["emojis"]):
+        cat = cast(str, j["cat"])
+        if cat in limoji_sorted:
+            continue
+        prev_pack = cast(str, limoji["emojis"][idx - 1]["cat"])
+        missing_packs[prev_pack] = {
+            "pack": cat,
+            "pack_name": mapping.get(cat, cat),
+            "icons": j["icons"],
+            "special": [],
+        }
+
     for pack in main_js:
         icons_list = [
             [code, gif_path, gif2png(gif_path)]
@@ -143,16 +158,12 @@ def limoji_sorting(
             "special": special_list,  # limoji.json does not have data about special icons
         }
 
-    # Some packs missing from main_js.json (e.g. "big", "lomoji")
-    for j in limoji["emojis"]:
-        cat = cast(str, j["cat"])
-        if cat in limoji_sorted:
-            continue
-        limoji_sorted[cat] = {
-            "pack_name": mapping.get(cat, cat),
-            "icons": j["icons"],
-            "special": [],
-        }
+        if pack in missing_packs:
+            limoji_sorted[cast(str, missing_packs[pack]["pack"])] = {
+                "pack_name": missing_packs[pack]["pack_name"],
+                "icons": missing_packs[pack]["icons"],
+                "special": [],
+            }
 
     with open("jsons/limoji_sorted.json", "w+", encoding="utf8") as f:
         json.dump(limoji_sorted, f, indent=4, ensure_ascii=False)

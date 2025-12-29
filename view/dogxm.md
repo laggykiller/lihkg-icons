@@ -48,8 +48,4 @@
 | fight2 | `#fight2#dogxm` | ![fight2](../assets/faces/dogxm/fight2.gif) | ![fight2](../assets/faces_png/dogxm/fight2.png) |
 | npc2 | `#npc2#dogxm` | ![npc2](../assets/faces/dogxm/npc2.gif) | ![npc2](../assets/faces_png/dogxm/npc2.png) |
 | lihkg | `#lihkg#dogxm` | ![lihkg](../assets/faces/dogxm/lihkg.gif) | ![lihkg](../assets/faces_png/dogxm/lihkg.png) |
-| beg_connect | `#give#dogxm #beg#dogxm` | ![beg_connect](../assets/faces/dogxm/beg_connect.gif) | ![beg_connect](../assets/faces_png/dogxm/beg_connect.png) |
-| fight_connect | `#fight1#dogxm #fight2#dogxm` | ![fight_connect](../assets/faces/dogxm/fight_connect.gif) | ![fight_connect](../assets/faces_png/dogxm/fight_connect.png) |
-| fight_connect2 | `#fight2#dogxm #fight1#dogxm` | ![fight_connect2](../assets/faces/dogxm/fight_connect2.gif) | ![fight_connect2](../assets/faces_png/dogxm/fight_connect2.png) |
-| fight_connect3 | `#fight1#dogxm #npc2#dogxm` | ![fight_connect3](../assets/faces/dogxm/fight_connect3.gif) | ![fight_connect3](../assets/faces_png/dogxm/fight_connect3.png) |
 

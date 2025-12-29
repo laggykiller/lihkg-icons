@@ -35,9 +35,4 @@
 | z | `#z#dragonxm` | ![z](../assets/faces/dragonxm/z.gif) | ![z](../assets/faces_png/dragonxm/z.png) |
 | wind | `#wind#dragonxm` | ![wind](../assets/faces/dragonxm/wind.gif) | ![wind](../assets/faces_png/dragonxm/wind.png) |
 | lihkg | `#lihkg#dragonxm` | ![lihkg](../assets/faces/dragonxm/lihkg.gif) | ![lihkg](../assets/faces_png/dragonxm/lihkg.png) |
-| angry_connect | `#spit#dragonxm #gun#mousexm` | ![angry_connect](../assets/faces/dragonxm/angry_connect.gif) | ![angry_connect](../assets/faces_png/dragonxm/angry_connect.png) |
-| angry_connect2 | `#:-[#dragonxm #tired#mousexm` | ![angry_connect2](../assets/faces/dragonxm/angry_connect2.gif) | ![angry_connect2](../assets/faces_png/dragonxm/angry_connect2.png) |
-| angry_special | `#:-[#dragonxm #midfinger#dragonxm` | ![angry_special](../assets/faces/dragonxm/angry_special.gif) | ![angry_special](../assets/faces_png/dragonxm/angry_special.png) |
-| backpain_connect | `#throw#catxm #backpain#dragonxm` | ![backpain_connect](../assets/faces/dragonxm/backpain_connect.gif) | ![backpain_connect](../assets/faces_png/dragonxm/backpain_connect.png) |
-| wheelchair_connect | `#car#cowxm #wheelchair#dragonxm` | ![wheelchair_connect](../assets/faces/dragonxm/wheelchair_connect.gif) | ![wheelchair_connect](../assets/faces_png/dragonxm/wheelchair_connect.png) |
 

@@ -37,9 +37,4 @@
 | annoyed | `#annoyed#mousexm` | ![annoyed](../assets/faces/mousexm/annoyed.gif) | ![annoyed](../assets/faces_png/mousexm/annoyed.png) |
 | rubbish | `#rubbish#mousexm` | ![rubbish](../assets/faces/mousexm/rubbish.gif) | ![rubbish](../assets/faces_png/mousexm/rubbish.png) |
 | lihkg | `#lihkg#mousexm` | ![lihkg](../assets/faces/mousexm/lihkg.gif) | ![lihkg](../assets/faces_png/mousexm/lihkg.png) |
-| smile_special | `#:)#mousexm #stare#catxm` | ![smile_special](../assets/faces/mousexm/smile_special.gif) | ![smile_special](../assets/faces_png/mousexm/smile_special.png) |
-| vampire_special | `#awake#mousexm #vampire#mousexm` | ![vampire_special](../assets/faces/mousexm/vampire_special.gif) | ![vampire_special](../assets/faces_png/mousexm/vampire_special.png) |
-| gun_connect | `#gun#mousexm #disappointed#catxm` | ![gun_connect](../assets/faces/mousexm/gun_connect.gif) | ![gun_connect](../assets/faces_png/mousexm/gun_connect.png) |
-| stop_medicine_argue_connect | `#stop#dogxm #medicine#mousexm #argue#pigxm` | ![stop_medicine_argue_connect](../assets/faces/mousexm/stop_medicine_argue_connect.gif) | ![stop_medicine_argue_connect](../assets/faces_png/mousexm/stop_medicine_argue_connect.png) |
-| miracle_special | `#pray#mousexm #please#mousexm #miracle#mousexm` | ![miracle_special](../assets/faces/mousexm/miracle_special.gif) | ![miracle_special](../assets/faces_png/mousexm/miracle_special.png) |
 

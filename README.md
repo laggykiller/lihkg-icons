@@ -43,3 +43,4 @@ To manually update:
 | fatc | 肥絲 | ![fat001.gif](assets/faces/fatcmoji/fat001.gif) | [View](./view/fatc.md) |
 | lny | 農曆新年版 | ![smile.gif](assets/faces/lny/smile.gif) | [View](./view/lny.md) |
 | mf | 中秋節版 | ![smile.png](assets/faces/mf/smile.png) | [View](./view/mf.md) |
+| big | 普通 | ![smile.gif](assets/faces/big/smile.gif) | [View](./view/big.md) |

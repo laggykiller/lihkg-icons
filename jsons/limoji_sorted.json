@@ -412,13 +412,13 @@
             ],
             [
                 "",
-                "assets/faces/lihkg/dog2.gif",
-                "assets/faces_png/lihkg/dog2.png"
+                "assets/faces/lihkg/dog1.gif",
+                "assets/faces_png/lihkg/dog1.png"
             ],
             [
                 "",
-                "assets/faces/lihkg/dog1.gif",
-                "assets/faces_png/lihkg/dog1.png"
+                "assets/faces/lihkg/dog2.gif",
+                "assets/faces_png/lihkg/dog2.png"
             ]
         ]
     },
@@ -6929,23 +6929,23 @@
         "special": [
             [
                 "",
-                "assets/faces/lny/dog2.gif",
-                "assets/faces_png/lny/dog2.png"
-            ],
-            [
-                "",
                 "assets/faces/lny/dog1.gif",
                 "assets/faces_png/lny/dog1.png"
             ],
             [
                 "",
-                "assets/faces/lny/pig2.gif",
-                "assets/faces_png/lny/pig2.png"
+                "assets/faces/lny/dog2.gif",
+                "assets/faces_png/lny/dog2.png"
             ],
             [
                 "",
                 "assets/faces/lny/pig1.gif",
                 "assets/faces_png/lny/pig1.png"
+            ],
+            [
+                "",
+                "assets/faces/lny/pig2.gif",
+                "assets/faces_png/lny/pig2.png"
             ]
         ]
     },
@@ -7230,5 +7230,271 @@
                 "assets/faces_png/mf/special9.png"
             ]
         ]
+    },
+    "big": {
+        "pack_name": "普通",
+        "icons": [
+            [
+                "#:)#b",
+                "assets/faces/big/smile.gif",
+                "assets/faces_png/big/smile.png"
+            ],
+            [
+                "#O:-)#b",
+                "assets/faces/big/angel.gif",
+                "assets/faces_png/big/angel.png"
+            ],
+            [
+                "#xx(#b",
+                "assets/faces/big/dead.gif",
+                "assets/faces_png/big/dead.png"
+            ],
+            [
+                "#:o)#b",
+                "assets/faces/big/clown.gif",
+                "assets/faces_png/big/clown.png"
+            ],
+            [
+                "#:-(#b",
+                "assets/faces/big/frown.gif",
+                "assets/faces_png/big/frown.png"
+            ],
+            [
+                "#:~(#b",
+                "assets/faces/big/cry.gif",
+                "assets/faces_png/big/cry.png"
+            ],
+            [
+                "#;-)#b",
+                "assets/faces/big/wink.gif",
+                "assets/faces_png/big/wink.png"
+            ],
+            [
+                "#:-[#b",
+                "assets/faces/big/angry.gif",
+                "assets/faces_png/big/angry.png"
+            ],
+            [
+                "#:-]#b",
+                "assets/faces/big/devil.gif",
+                "assets/faces_png/big/devil.png"
+            ],
+            [
+                "#:D#b",
+                "assets/faces/big/biggrin.gif",
+                "assets/faces_png/big/biggrin.png"
+            ],
+            [
+                "#:O#b",
+                "assets/faces/big/oh.gif",
+                "assets/faces_png/big/oh.png"
+            ],
+            [
+                "#:P#b",
+                "assets/faces/big/tongue.gif",
+                "assets/faces_png/big/tongue.png"
+            ],
+            [
+                "#^3^#b",
+                "assets/faces/big/kiss.gif",
+                "assets/faces_png/big/kiss.png"
+            ],
+            [
+                "#?_?#b",
+                "assets/faces/big/wonder.gif",
+                "assets/faces_png/big/wonder.png"
+            ],
+            [
+                "#yup#b",
+                "assets/faces/big/agree.gif",
+                "assets/faces_png/big/agree.png"
+            ],
+            [
+                "#ng#b",
+                "assets/faces/big/donno.gif",
+                "assets/faces_png/big/donno.png"
+            ],
+            [
+                "#hehe#b",
+                "assets/faces/big/hehe.gif",
+                "assets/faces_png/big/hehe.png"
+            ],
+            [
+                "#love#b",
+                "assets/faces/big/love.gif",
+                "assets/faces_png/big/love.png"
+            ],
+            [
+                "#oh#b",
+                "assets/faces/big/surprise.gif",
+                "assets/faces_png/big/surprise.png"
+            ],
+            [
+                "#cn#b",
+                "assets/faces/big/chicken.gif",
+                "assets/faces_png/big/chicken.png"
+            ],
+            [
+                "#ass#b",
+                "assets/faces/big/ass.gif",
+                "assets/faces_png/big/ass.png"
+            ],
+            [
+                "#[sosad]#b",
+                "assets/faces/big/sosad.gif",
+                "assets/faces_png/big/sosad.png"
+            ],
+            [
+                "#good#b",
+                "assets/faces/big/good.gif",
+                "assets/faces_png/big/good.png"
+            ],
+            [
+                "#hoho#b",
+                "assets/faces/big/hoho.gif",
+                "assets/faces_png/big/hoho.png"
+            ],
+            [
+                "#kill#b",
+                "assets/faces/big/kill.gif",
+                "assets/faces_png/big/kill.png"
+            ],
+            [
+                "#bye#b",
+                "assets/faces/big/bye.gif",
+                "assets/faces_png/big/bye.png"
+            ],
+            [
+                "#Z_Z#b",
+                "assets/faces/big/z.gif",
+                "assets/faces_png/big/z.png"
+            ],
+            [
+                "#@_@#b",
+                "assets/faces/big/@.gif",
+                "assets/faces_png/big/@.png"
+            ],
+            [
+                "#adore#b",
+                "assets/faces/big/adore.gif",
+                "assets/faces_png/big/adore.png"
+            ],
+            [
+                "#???#b",
+                "assets/faces/big/wonder2.gif",
+                "assets/faces_png/big/wonder2.png"
+            ],
+            [
+                "#[banghead]#b",
+                "assets/faces/big/banghead.gif",
+                "assets/faces_png/big/banghead.png"
+            ],
+            [
+                "#[bouncer]#b",
+                "assets/faces/big/bouncer.gif",
+                "assets/faces_png/big/bouncer.png"
+            ],
+            [
+                "#[bouncy]#b",
+                "assets/faces/big/bouncy.gif",
+                "assets/faces_png/big/bouncy.png"
+            ],
+            [
+                "#[offtopic]#b",
+                "assets/faces/big/offtopic.gif",
+                "assets/faces_png/big/offtopic.png"
+            ],
+            [
+                "#[censored]#b",
+                "assets/faces/big/censored.gif",
+                "assets/faces_png/big/censored.png"
+            ],
+            [
+                "#[flowerface]#b",
+                "assets/faces/big/flowerface.gif",
+                "assets/faces_png/big/flowerface.png"
+            ],
+            [
+                "#[shocking]#b",
+                "assets/faces/big/shocking.gif",
+                "assets/faces_png/big/shocking.png"
+            ],
+            [
+                "#[photo]#b",
+                "assets/faces/big/photo.gif",
+                "assets/faces_png/big/photo.png"
+            ],
+            [
+                "#fire#b",
+                "assets/faces/big/fire.gif",
+                "assets/faces_png/big/fire.png"
+            ],
+            [
+                "#[yipes]#b",
+                "assets/faces/big/yipes.gif",
+                "assets/faces_png/big/yipes.png"
+            ],
+            [
+                "#[369]#b",
+                "assets/faces/big/369.gif",
+                "assets/faces_png/big/369.png"
+            ],
+            [
+                "#[bomb]#b",
+                "assets/faces/big/bomb.gif",
+                "assets/faces_png/big/bomb.png"
+            ],
+            [
+                "#[slick]#b",
+                "assets/faces/big/slick.gif",
+                "assets/faces_png/big/slick.png"
+            ],
+            [
+                "#fuck#b",
+                "assets/faces/big/fuck.gif",
+                "assets/faces_png/big/fuck.png"
+            ],
+            [
+                "#no#b",
+                "assets/faces/big/no.gif",
+                "assets/faces_png/big/no.png"
+            ],
+            [
+                "#kill2#b",
+                "assets/faces/big/kill2.gif",
+                "assets/faces_png/big/kill2.png"
+            ],
+            [
+                "#like#b",
+                "assets/faces/big/like.gif",
+                "assets/faces_png/big/like.png"
+            ],
+            [
+                "#dislike#b",
+                "assets/faces/big/dislike.gif",
+                "assets/faces_png/big/dislike.png"
+            ],
+            [
+                "#yup#lm#b",
+                "assets/faces/big/lomore_agree.gif",
+                "assets/faces_png/big/lomore_agree.png"
+            ],
+            [
+                "#bouncer#lm#b",
+                "assets/faces/big/lomore_bouncer.gif",
+                "assets/faces_png/big/lomore_bouncer.png"
+            ],
+            [
+                "#bye#lm#b",
+                "assets/faces/big/lomore_bye.gif",
+                "assets/faces_png/big/lomore_bye.png"
+            ],
+            [
+                "#shocking#lm#b",
+                "assets/faces/big/lomore_shocking.gif",
+                "assets/faces_png/big/lomore_shocking.png"
+            ]
+        ],
+        "special": []
     }
 }

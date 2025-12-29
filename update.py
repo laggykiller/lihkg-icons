@@ -8,10 +8,11 @@ from typing import Dict, List, Union
 import demjson3  # type: ignore
 import requests
 from bs4 import BeautifulSoup, Tag
-from google_play_scraper import app
+from google_play_scraper import app  # type: ignore
 
-LimojiType = Dict[str, List[Dict[str, Union[int, str, List[List[str]]]]]]
-LimojiSortedType = Dict[Union[int, str], Dict[str, Union[int, str, List[List[str]]]]]
+LimojiItemType = Dict[str, Union[int, str, List[List[str]]]]
+LimojiType = Dict[str, List[LimojiItemType]]
+LimojiSortedType = Dict[str, LimojiItemType]
 MainJsDictType = Dict[str, Dict[str, Dict[str, str]]]
 
 DOWNLOAD_INTERVAL = 1
@@ -54,7 +55,7 @@ def get_main_js() -> MainJsDictType:
     r = requests.get(main_js_url).text
 
     # Find start (Slow but more robust)
-    # start_pos = re.search(r'{".*":{"icons":{"assets\/faces\/.*\/.*.gif"', r).start()
+    # start_pos = re.search(r'{.*:{icons:{"assets\/faces\/.*\/.*.gif"', r).start()
     # r = r[start_pos:]
 
     # Find start (Fast but less robust)
@@ -98,20 +99,20 @@ def get_asset(mapping: Dict[str, str]) -> LimojiSortedType:
             limoji: LimojiType = json.load(f)
             json.dump(limoji, g, indent=4, ensure_ascii=False)
 
-        for f in zf.namelist():
-            if f.startswith("assets/faces"):
-                os.makedirs(os.path.dirname(f), exist_ok=True)
-                zf.extract(f)
+        for i in zf.namelist():
+            if i.startswith("assets/faces"):
+                os.makedirs(os.path.dirname(i), exist_ok=True)
+                zf.extract(i)
 
     main_js = get_main_js()
-    return limoji_sorting(main_js, mapping)
+    return limoji_sorting(main_js, limoji, mapping)
 
 
 def limoji_sorting(
-    main_js: MainJsDictType, mapping: Dict[str, str]
+    main_js: MainJsDictType, limoji: LimojiType, mapping: Dict[str, str]
 ) -> LimojiSortedType:
     limoji_sorted: LimojiSortedType = {}
-    for order, pack in enumerate(main_js):
+    for pack in main_js:
         icons_list = [
             [code, gif_path, gif2png(gif_path)]
             for gif_path, code in main_js[pack].get("icons", {}).items()
@@ -129,22 +130,27 @@ def limoji_sorting(
         ]
         pack_dir = os.path.dirname(listed_icons_path[0])
 
-        for f in os.listdir(pack_dir):
-            f_base = os.path.splitext(f)[0]
+        for i in sorted(os.listdir(pack_dir)):
+            f_base = os.path.splitext(i)[0]
             if f_base not in listed_icons_name:
                 gif_path = os.path.join(pack_dir, f"{f_base}.gif")
                 png_path = gif2png(gif_path)
                 special_list.append(["", gif_path, png_path])
 
-        limoji_sorted[order] = {
-            "pack": pack,
+        limoji_sorted[pack] = {
             "pack_name": mapping.get(pack, pack),
             "icons": icons_list,
             "special": special_list,  # limoji.json does not have data about special icons
         }
 
-    limoji_sorted = dict(sorted(limoji_sorted.items()))
-    limoji_sorted = {v.pop("pack"): v for v in limoji_sorted.values()}  # type: ignore
+    # "big" pack missing from main_js.json
+    limoji_big = [i for i in limoji["emojis"] if i["cat"] == "big"][0]
+    limoji_sorted["big"] = {
+        "pack_name": mapping.get("big", "big"),
+        "icons": limoji_big.get("icons", []),
+        "special": [],
+    }
+
     with open("jsons/limoji_sorted.json", "w+", encoding="utf8") as f:
         json.dump(limoji_sorted, f, indent=4, ensure_ascii=False)
 

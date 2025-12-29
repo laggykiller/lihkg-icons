@@ -43,4 +43,6 @@ To manually update:
 | fatc | 肥絲 | ![fat001.gif](assets/faces/fatcmoji/fat001.gif) | [View](./view/fatc.md) |
 | lny | 農曆新年版 | ![smile.gif](assets/faces/lny/smile.gif) | [View](./view/lny.md) |
 | mf | 中秋節版 | ![smile.png](assets/faces/mf/smile.png) | [View](./view/mf.md) |
+| catxm | 連貓聖誕版 | ![smile.gif](assets/faces/catxm/smile.gif) | [View](./view/catxm.md) |
 | big | 普通 | ![smile.gif](assets/faces/big/smile.gif) | [View](./view/big.md) |
+| lomoji | 腦魔Moji | ![05.png](assets/faces/lomoji/05.png) | [View](./view/lomoji.md) |

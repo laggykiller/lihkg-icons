@@ -3,7 +3,7 @@ import json
 import os
 import re
 import zipfile
-from typing import Dict, List, Union
+from typing import cast, Dict, List, Union
 
 import demjson3  # type: ignore
 import requests
@@ -143,13 +143,16 @@ def limoji_sorting(
             "special": special_list,  # limoji.json does not have data about special icons
         }
 
-    # "big" pack missing from main_js.json
-    limoji_big = [i for i in limoji["emojis"] if i["cat"] == "big"][0]
-    limoji_sorted["big"] = {
-        "pack_name": mapping.get("big", "big"),
-        "icons": limoji_big.get("icons", []),
-        "special": [],
-    }
+    # Some packs missing from main_js.json (e.g. "big", "lomoji")
+    for j in limoji["emojis"]:
+        cat = cast(str, j["cat"])
+        if cat in limoji_sorted:
+            continue
+        limoji_sorted[cat] = {
+            "pack_name": mapping.get(cat, cat),
+            "icons": j["icons"],
+            "special": [],
+        }
 
     with open("jsons/limoji_sorted.json", "w+", encoding="utf8") as f:
         json.dump(limoji_sorted, f, indent=4, ensure_ascii=False)

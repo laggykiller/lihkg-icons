@@ -1524,6 +1524,36 @@
 | special8 | `#ng#mf #cn#mf` | ![special8](../assets/faces/mf/special8.gif) | ![special8](../assets/faces_png/mf/special8.png) |
 | special9 | `#cn#mf #bye#mf` | ![special9](../assets/faces/mf/special9.gif) | ![special9](../assets/faces_png/mf/special9.png) |
 
+## catxm [連貓聖誕版]
+| Filename | Emoji | GIF | PNG |
+| --- | --- | --- | --- |
+| smile | `#:)#catxm` | ![smile](../assets/faces/catxm/smile.gif) | ![smile](../assets/faces_png/catxm/smile.png) |
+| lick | `#:P#catxm` | ![lick](../assets/faces/catxm/lick.gif) | ![lick](../assets/faces_png/catxm/lick.png) |
+| nap | `#nap#catxm` | ![nap](../assets/faces/catxm/nap.gif) | ![nap](../assets/faces_png/catxm/nap.png) |
+| bye | `#bye#catxm` | ![bye](../assets/faces/catxm/bye.gif) | ![bye](../assets/faces_png/catxm/bye.png) |
+| stare | `#stare#catxm` | ![stare](../assets/faces/catxm/stare.gif) | ![stare](../assets/faces_png/catxm/stare.png) |
+| handup | `#handup#catxm` | ![handup](../assets/faces/catxm/handup.gif) | ![handup](../assets/faces_png/catxm/handup.png) |
+| annoyed | `#annoyed#catxm` | ![annoyed](../assets/faces/catxm/annoyed.gif) | ![annoyed](../assets/faces_png/catxm/annoyed.png) |
+| headache | `#headache#catxm` | ![headache](../assets/faces/catxm/headache.gif) | ![headache](../assets/faces_png/catxm/headache.png) |
+| throw | `#throw#catxm` | ![throw](../assets/faces/catxm/throw.gif) | ![throw](../assets/faces_png/catxm/throw.png) |
+| angry | `#:-[#catxm` | ![angry](../assets/faces/catxm/angry.gif) | ![angry](../assets/faces_png/catxm/angry.png) |
+| appear | `#appear#catxm` | ![appear](../assets/faces/catxm/appear.gif) | ![appear](../assets/faces_png/catxm/appear.png) |
+| darkness | `#darkness#catxm` | ![darkness](../assets/faces/catxm/darkness.gif) | ![darkness](../assets/faces_png/catxm/darkness.png) |
+| threat | `#threat#catxm` | ![threat](../assets/faces/catxm/threat.gif) | ![threat](../assets/faces_png/catxm/threat.png) |
+| swipe | `#swipe#catxm` | ![swipe](../assets/faces/catxm/swipe.gif) | ![swipe](../assets/faces_png/catxm/swipe.png) |
+| rain | `#rain#catxm` | ![rain](../assets/faces/catxm/rain.gif) | ![rain](../assets/faces_png/catxm/rain.png) |
+| shaking | `#shaking#catxm` | ![shaking](../assets/faces/catxm/shaking.gif) | ![shaking](../assets/faces_png/catxm/shaking.png) |
+| sneeze | `#sneeze#catxm` | ![sneeze](../assets/faces/catxm/sneeze.gif) | ![sneeze](../assets/faces_png/catxm/sneeze.png) |
+| mask | `#mask#catxm` | ![mask](../assets/faces/catxm/mask.gif) | ![mask](../assets/faces_png/catxm/mask.png) |
+| unwell | `#xx(#catxm` | ![unwell](../assets/faces/catxm/unwell.gif) | ![unwell](../assets/faces_png/catxm/unwell.png) |
+| disappointed | `#disappointed#catxm` | ![disappointed](../assets/faces/catxm/disappointed.gif) | ![disappointed](../assets/faces_png/catxm/disappointed.png) |
+| angel | `#O:-)#catxm` | ![angel](../assets/faces/catxm/angel.gif) | ![angel](../assets/faces_png/catxm/angel.png) |
+| pussy1 | `#pussy1#catxm` | ![pussy1](../assets/faces/catxm/pussy1.gif) | ![pussy1](../assets/faces_png/catxm/pussy1.png) |
+| pussy2 | `#pussy2#catxm` | ![pussy2](../assets/faces/catxm/pussy2.gif) | ![pussy2](../assets/faces_png/catxm/pussy2.png) |
+| stretching | `#stretching#catxm` | ![stretching](../assets/faces/catxm/stretching.gif) | ![stretching](../assets/faces_png/catxm/stretching.png) |
+| lucky | `#lucky#catxm` | ![lucky](../assets/faces/catxm/lucky.gif) | ![lucky](../assets/faces_png/catxm/lucky.png) |
+| lihkg | `#lihkg#catxm` | ![lihkg](../assets/faces/catxm/lihkg.gif) | ![lihkg](../assets/faces_png/catxm/lihkg.png) |
+
 ## big [普通]
 | Filename | Emoji | GIF | PNG |
 | --- | --- | --- | --- |
@@ -1579,4 +1609,50 @@
 | lomore_bouncer | `#bouncer#lm#b` | ![lomore_bouncer](../assets/faces/big/lomore_bouncer.gif) | ![lomore_bouncer](../assets/faces_png/big/lomore_bouncer.png) |
 | lomore_bye | `#bye#lm#b` | ![lomore_bye](../assets/faces/big/lomore_bye.gif) | ![lomore_bye](../assets/faces_png/big/lomore_bye.png) |
 | lomore_shocking | `#shocking#lm#b` | ![lomore_shocking](../assets/faces/big/lomore_shocking.gif) | ![lomore_shocking](../assets/faces_png/big/lomore_shocking.png) |
+
+## lomoji [腦魔Moji]
+| Filename | Emoji | GIF | PNG |
+| --- | --- | --- | --- |
+| 05 | `#:)#lme` | ![05](../assets/faces/lomoji/05.png) | ![05](../assets/faces_png/lomoji/05.png) |
+| 01 | `#mad#lme` | ![01](../assets/faces/lomoji/01.png) | ![01](../assets/faces_png/lomoji/01.png) |
+| 02 | `#unamused#lme` | ![02](../assets/faces/lomoji/02.png) | ![02](../assets/faces_png/lomoji/02.png) |
+| 03 | `#:-]#lme` | ![03](../assets/faces/lomoji/03.png) | ![03](../assets/faces_png/lomoji/03.png) |
+| 04 | `#smirking#lme` | ![04](../assets/faces/lomoji/04.png) | ![04](../assets/faces_png/lomoji/04.png) |
+| 06 | `#happy#lme` | ![06](../assets/faces/lomoji/06.png) | ![06](../assets/faces_png/lomoji/06.png) |
+| 07 | `#^3^#lme` | ![07](../assets/faces/lomoji/07.png) | ![07](../assets/faces_png/lomoji/07.png) |
+| 08 | `#:P#lme` | ![08](../assets/faces/lomoji/08.png) | ![08](../assets/faces_png/lomoji/08.png) |
+| 09 | `#love#lme` | ![09](../assets/faces/lomoji/09.png) | ![09](../assets/faces_png/lomoji/09.png) |
+| 10 | `#hoho#lme` | ![10](../assets/faces/lomoji/10.png) | ![10](../assets/faces_png/lomoji/10.png) |
+| 11 | `#tongue1#lme` | ![11](../assets/faces/lomoji/11.png) | ![11](../assets/faces_png/lomoji/11.png) |
+| 12 | `#tongue2#lme` | ![12](../assets/faces/lomoji/12.png) | ![12](../assets/faces_png/lomoji/12.png) |
+| 13 | `#tongue3#lme` | ![13](../assets/faces/lomoji/13.png) | ![13](../assets/faces_png/lomoji/13.png) |
+| 14 | `#wink#lme` | ![14](../assets/faces/lomoji/14.png) | ![14](../assets/faces_png/lomoji/14.png) |
+| 15 | `#ghost#lme` | ![15](../assets/faces/lomoji/15.png) | ![15](../assets/faces_png/lomoji/15.png) |
+| 16 | `#sad#lme` | ![16](../assets/faces/lomoji/16.png) | ![16](../assets/faces_png/lomoji/16.png) |
+| 17 | `#sleepy#lme` | ![17](../assets/faces/lomoji/17.png) | ![17](../assets/faces_png/lomoji/17.png) |
+| 18 | `#O:-)#lme` | ![18](../assets/faces/lomoji/18.png) | ![18](../assets/faces_png/lomoji/18.png) |
+| 19 | `#:(#lme` | ![19](../assets/faces/lomoji/19.png) | ![19](../assets/faces_png/lomoji/19.png) |
+| 20 | `#pain#lme` | ![20](../assets/faces/lomoji/20.png) | ![20](../assets/faces_png/lomoji/20.png) |
+| 21 | `#tired#lme` | ![21](../assets/faces/lomoji/21.png) | ![21](../assets/faces_png/lomoji/21.png) |
+| 22 | `#cry#lme` | ![22](../assets/faces/lomoji/22.png) | ![22](../assets/faces_png/lomoji/22.png) |
+| 23 | `#bawling#lme` | ![23](../assets/faces/lomoji/23.png) | ![23](../assets/faces_png/lomoji/23.png) |
+| 24 | `#scream#lme` | ![24](../assets/faces/lomoji/24.png) | ![24](../assets/faces_png/lomoji/24.png) |
+| 25 | `#shame#lme` | ![25](../assets/faces/lomoji/25.png) | ![25](../assets/faces_png/lomoji/25.png) |
+| 26 | `#think#lme` | ![26](../assets/faces/lomoji/26.png) | ![26](../assets/faces_png/lomoji/26.png) |
+| 27 | `#sick#lme` | ![27](../assets/faces/lomoji/27.png) | ![27](../assets/faces_png/lomoji/27.png) |
+| 28 | `#shy#lme` | ![28](../assets/faces/lomoji/28.png) | ![28](../assets/faces_png/lomoji/28.png) |
+| 29 | `#devil#lme` | ![29](../assets/faces/lomoji/29.png) | ![29](../assets/faces_png/lomoji/29.png) |
+| 30 | `#dizzy#lme` | ![30](../assets/faces/lomoji/30.png) | ![30](../assets/faces_png/lomoji/30.png) |
+| 31 | `#scared#lme` | ![31](../assets/faces/lomoji/31.png) | ![31](../assets/faces_png/lomoji/31.png) |
+| 32 | `#nervous#lme` | ![32](../assets/faces/lomoji/32.png) | ![32](../assets/faces_png/lomoji/32.png) |
+| 33 | `#angry#lme` | ![33](../assets/faces/lomoji/33.png) | ![33](../assets/faces_png/lomoji/33.png) |
+| 34 | `#ok#lme` | ![34](../assets/faces/lomoji/34.png) | ![34](../assets/faces_png/lomoji/34.png) |
+| 35 | `#yeah#lme` | ![35](../assets/faces/lomoji/35.png) | ![35](../assets/faces_png/lomoji/35.png) |
+| 36 | `#yo#lme` | ![36](../assets/faces/lomoji/36.png) | ![36](../assets/faces_png/lomoji/36.png) |
+| 37 | `#sosad#lme` | ![37](../assets/faces/lomoji/37.png) | ![37](../assets/faces_png/lomoji/37.png) |
+| 38 | `#addoil#lme` | ![38](../assets/faces/lomoji/38.png) | ![38](../assets/faces_png/lomoji/38.png) |
+| 39 | `#wound#lme` | ![39](../assets/faces/lomoji/39.png) | ![39](../assets/faces_png/lomoji/39.png) |
+| 40 | `#wfc#lme` | ![40](../assets/faces/lomoji/40.png) | ![40](../assets/faces_png/lomoji/40.png) |
+| 41 | `#shock#lme` | ![41](../assets/faces/lomoji/41.png) | ![41](../assets/faces_png/lomoji/41.png) |
+| 42 | `#:-)#lme` | ![42](../assets/faces/lomoji/42.png) | ![42](../assets/faces_png/lomoji/42.png) |
 

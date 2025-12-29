@@ -27,5 +27,4 @@
 | stretching | `#stretching#catxm` | ![stretching](../assets/faces/catxm/stretching.gif) | ![stretching](../assets/faces_png/catxm/stretching.png) |
 | lucky | `#lucky#catxm` | ![lucky](../assets/faces/catxm/lucky.gif) | ![lucky](../assets/faces_png/catxm/lucky.png) |
 | lihkg | `#lihkg#catxm` | ![lihkg](../assets/faces/catxm/lihkg.gif) | ![lihkg](../assets/faces_png/catxm/lihkg.png) |
-| throw_connect | `#throw#catxm #beg#dogxm` | ![throw_connect](../assets/faces/catxm/throw_connect.gif) | ![throw_connect](../assets/faces_png/catxm/throw_connect.png) |
 

@@ -3,7 +3,7 @@ import json
 import os
 import re
 import zipfile
-from typing import cast, Dict, List, Union, Optional
+from typing import Dict, List, Union, cast
 
 import demjson3  # type: ignore
 import requests
@@ -26,7 +26,7 @@ def search_bracket(text: str):
         if char == '"':
             is_str = not is_str
 
-        if is_str == False:
+        if is_str is False:
             if char == "{":
                 depth += 1
             elif char == "}":
@@ -93,9 +93,10 @@ def get_asset(mapping: Dict[str, str]) -> LimojiSortedType:
     asset_zip = requests.get(asset_url)
     with zipfile.ZipFile(io.BytesIO(asset_zip.content)) as zf:
         # Some sticker pack (e.g. husky) is present in main_js but not in limoji
-        with zf.open("limoji.json") as f, open(
-            "jsons/limoji.json", "w+", encoding="utf8"
-        ) as g:
+        with (
+            zf.open("limoji.json") as f,
+            open("jsons/limoji.json", "w+", encoding="utf8") as g,
+        ):
             limoji: LimojiType = json.load(f)
             json.dump(limoji, g, indent=4, ensure_ascii=False)
 
@@ -126,12 +127,14 @@ def limoji_sorting(
                 break
         if prev_pack_idx not in missing_packs:
             missing_packs[prev_pack_idx] = []
-        missing_packs[prev_pack_idx].append({
-            "pack": cat,
-            "pack_name": mapping.get(cat, cat),
-            "icons": i["icons"],
-            "special": [],
-        })
+        missing_packs[prev_pack_idx].append(
+            {
+                "pack": cat,
+                "pack_name": mapping.get(cat, cat),
+                "icons": i["icons"],
+                "special": [],
+            }
+        )
 
     for idx, pack in enumerate(main_js):
         icons_list = [
@@ -184,7 +187,7 @@ def update_readme(limoji: LimojiSortedType):
 
     body = "| Code | Name | Preview | View |\n"
     body += "| --- | --- | --- | --- |\n"
-    body += f"| (All) | N/A | N/A | [View](./view/all.md) |\n"
+    body += "| (All) | N/A | N/A | [View](./view/all.md) |\n"
 
     for pack, v in limoji.items():
         pack_name = v["pack_name"]

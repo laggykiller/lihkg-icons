@@ -114,20 +114,26 @@ def limoji_sorting(
     limoji_sorted: LimojiSortedType = {}
 
     # Some packs missing from main_js.json (e.g. "big", "lomoji")
-    missing_packs: Dict[str, LimojiItemType] = {}
-    for idx, j in enumerate(limoji["emojis"]):
-        cat = cast(str, j["cat"])
-        if cat in limoji_sorted:
+    missing_packs: Dict[int, List[LimojiItemType]] = {}
+    for idx, i in enumerate(limoji["emojis"]):
+        cat = cast(str, i["cat"])
+        if cat in main_js:
             continue
-        prev_pack = cast(str, limoji["emojis"][idx - 1]["cat"])
-        missing_packs[prev_pack] = {
+        for j in range(idx, 0, -1):
+            prev_pack = cast(str, limoji["emojis"][j]["cat"])
+            if prev_pack in main_js:
+                prev_pack_idx = list(main_js.keys()).index(prev_pack)
+                break
+        if prev_pack_idx not in missing_packs:
+            missing_packs[prev_pack_idx] = []
+        missing_packs[prev_pack_idx].append({
             "pack": cat,
             "pack_name": mapping.get(cat, cat),
-            "icons": j["icons"],
+            "icons": i["icons"],
             "special": [],
-        }
+        })
 
-    for pack in main_js:
+    for idx, pack in enumerate(main_js):
         icons_list = [
             [code, gif_path, gif2png(gif_path)]
             for gif_path, code in main_js[pack].get("icons", {}).items()
@@ -145,8 +151,8 @@ def limoji_sorting(
         ]
         pack_dir = os.path.dirname(listed_icons_path[0])
 
-        for i in sorted(os.listdir(pack_dir)):
-            f_base = os.path.splitext(i)[0]
+        for k in sorted(os.listdir(pack_dir)):
+            f_base = os.path.splitext(k)[0]
             if f_base not in listed_icons_name:
                 gif_path = os.path.join(pack_dir, f"{f_base}.gif")
                 png_path = gif2png(gif_path)
@@ -158,12 +164,13 @@ def limoji_sorting(
             "special": special_list,  # limoji.json does not have data about special icons
         }
 
-        if pack in missing_packs:
-            limoji_sorted[cast(str, missing_packs[pack]["pack"])] = {
-                "pack_name": missing_packs[pack]["pack_name"],
-                "icons": missing_packs[pack]["icons"],
-                "special": [],
-            }
+        if idx in missing_packs:
+            for missing_pack in missing_packs[idx]:
+                limoji_sorted[cast(str, missing_pack["pack"])] = {
+                    "pack_name": missing_pack["pack_name"],
+                    "icons": missing_pack["icons"],
+                    "special": [],
+                }
 
     with open("jsons/limoji_sorted.json", "w+", encoding="utf8") as f:
         json.dump(limoji_sorted, f, indent=4, ensure_ascii=False)

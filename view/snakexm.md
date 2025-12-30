@@ -27,4 +27,12 @@
 | sign | `#sign#snakexm` | ![sign](../assets/faces/snakexm/sign.gif) | ![sign](../assets/faces_png/snakexm/sign.png) |
 | zzz | `#zzz#snakexm` | ![zzz](../assets/faces/snakexm/zzz.gif) | ![zzz](../assets/faces_png/snakexm/zzz.png) |
 | lihkg | `#lihkg#snakexm` | ![lihkg](../assets/faces/snakexm/lihkg.gif) | ![lihkg](../assets/faces_png/snakexm/lihkg.png) |
+| hypnosis_connect | `#hypnosis#snakexm #awake#mousexm` | ![hypnosis_connect](../assets/faces/snakexm/hypnosis_connect.gif) | ![hypnosis_connect](../assets/faces_png/snakexm/hypnosis_connect.png) |
+| knife_connect | `#knife#snakexm #stun#rabbitxm` | ![knife_connect](../assets/faces/snakexm/knife_connect.gif) | ![knife_connect](../assets/faces_png/snakexm/knife_connect.png) |
+| shotgun_special | `#shotgun#snakexm #shotgun#snakexm #shotgun#snakexm` | ![shotgun_special](../assets/faces/snakexm/shotgun_special.gif) | ![shotgun_special](../assets/faces_png/snakexm/shotgun_special.png) |
+| shotgun_special2 | `#shotgun#snakexm #knife#snakexm` | ![shotgun_special2](../assets/faces/snakexm/shotgun_special2.gif) | ![shotgun_special2](../assets/faces_png/snakexm/shotgun_special2.png) |
+| scream_connect | `#music#rabbitxm #scream#snakexm` | ![scream_connect](../assets/faces/snakexm/scream_connect.gif) | ![scream_connect](../assets/faces_png/snakexm/scream_connect.png) |
+| eat_special | `#eat#snakexm #wtf#snakexm` | ![eat_special](../assets/faces/snakexm/eat_special.gif) | ![eat_special](../assets/faces_png/snakexm/eat_special.png) |
+| drink_connect | `#drink#snakexm #upset_r#pigxm` | ![drink_connect](../assets/faces/snakexm/drink_connect.gif) | ![drink_connect](../assets/faces_png/snakexm/drink_connect.png) |
+| sad_special | `#sad#snakexm #sad#snakexm` | ![sad_special](../assets/faces/snakexm/sad_special.gif) | ![sad_special](../assets/faces_png/snakexm/sad_special.png) |
 

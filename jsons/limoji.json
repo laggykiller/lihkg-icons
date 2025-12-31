@@ -4148,140 +4148,171 @@
             "sort": 7
         },
         {
-            "cat": "snake",
+            "cat": "horse",
             "icons": [
                 [
-                    "#:)#snake",
-                    "assets/faces/snake/smile.gif",
-                    "assets/faces_png/snake/smile.png"
+                    "#smile#horse",
+                    "assets/faces/horse/smile.gif",
+                    "assets/faces_png/horse/smile.png"
                 ],
                 [
-                    "#:D#snake",
-                    "assets/faces/snake/laugh.gif",
-                    "assets/faces_png/snake/laugh.png"
+                    "#smile2#horse",
+                    "assets/faces/horse/smile2.gif",
+                    "assets/faces_png/horse/smile2.png"
                 ],
                 [
-                    "#nose#snake",
-                    "assets/faces/snake/nose.gif",
-                    "assets/faces_png/snake/nose.png"
+                    "#smile3#horse",
+                    "assets/faces/horse/smile3.gif",
+                    "assets/faces_png/horse/smile3.png"
                 ],
                 [
-                    "#want#snake",
-                    "assets/faces/snake/want.gif",
-                    "assets/faces_png/snake/want.png"
+                    "#laugh#horse",
+                    "assets/faces/horse/laugh.gif",
+                    "assets/faces_png/horse/laugh.png"
                 ],
                 [
-                    "#knife#snake",
-                    "assets/faces/snake/knife.gif",
-                    "assets/faces_png/snake/knife.png"
+                    "#haha#horse",
+                    "assets/faces/horse/haha.gif",
+                    "assets/faces_png/horse/haha.png"
                 ],
                 [
-                    "#shotgun#snake",
-                    "assets/faces/snake/shotgun.gif",
-                    "assets/faces_png/snake/shotgun.png"
+                    "#sosad#horse",
+                    "assets/faces/horse/sosad.gif",
+                    "assets/faces_png/horse/sosad.png"
                 ],
                 [
-                    "#explosion#snake",
-                    "assets/faces/snake/explosion.gif",
-                    "assets/faces_png/snake/explosion.png"
+                    "#rose#horse",
+                    "assets/faces/horse/rose.gif",
+                    "assets/faces_png/horse/rose.png"
                 ],
                 [
-                    "#sweat#snake",
-                    "assets/faces/snake/sweat.gif",
-                    "assets/faces_png/snake/sweat.png"
+                    "#selfie#horse",
+                    "assets/faces/horse/selfie.gif",
+                    "assets/faces_png/horse/selfie.png"
                 ],
                 [
-                    "#write#snake",
-                    "assets/faces/snake/write.gif",
-                    "assets/faces_png/snake/write.png"
+                    "#glasses#horse",
+                    "assets/faces/horse/glasses.gif",
+                    "assets/faces_png/horse/glasses.png"
                 ],
                 [
-                    "#confuse#snake",
-                    "assets/faces/snake/confuse.gif",
-                    "assets/faces_png/snake/confuse.png"
+                    "#muscle#horse",
+                    "assets/faces/horse/muscle.gif",
+                    "assets/faces_png/horse/muscle.png"
                 ],
                 [
-                    "#wtf#snake",
-                    "assets/faces/snake/wtf.gif",
-                    "assets/faces_png/snake/wtf.png"
+                    "#dance#horse",
+                    "assets/faces/horse/dance.gif",
+                    "assets/faces_png/horse/dance.png"
                 ],
                 [
-                    "#scream#snake",
-                    "assets/faces/snake/scream.gif",
-                    "assets/faces_png/snake/scream.png"
+                    "#bye#horse",
+                    "assets/faces/horse/bye.gif",
+                    "assets/faces_png/horse/bye.png"
                 ],
                 [
-                    "#shock#snake",
-                    "assets/faces/snake/shock.gif",
-                    "assets/faces_png/snake/shock.png"
+                    "#rope#horse",
+                    "assets/faces/horse/rope.gif",
+                    "assets/faces_png/horse/rope.png"
                 ],
                 [
-                    "#wow#snake",
-                    "assets/faces/snake/wow.gif",
-                    "assets/faces_png/snake/wow.png"
+                    "#drink#horse",
+                    "assets/faces/horse/drink.gif",
+                    "assets/faces_png/horse/drink.png"
                 ],
                 [
-                    "#boring#snake",
-                    "assets/faces/snake/boring.gif",
-                    "assets/faces_png/snake/boring.png"
+                    "#gone#horse",
+                    "assets/faces/horse/gone.gif",
+                    "assets/faces_png/horse/gone.png"
                 ],
                 [
-                    "#sad#snake",
-                    "assets/faces/snake/sad.gif",
-                    "assets/faces_png/snake/sad.png"
+                    "#betting#horse",
+                    "assets/faces/horse/betting.gif",
+                    "assets/faces_png/horse/betting.png"
                 ],
                 [
-                    "#sad2#snake",
-                    "assets/faces/snake/sad2.gif",
-                    "assets/faces_png/snake/sad2.png"
+                    "#unicorn#horse",
+                    "assets/faces/horse/unicorn.gif",
+                    "assets/faces_png/horse/unicorn.png"
                 ],
                 [
-                    "#bye#snake",
-                    "assets/faces/snake/bye.gif",
-                    "assets/faces_png/snake/bye.png"
+                    "#angry#horse",
+                    "assets/faces/horse/angry.gif",
+                    "assets/faces_png/horse/angry.png"
                 ],
                 [
-                    "#eat#snake",
-                    "assets/faces/snake/eat.gif",
-                    "assets/faces_png/snake/eat.png"
+                    "#cry#horse",
+                    "assets/faces/horse/cry.gif",
+                    "assets/faces_png/horse/cry.png"
                 ],
                 [
-                    "#drink#snake",
-                    "assets/faces/snake/drink.gif",
-                    "assets/faces_png/snake/drink.png"
+                    "#jeng#horse",
+                    "assets/faces/horse/jeng.gif",
+                    "assets/faces_png/horse/jeng.png"
                 ],
                 [
-                    "#think#snake",
-                    "assets/faces/snake/think.gif",
-                    "assets/faces_png/snake/think.png"
+                    "#good#horse",
+                    "assets/faces/horse/good.gif",
+                    "assets/faces_png/horse/good.png"
                 ],
                 [
-                    "#hypnosis#snake",
-                    "assets/faces/snake/hypnosis.gif",
-                    "assets/faces_png/snake/hypnosis.png"
+                    "#zero#horse",
+                    "assets/faces/horse/zero.gif",
+                    "assets/faces_png/horse/zero.png"
                 ],
                 [
-                    "#arcade#snake",
-                    "assets/faces/snake/arcade.gif",
-                    "assets/faces_png/snake/arcade.png"
+                    "#look#horse",
+                    "assets/faces/horse/look.gif",
+                    "assets/faces_png/horse/look.png"
                 ],
                 [
-                    "#sign#snake",
-                    "assets/faces/snake/sign.gif",
-                    "assets/faces_png/snake/sign.png"
+                    "#huh#horse",
+                    "assets/faces/horse/huh.gif",
+                    "assets/faces_png/horse/huh.png"
                 ],
                 [
-                    "#zzz#snake",
-                    "assets/faces/snake/zzz.gif",
-                    "assets/faces_png/snake/zzz.png"
+                    "#nah#horse",
+                    "assets/faces/horse/nah.gif",
+                    "assets/faces_png/horse/nah.png"
                 ],
                 [
-                    "#lihkg#snake",
-                    "assets/faces/snake/lihkg.gif",
-                    "assets/faces_png/snake/lihkg.png"
+                    "#sad#horse",
+                    "assets/faces/horse/sad.gif",
+                    "assets/faces_png/horse/sad.png"
+                ],
+                [
+                    "#shock#horse",
+                    "assets/faces/horse/shock.gif",
+                    "assets/faces_png/horse/shock.png"
+                ],
+                [
+                    "#what#horse",
+                    "assets/faces/horse/what.gif",
+                    "assets/faces_png/horse/what.png"
+                ],
+                [
+                    "#wtf#horse",
+                    "assets/faces/horse/wtf.gif",
+                    "assets/faces_png/horse/wtf.png"
+                ],
+                [
+                    "#zzz#horse",
+                    "assets/faces/horse/zzz.gif",
+                    "assets/faces_png/horse/zzz.png"
+                ],
+                [
+                    "#lihkg#horse",
+                    "assets/faces/horse/lihkg.gif",
+                    "assets/faces_png/horse/lihkg.png"
                 ]
             ],
-            "sort": 14
+            "sort": 15,
+            "show_on_2": [
+                {
+                    "start_time": 1767196799000,
+                    "end_time": 1924963199000
+                }
+            ]
         },
         {
             "cat": "mouse",
@@ -5263,6 +5294,142 @@
                 ]
             ],
             "sort": 13
+        },
+        {
+            "cat": "snake",
+            "icons": [
+                [
+                    "#:)#snake",
+                    "assets/faces/snake/smile.gif",
+                    "assets/faces_png/snake/smile.png"
+                ],
+                [
+                    "#:D#snake",
+                    "assets/faces/snake/laugh.gif",
+                    "assets/faces_png/snake/laugh.png"
+                ],
+                [
+                    "#nose#snake",
+                    "assets/faces/snake/nose.gif",
+                    "assets/faces_png/snake/nose.png"
+                ],
+                [
+                    "#want#snake",
+                    "assets/faces/snake/want.gif",
+                    "assets/faces_png/snake/want.png"
+                ],
+                [
+                    "#knife#snake",
+                    "assets/faces/snake/knife.gif",
+                    "assets/faces_png/snake/knife.png"
+                ],
+                [
+                    "#shotgun#snake",
+                    "assets/faces/snake/shotgun.gif",
+                    "assets/faces_png/snake/shotgun.png"
+                ],
+                [
+                    "#explosion#snake",
+                    "assets/faces/snake/explosion.gif",
+                    "assets/faces_png/snake/explosion.png"
+                ],
+                [
+                    "#sweat#snake",
+                    "assets/faces/snake/sweat.gif",
+                    "assets/faces_png/snake/sweat.png"
+                ],
+                [
+                    "#write#snake",
+                    "assets/faces/snake/write.gif",
+                    "assets/faces_png/snake/write.png"
+                ],
+                [
+                    "#confuse#snake",
+                    "assets/faces/snake/confuse.gif",
+                    "assets/faces_png/snake/confuse.png"
+                ],
+                [
+                    "#wtf#snake",
+                    "assets/faces/snake/wtf.gif",
+                    "assets/faces_png/snake/wtf.png"
+                ],
+                [
+                    "#scream#snake",
+                    "assets/faces/snake/scream.gif",
+                    "assets/faces_png/snake/scream.png"
+                ],
+                [
+                    "#shock#snake",
+                    "assets/faces/snake/shock.gif",
+                    "assets/faces_png/snake/shock.png"
+                ],
+                [
+                    "#wow#snake",
+                    "assets/faces/snake/wow.gif",
+                    "assets/faces_png/snake/wow.png"
+                ],
+                [
+                    "#boring#snake",
+                    "assets/faces/snake/boring.gif",
+                    "assets/faces_png/snake/boring.png"
+                ],
+                [
+                    "#sad#snake",
+                    "assets/faces/snake/sad.gif",
+                    "assets/faces_png/snake/sad.png"
+                ],
+                [
+                    "#sad2#snake",
+                    "assets/faces/snake/sad2.gif",
+                    "assets/faces_png/snake/sad2.png"
+                ],
+                [
+                    "#bye#snake",
+                    "assets/faces/snake/bye.gif",
+                    "assets/faces_png/snake/bye.png"
+                ],
+                [
+                    "#eat#snake",
+                    "assets/faces/snake/eat.gif",
+                    "assets/faces_png/snake/eat.png"
+                ],
+                [
+                    "#drink#snake",
+                    "assets/faces/snake/drink.gif",
+                    "assets/faces_png/snake/drink.png"
+                ],
+                [
+                    "#think#snake",
+                    "assets/faces/snake/think.gif",
+                    "assets/faces_png/snake/think.png"
+                ],
+                [
+                    "#hypnosis#snake",
+                    "assets/faces/snake/hypnosis.gif",
+                    "assets/faces_png/snake/hypnosis.png"
+                ],
+                [
+                    "#arcade#snake",
+                    "assets/faces/snake/arcade.gif",
+                    "assets/faces_png/snake/arcade.png"
+                ],
+                [
+                    "#sign#snake",
+                    "assets/faces/snake/sign.gif",
+                    "assets/faces_png/snake/sign.png"
+                ],
+                [
+                    "#zzz#snake",
+                    "assets/faces/snake/zzz.gif",
+                    "assets/faces_png/snake/zzz.png"
+                ],
+                [
+                    "#lihkg#snake",
+                    "assets/faces/snake/lihkg.gif",
+                    "assets/faces_png/snake/lihkg.png"
+                ]
+            ],
+            "sort": 14
         },
         {
             "cat": "lm2",

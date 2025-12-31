@@ -35,4 +35,6 @@
 | dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../assets/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../assets/faces_png/lihkg/dragon_hb_connect.png) |
 | dog1 | `` | ![dog1](../assets/faces/lihkg/dog1.gif) | ![dog1](../assets/faces_png/lihkg/dog1.png) |
 | dog2 | `` | ![dog2](../assets/faces/lihkg/dog2.gif) | ![dog2](../assets/faces_png/lihkg/dog2.png) |
+| horse_hb | `` | ![horse_hb](../assets/faces/lihkg/horse_hb.gif) | ![horse_hb](../assets/faces_png/lihkg/horse_hb.png) |
+| horse_hb2 | `` | ![horse_hb2](../assets/faces/lihkg/horse_hb2.gif) | ![horse_hb2](../assets/faces_png/lihkg/horse_hb2.png) |
 

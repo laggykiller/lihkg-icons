@@ -364,43 +364,50 @@
             "assets/faces/pig/wine_connect.gif": "#wine#pig #champagne#pig"
         }
     },
-    "snake": {
+    "horse": {
         "icons": {
-            "assets/faces/snake/smile.gif": "#:)#snake",
-            "assets/faces/snake/laugh.gif": "#:D#snake",
-            "assets/faces/snake/nose.gif": "#nose#snake",
-            "assets/faces/snake/want.gif": "#want#snake",
-            "assets/faces/snake/knife.gif": "#knife#snake",
-            "assets/faces/snake/shotgun.gif": "#shotgun#snake",
-            "assets/faces/snake/explosion.gif": "#explosion#snake",
-            "assets/faces/snake/sweat.gif": "#sweat#snake",
-            "assets/faces/snake/write.gif": "#write#snake",
-            "assets/faces/snake/confuse.gif": "#confuse#snake",
-            "assets/faces/snake/wtf.gif": "#wtf#snake",
-            "assets/faces/snake/scream.gif": "#scream#snake",
-            "assets/faces/snake/shock.gif": "#shock#snake",
-            "assets/faces/snake/wow.gif": "#wow#snake",
-            "assets/faces/snake/boring.gif": "#boring#snake",
-            "assets/faces/snake/sad.gif": "#sad#snake",
-            "assets/faces/snake/sad2.gif": "#sad2#snake",
-            "assets/faces/snake/bye.gif": "#bye#snake",
-            "assets/faces/snake/eat.gif": "#eat#snake",
-            "assets/faces/snake/drink.gif": "#drink#snake",
-            "assets/faces/snake/think.gif": "#think#snake",
-            "assets/faces/snake/hypnosis.gif": "#hypnosis#snake",
-            "assets/faces/snake/arcade.gif": "#arcade#snake",
-            "assets/faces/snake/sign.gif": "#sign#snake",
-            "assets/faces/snake/zzz.gif": "#zzz#snake",
-            "assets/faces/snake/lihkg.gif": "#lihkg#snake"
+            "assets/faces/horse/smile.gif": "#smile#horse",
+            "assets/faces/horse/smile2.gif": "#smile2#horse",
+            "assets/faces/horse/smile3.gif": "#smile3#horse",
+            "assets/faces/horse/laugh.gif": "#laugh#horse",
+            "assets/faces/horse/haha.gif": "#haha#horse",
+            "assets/faces/horse/sosad.gif": "#sosad#horse",
+            "assets/faces/horse/rose.gif": "#rose#horse",
+            "assets/faces/horse/selfie.gif": "#selfie#horse",
+            "assets/faces/horse/glasses.gif": "#glasses#horse",
+            "assets/faces/horse/muscle.gif": "#muscle#horse",
+            "assets/faces/horse/dance.gif": "#dance#horse",
+            "assets/faces/horse/bye.gif": "#bye#horse",
+            "assets/faces/horse/rope.gif": "#rope#horse",
+            "assets/faces/horse/drink.gif": "#drink#horse",
+            "assets/faces/horse/gone.gif": "#gone#horse",
+            "assets/faces/horse/betting.gif": "#betting#horse",
+            "assets/faces/horse/unicorn.gif": "#unicorn#horse",
+            "assets/faces/horse/angry.gif": "#angry#horse",
+            "assets/faces/horse/cry.gif": "#cry#horse",
+            "assets/faces/horse/jeng.gif": "#jeng#horse",
+            "assets/faces/horse/good.gif": "#good#horse",
+            "assets/faces/horse/zero.gif": "#zero#horse",
+            "assets/faces/horse/look.gif": "#look#horse",
+            "assets/faces/horse/huh.gif": "#huh#horse",
+            "assets/faces/horse/nah.gif": "#nah#horse",
+            "assets/faces/horse/sad.gif": "#sad#horse",
+            "assets/faces/horse/shock.gif": "#shock#horse",
+            "assets/faces/horse/what.gif": "#what#horse",
+            "assets/faces/horse/wtf.gif": "#wtf#horse",
+            "assets/faces/horse/zzz.gif": "#zzz#horse",
+            "assets/faces/horse/lihkg.gif": "#lihkg#horse"
         },
         "special": {
-            "assets/faces/snake/hypnosis_connect.gif": "#hypnosis#snake #awake#mouse",
-            "assets/faces/snake/knife_connect.gif": "#knife#snake #stun#rabbit",
-            "assets/faces/snake/shotgun_special.gif": "#shotgun#snake #shotgun#snake #shotgun#snake",
-            "assets/faces/snake/shotgun_special2.gif": "#shotgun#snake #knife#snake",
-            "assets/faces/snake/scream_connect.gif": "#music#rabbit #scream#snake",
-            "assets/faces/snake/eat_special.gif": "#eat#snake #wtf#snake"
-        }
+            "assets/faces/horse/horse_smile3_connect.gif": "#smile3#horse #cut#pig",
+            "assets/faces/horse/selfie_connect.gif": "#selfie#horse #lihkg#mouse"
+        },
+        "showOn": [
+            {
+                "start_time": 1767196799000,
+                "end_time": 1924963199000
+            }
+        ]
     },
     "mouse": {
         "icons": {
@@ -652,6 +659,44 @@
             "assets/faces/dragon/angry_special.gif": "#:-[#dragon #midfinger#dragon",
             "assets/faces/dragon/backpain_connect.gif": "#throw#cat #backpain#dragon",
             "assets/faces/dragon/wheelchair_connect.gif": "#car#cow #wheelchair#dragon"
+        }
+    },
+    "snake": {
+        "icons": {
+            "assets/faces/snake/smile.gif": "#:)#snake",
+            "assets/faces/snake/laugh.gif": "#:D#snake",
+            "assets/faces/snake/nose.gif": "#nose#snake",
+            "assets/faces/snake/want.gif": "#want#snake",
+            "assets/faces/snake/knife.gif": "#knife#snake",
+            "assets/faces/snake/shotgun.gif": "#shotgun#snake",
+            "assets/faces/snake/explosion.gif": "#explosion#snake",
+            "assets/faces/snake/sweat.gif": "#sweat#snake",
+            "assets/faces/snake/write.gif": "#write#snake",
+            "assets/faces/snake/confuse.gif": "#confuse#snake",
+            "assets/faces/snake/wtf.gif": "#wtf#snake",
+            "assets/faces/snake/scream.gif": "#scream#snake",
+            "assets/faces/snake/shock.gif": "#shock#snake",
+            "assets/faces/snake/wow.gif": "#wow#snake",
+            "assets/faces/snake/boring.gif": "#boring#snake",
+            "assets/faces/snake/sad.gif": "#sad#snake",
+            "assets/faces/snake/sad2.gif": "#sad2#snake",
+            "assets/faces/snake/bye.gif": "#bye#snake",
+            "assets/faces/snake/eat.gif": "#eat#snake",
+            "assets/faces/snake/drink.gif": "#drink#snake",
+            "assets/faces/snake/think.gif": "#think#snake",
+            "assets/faces/snake/hypnosis.gif": "#hypnosis#snake",
+            "assets/faces/snake/arcade.gif": "#arcade#snake",
+            "assets/faces/snake/sign.gif": "#sign#snake",
+            "assets/faces/snake/zzz.gif": "#zzz#snake",
+            "assets/faces/snake/lihkg.gif": "#lihkg#snake"
+        },
+        "special": {
+            "assets/faces/snake/hypnosis_connect.gif": "#hypnosis#snake #awake#mouse",
+            "assets/faces/snake/knife_connect.gif": "#knife#snake #stun#rabbit",
+            "assets/faces/snake/shotgun_special.gif": "#shotgun#snake #shotgun#snake #shotgun#snake",
+            "assets/faces/snake/shotgun_special2.gif": "#shotgun#snake #knife#snake",
+            "assets/faces/snake/scream_connect.gif": "#music#rabbit #scream#snake",
+            "assets/faces/snake/eat_special.gif": "#eat#snake #wtf#snake"
         }
     },
     "lm2": {

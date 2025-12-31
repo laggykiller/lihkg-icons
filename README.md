@@ -20,13 +20,14 @@ To manually update:
 | dog | 連狗 | ![smile.gif](assets/faces/dog/smile.gif) | [View](./view/dog.md) |
 | husky | husky | ![smile.gif](assets/faces/husky/smile.gif) | [View](./view/husky.md) |
 | pig | 連豬 | ![smile.gif](assets/faces/pig/smile.gif) | [View](./view/pig.md) |
-| snake | 連蛇 | ![smile.gif](assets/faces/snake/smile.gif) | [View](./view/snake.md) |
+| horse | 連馬 | ![smile.gif](assets/faces/horse/smile.gif) | [View](./view/horse.md) |
 | mouse | 連鼠 | ![smile.gif](assets/faces/mouse/smile.gif) | [View](./view/mouse.md) |
 | cat | 連貓 | ![smile.gif](assets/faces/cat/smile.gif) | [View](./view/cat.md) |
 | cow | 連牛 | ![smile.gif](assets/faces/cow/smile.gif) | [View](./view/cow.md) |
 | tiger | 連虎 | ![smile.gif](assets/faces/tiger/smile.gif) | [View](./view/tiger.md) |
 | rabbit | 連兔 | ![smile.gif](assets/faces/rabbit/smile.gif) | [View](./view/rabbit.md) |
 | dragon | 連龍 | ![smile.gif](assets/faces/dragon/smile.gif) | [View](./view/dragon.md) |
+| snake | 連蛇 | ![smile.gif](assets/faces/snake/smile.gif) | [View](./view/snake.md) |
 | lm2 | 腦魔2 | ![smile.gif](assets/faces/lm2/smile.gif) | [View](./view/lm2.md) |
 | lm2xm | 腦魔2聖誕版 | ![smile.gif](assets/faces/lm2xm/smile.gif) | [View](./view/lm2xm.md) |
 | lm2lny | 腦魔2新年版 | ![smile.gif](assets/faces/lm2lny/smile.gif) | [View](./view/lm2lny.md) |

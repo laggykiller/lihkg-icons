@@ -11,5 +11,5 @@
 | rabbit | `#rabbit#rip` | ![rabbit](../assets/faces/rip/rabbit.gif) | ![rabbit](../assets/faces_png/rip/rabbit.png) |
 | dragon | `#dragon#rip` | ![dragon](../assets/faces/rip/dragon.gif) | ![dragon](../assets/faces_png/rip/dragon.png) |
 | snake | `#snake#rip` | ![snake](../assets/faces/rip/snake.gif) | ![snake](../assets/faces_png/rip/snake.png) |
-| horse | `` | ![horse](../assets/faces/rip/horse.gif) | ![horse](../assets/faces_png/rip/horse.png) |
+| horse | `#horse#rip` | ![horse](../assets/faces/rip/horse.gif) | ![horse](../assets/faces_png/rip/horse.png) |
 

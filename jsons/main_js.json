@@ -82,7 +82,9 @@
             "assets/faces/lihkg/dragon_hb.gif": "#dragon#hb",
             "assets/faces/lihkg/dragon_hb2.gif": "#dragon2#hb",
             "assets/faces/lihkg/snake_hb.gif": "#snake#hb",
-            "assets/faces/lihkg/snake_hb2.gif": "#snake2#hb"
+            "assets/faces/lihkg/snake_hb2.gif": "#snake2#hb",
+            "assets/faces/lihkg/horse_hb.gif": "#horse#hb",
+            "assets/faces/lihkg/horse_hb2.gif": "#horse2#hb"
         },
         "special": {
             "assets/faces/lihkg/rabbit_hb_connect.gif": "#cow2#hb #rabbit2#hb",
@@ -112,7 +114,8 @@
             "assets/faces/rip/tiger.gif": "#tiger#rip",
             "assets/faces/rip/rabbit.gif": "#rabbit#rip",
             "assets/faces/rip/dragon.gif": "#dragon#rip",
-            "assets/faces/rip/snake.gif": "#snake#rip"
+            "assets/faces/rip/snake.gif": "#snake#rip",
+            "assets/faces/rip/horse.gif": "#horse#rip"
         },
         "showOn": [
             {
@@ -401,13 +404,7 @@
         "special": {
             "assets/faces/horse/horse_smile3_connect.gif": "#smile3#horse #cut#pig",
             "assets/faces/horse/selfie_connect.gif": "#selfie#horse #lihkg#mouse"
-        },
-        "showOn": [
-            {
-                "start_time": 1767196799000,
-                "end_time": 1924963199000
-            }
-        ]
+        }
     },
     "mouse": {
         "icons": {

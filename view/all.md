@@ -84,12 +84,12 @@
 | dragon_hb2 | `#dragon2#hb` | ![dragon_hb2](../assets/faces/lihkg/dragon_hb2.gif) | ![dragon_hb2](../assets/faces_png/lihkg/dragon_hb2.png) |
 | snake_hb | `#snake#hb` | ![snake_hb](../assets/faces/lihkg/snake_hb.gif) | ![snake_hb](../assets/faces_png/lihkg/snake_hb.png) |
 | snake_hb2 | `#snake2#hb` | ![snake_hb2](../assets/faces/lihkg/snake_hb2.gif) | ![snake_hb2](../assets/faces_png/lihkg/snake_hb2.png) |
+| horse_hb | `#horse#hb` | ![horse_hb](../assets/faces/lihkg/horse_hb.gif) | ![horse_hb](../assets/faces_png/lihkg/horse_hb.png) |
+| horse_hb2 | `#horse2#hb` | ![horse_hb2](../assets/faces/lihkg/horse_hb2.gif) | ![horse_hb2](../assets/faces_png/lihkg/horse_hb2.png) |
 | rabbit_hb_connect | `#cow2#hb #rabbit2#hb` | ![rabbit_hb_connect](../assets/faces/lihkg/rabbit_hb_connect.gif) | ![rabbit_hb_connect](../assets/faces_png/lihkg/rabbit_hb_connect.png) |
 | dragon_hb_connect | `#dragon#hb #mouse2#hb` | ![dragon_hb_connect](../assets/faces/lihkg/dragon_hb_connect.gif) | ![dragon_hb_connect](../assets/faces_png/lihkg/dragon_hb_connect.png) |
 | dog1 | `` | ![dog1](../assets/faces/lihkg/dog1.gif) | ![dog1](../assets/faces_png/lihkg/dog1.png) |
 | dog2 | `` | ![dog2](../assets/faces/lihkg/dog2.gif) | ![dog2](../assets/faces_png/lihkg/dog2.png) |
-| horse_hb | `` | ![horse_hb](../assets/faces/lihkg/horse_hb.gif) | ![horse_hb](../assets/faces_png/lihkg/horse_hb.png) |
-| horse_hb2 | `` | ![horse_hb2](../assets/faces/lihkg/horse_hb2.gif) | ![horse_hb2](../assets/faces_png/lihkg/horse_hb2.png) |
 
 ## rip [RIP]
 | Filename | Emoji | GIF | PNG |
@@ -104,7 +104,7 @@
 | rabbit | `#rabbit#rip` | ![rabbit](../assets/faces/rip/rabbit.gif) | ![rabbit](../assets/faces_png/rip/rabbit.png) |
 | dragon | `#dragon#rip` | ![dragon](../assets/faces/rip/dragon.gif) | ![dragon](../assets/faces_png/rip/dragon.png) |
 | snake | `#snake#rip` | ![snake](../assets/faces/rip/snake.gif) | ![snake](../assets/faces_png/rip/snake.png) |
-| horse | `` | ![horse](../assets/faces/rip/horse.gif) | ![horse](../assets/faces_png/rip/horse.png) |
+| horse | `#horse#rip` | ![horse](../assets/faces/rip/horse.gif) | ![horse](../assets/faces_png/rip/horse.png) |
 
 ## fifa [FIFA]
 | Filename | Emoji | GIF | PNG |

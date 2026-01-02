@@ -152,6 +152,16 @@
                     "#snake2#hb",
                     "assets/faces/lihkg/snake_hb2.gif",
                     "assets/faces_png/lihkg/snake_hb2.png"
+                ],
+                [
+                    "#horse#hb",
+                    "assets/faces/lihkg/horse_hb.gif",
+                    "assets/faces_png/lihkg/horse_hb.png"
+                ],
+                [
+                    "#horse2#hb",
+                    "assets/faces/lihkg/horse_hb2.gif",
+                    "assets/faces_png/lihkg/horse_hb2.png"
                 ]
             ],
             "sort": 100,
@@ -219,6 +229,11 @@
                     "#snake#rip",
                     "assets/faces/rip/snake.gif",
                     "assets/faces_png/rip/snake.png"
+                ],
+                [
+                    "#horse#rip",
+                    "assets/faces/rip/horse.gif",
+                    "assets/faces_png/rip/horse.png"
                 ]
             ],
             "sort": 110,
@@ -4306,13 +4321,7 @@
                     "assets/faces_png/horse/lihkg.png"
                 ]
             ],
-            "sort": 15,
-            "show_on_2": [
-                {
-                    "start_time": 1767196799000,
-                    "end_time": 1924963199000
-                }
-            ]
+            "sort": 15
         },
         {
             "cat": "mouse",

@@ -397,6 +397,16 @@
                 "#snake2#hb",
                 "assets/faces/lihkg/snake_hb2.gif",
                 "assets/faces_png/lihkg/snake_hb2.png"
+            ],
+            [
+                "#horse#hb",
+                "assets/faces/lihkg/horse_hb.gif",
+                "assets/faces_png/lihkg/horse_hb.png"
+            ],
+            [
+                "#horse2#hb",
+                "assets/faces/lihkg/horse_hb2.gif",
+                "assets/faces_png/lihkg/horse_hb2.png"
             ]
         ],
         "special": [
@@ -419,16 +429,6 @@
                 "",
                 "assets/faces/lihkg/dog2.gif",
                 "assets/faces_png/lihkg/dog2.png"
-            ],
-            [
-                "",
-                "assets/faces/lihkg/horse_hb.gif",
-                "assets/faces_png/lihkg/horse_hb.png"
-            ],
-            [
-                "",
-                "assets/faces/lihkg/horse_hb2.gif",
-                "assets/faces_png/lihkg/horse_hb2.png"
             ]
         ]
     },
@@ -484,15 +484,14 @@
                 "#snake#rip",
                 "assets/faces/rip/snake.gif",
                 "assets/faces_png/rip/snake.png"
-            ]
-        ],
-        "special": [
+            ],
             [
-                "",
+                "#horse#rip",
                 "assets/faces/rip/horse.gif",
                 "assets/faces_png/rip/horse.png"
             ]
-        ]
+        ],
+        "special": []
     },
     "fifa": {
         "pack_name": "FIFA",
